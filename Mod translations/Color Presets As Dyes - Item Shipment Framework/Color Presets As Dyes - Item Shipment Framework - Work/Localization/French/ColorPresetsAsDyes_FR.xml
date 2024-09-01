@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hf0c16640gb58bg4c97g91edga09bfc84a969" version="1">Contient une teinture sur le thème de chaque personnage.</content>
+	<content contentuid="h6e71d732gf901g42fagb372g889e85a08585" version="1">Râtelier de teintures sur le thème des personnages.</content>
+	<content contentuid="h3827d2f9g8aacg4c0eg83b2gb0360ab70378" version="1">Isobel : Servante de Séluné</content>
+	<content contentuid="h65f49d42g02c6g410fga59fg4f2630920d96" version="1">Aylin : Épée de la Fille de la Lune</content>
+	<content contentuid="h57564775gd781g481fga539g17bb748a4d6a" version="1">Karlach : Ami fougueuse</content>
+	<content contentuid="h316bda02g1c13g43ecgbeb3gcbb03dc37507" version="1">Karlach : Fléau d'Avernus</content>
+	<content contentuid="he222586eg578eg41cag878bg11223c267c1d" version="1">Lae'zel : Guerrière Githyanki</content>
+	<content contentuid="h13664db3g5f48g4120ga776g96cd86e62cb3" version="1">Lae'zel : Combattante de la liberté</content>
+	<content contentuid="hbeaa6b80ga2dcg4d42gab33g369bf1870f8b" version="1">Lae'zel : Vagabond de Faerûn</content>
+	<content contentuid="hff2048b6g3927g41a7g9f69g51c43aae5166" version="1">Ombrecœur : Fille des Ténèbres</content>
+	<content contentuid="h8a399ca2g9abdg43d2g8ac2gf3e87845ed3b" version="1">Ombrecœur : Aspirant Justicière Noir</content>
+	<content contentuid="h0ca55e84g4f67g4cf6gb5f6gc430f1ecb3c1" version="1">Ombrecœur : Élu Justicière Noir</content>
+	<content contentuid="h858b217dga8c1g416bg9fddgfd29db712885" version="1">Ombrecœur : Espoir de Séluné</content>
+	<content contentuid="ha7fe8b6dg387bg4292gaa2egaa7f85ce85c6" version="1">Ombrecœur : Mère Supérieure</content>
+	<content contentuid="h05972b7cg2002g49b8gbbacgf02ba94a9f24" version="1">Minthara : Gardien de la nuit</content>
+	<content contentuid="h47ac5e14g9236g4dd9g8ac6g371fb66d3a7d" version="1">Minthara : Obsidional</content>
+	<content contentuid="hece561e5ge2f7g4cb8g863cg88a9091e392d" version="1">Minthara : Retour aux Enfers</content>
+	<content contentuid="h843fb4e7g4b1cg446egbb20g182ed6846b51" version="1">Jaheira : Grand Harpiste</content>
+	<content contentuid="h59ae80a2g4294g41d8g94f7g01b39874451e" version="1">Jaheira : Douce retraite</content>
+	<content contentuid="hcf273f18gf0edg406dg8ec6g2ffc8e865a4a" version="1">Astarion : Elfe pâle</content>
+	<content contentuid="hcb669e23g7a41g4c24g9463g6b85c46a3239" version="1">Astarion : Héros et aventurier</content>
+	<content contentuid="ha0d11c45g9ea2g4fbfg8688g67aa96bb8d4b" version="1">Astarion : Seigneur Vampire</content>
+	<content contentuid="hd13341eag6437g4049gba81g92f173d83b18" version="1">Gayle : Magicien d'Eauprofonde</content>
+	<content contentuid="hdf6d844cg7c02g4898g8ecbge1ab9bfa6d03" version="1">Gayle : Professeur Dekarios</content>
+	<content contentuid="hd620baebg1a33g46fbg8202g4253036dae95" version="1">Gayle : Dieu de l'ambition</content>
+	<content contentuid="h952b7b57g2664g474agb78bg69725dbe2aaa" version="1">Wyll : Épée des confins</content>
+	<content contentuid="h7cefdb53g1b46g4239g8140gcf193e942f68" version="1">Wyll : Duc de la Porte de Baldur</content>
+	<content contentuid="h763a1414g1529g4e2dgb9d6ge0415c8dd034" version="1">Halsin : Archidruide</content>
+	<content contentuid="hc457d00bg53fcg4158g915cgbf6d3787dd7c" version="1">Halsin : Gardien de Reithwin</content>
+	<content contentuid="h5d622732gead3g48c2g99bfgcaf9c4886dcc" version="1">Minsc : Berserker de Rashemie</content>
+	<content contentuid="h31340e06gc343g49cagb7adgb1ca15e630fd" version="1">Minsc : Gardien de la paix</content>
+	<content contentuid="h27f8a245g688bg440ega5d2g81e2bc626f9f" version="1">Flétriss : Scribe</content>
+	<content contentuid="h43c573cbgd38cg433dgbf3ag84a5a40f376f" version="1">Volo : Plume et pioche</content>
+	<content contentuid="hf59ed981gd6ffg42aagafb5g5f3c579ac66f" version="1">Elminster : Sage de Valombre</content>
+	<content contentuid="h5a80cc03gc2dcg452dg9db6g16db9994ba62" version="1">Gardien des rêves en armure</content>
+	<content contentuid="h76d9cf6bg951ag484eg9854g439ebaa7ce23" version="1">Gardien de rêve en combishort</content>
+	<content contentuid="h4225c5f7g7bc2g411ag9a48g4f86a12f8407" version="1">Mizora et Raphael : Diables notable</content>
+	<content contentuid="hc40cc52cg1e2eg4fbeg8f26g204f25603ccb" version="1">Milil : Divinité du chant</content>
+	<content contentuid="hd10cd7a8g8efeg4759g9d49g925d6a943d0d" version="1">Briseur de serment</content>
+	<content contentuid="h044a1376g75d0g4ba3gac7eg3a61db8674b5" version="1">Ketheric : Général</content>
+	<content contentuid="h9b423e1agfd19g499cg9402gc77d1c56cac7" version="1">Gortash : Archiduc</content>
+	<content contentuid="h15187e48gd489g404agbfaeg449d2e5f6f37" version="1">Orin : Usurpateur</content>
+	<content contentuid="h97ee7c4bgafe0g4946gabeagc6a42c3f1220" version="1">Vlaakith : Reine-liche</content>
+	<content contentuid="he3eb8558g68c4g46d6g98a6g06131a132f43" version="1">Tissage bleu</content>
+	<content contentuid="h65544afcg6905g43dag839agba1492f5f5b1" version="1">Contient un colorant thématique de chaque classe.</content>
+	<content contentuid="h99d9d7f7gcd62g4e05ga23eg4f716934cb8e" version="1">Râtelier de teintures sur le thème de la classe</content>
+	<content contentuid="h30401fcdga57bg4891gbd17gf9e7a37729eb" version="1">Barbare</content>
+	<content contentuid="h33df06d0g6d30g4a63g8115gb4f41dd79303" version="1">Barde</content>
+	<content contentuid="h33595674gfc1cg4c4fgbdbbg6d89c8c2d6ef" version="1">Clerc</content>
+	<content contentuid="hf500dfc5g6d97g4668g9bb7g8c7a416665bf" version="1">Druide</content>
+	<content contentuid="h2890870fgc502g46d6g8cebg92bc3aa1f793" version="1">Guerrier</content>
+	<content contentuid="h204bef41g443dg41e4g852dg9143df254a58" version="1">Moine</content>
+	<content contentuid="h10520ea1ga5d4g46edg9073gd62c31bd24bc" version="1">Paladin, Serment des Anciens</content>
+	<content contentuid="h1db11697g6e63g4d36gb6dfgb0ccfd77eb7e" version="1">Paladin, serment de Dévotion</content>
+	<content contentuid="hf4f6430cg8e76g4400gb021g2ede5669d2fe" version="1">Paladin, Serment de Vengeance</content>
+	<content contentuid="he402be6ag4036g4446g8009g985821474032" version="1">Rôdeur</content>
+	<content contentuid="hcff354dcg5063g4257gb859g70479ddd8b26" version="1">Roublard</content>
+	<content contentuid="ha0b79ad8g8360g435aga64fg85969e1aee55" version="1">Sorcier, Magie Sauvage</content>
+	<content contentuid="h32f392a6gb479g47a0gac55gdacdc102de4c" version="1">Sorcier, lignée draconique</content>
+	<content contentuid="hd293c134gde3eg4412g9e05g9204c75090e1" version="1">Sorcier, sorcellerie des tempêtes</content>
+	<content contentuid="hf83803d4ge264g4791gbeaegcad51ac37eab" version="1">Occultiste</content>
+	<content contentuid="h77f51751g50a4g476bg96e6g74073389eb54" version="1">Magicien</content>
+</contentList>

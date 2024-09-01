@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contentList>
+  <content contentuid="b44cddbcc9844539b0285168b5998357" version="4">Armure en cuir</content>
+  <content contentuid="7d4f2d8786154e938eca670b6e150798" version="4">L'armure en cuir fournit une classe d'armure de base de 13.</content>
+  <content contentuid="7e860184cd8a4fdd9b34f508c458d4e1" version="4">Armure rembourrée</content>
+  <content contentuid="fb5ba0283a5a4273a90622c997b29f35" version="4">L'armure rembourrée fournit une classe d'armure de base de 12 et 1 points de réduction des dommages physiques.</content>
+  <content contentuid="4522899186ed4a3c83919c456ead62a2" version="4">Armure en cuir clouté</content>
+  <content contentuid="cbec8652a6bf49b2aff2ff29ae8cafa3" version="4">L'armure en cuir cloutée fournit une classe d'armure de base de 13 et 1 points de réduction des dommages physiques.</content>
+
+  <content contentuid="4fe09ef857bf420691eeb53eee173c53" version="4">Armure de peau</content>
+  <content contentuid="2371519e15a14f328d4dfaea36344563" version="4">L'armure de peau fournit une classe d'armure de base de 11 et 2 points de réduction des dommages physiques.</content>
+  <content contentuid="1c7b766abdf14bada29e454a069cbcda" version="4">Chemise de mailles</content>
+  <content contentuid="6e7855316add4ec580eab41aa96cc513" version="4">La chemise de mailles fournit une classe d'armure de base de 12 et 2 points de réduction des dommages physiques.</content>
+  <content contentuid="b46a8a4f40b14218b680569483dc91cb" version="4">Cuirasse</content>
+  <content contentuid="09b9a22134494bc6974a538989945105" version="4">La cuirasse fournit une classe d'armure de base de 11 et 3 points de réduction des dommages physiques.</content>
+  <content contentuid="06301ad3f2bb44b8bacfd0be0cd02241" version="4">Plastron</content>
+  <content contentuid="53c237293c694f9b97895de5c6cebe2e" version="4">Le plastron fournit une classe d'armure de base de 12 et 3 points de réduction des dommages physiques.</content>
+  <content contentuid="56cf75d19cd54dfba7aa422a4bf89f8f" version="4">Demi-plaque</content>
+  <content contentuid="4bcf41e55b5a40b0ab384ade418291b0" version="4">La demi-plaque fournit une classe d'armure de base de 11 et 4 points de réduction des dommages physiques.</content>
+
+  <content contentuid="f3ca708d9d364096b2a18e2425d85b5d" version="4">Broigne</content>
+  <content contentuid="e90f432364b64b429b84d7369970503d" version="4">La broigne fournit une classe d'armure de base de 10 et 5 points de réduction des dommages physiques.</content>
+  <content contentuid="9f0ea52d15b34969986c81e2cfc0fe59" version="4">Cotte de mailles</content>
+  <content contentuid="16e9828cdd4746d0a28f6e547abc4b3a" version="4">La cotte de mailles fournit une classe d'armure de base de 10 et 6 points de réduction des dommages physiques.</content>
+  <content contentuid="8bd195c009184d7ebaff3d26fe5dd1ae" version="4">Armure à plaques</content>
+  <content contentuid="5789c572efe64afeb134c0159b4f3f3d" version="4">L'amure à plaques fournit une classe d'armure de base de 9 et 7 points de réduction des dommages physiques.</content>
+  <content contentuid="77396bf8006f4ee1bff660552f5e546a" version="4">Clibanion</content>
+  <content contentuid="cddf3c8a36e049f9b20ded7614e2e0a2" version="4">Le clibanion fournit une classe d'armure de base de 8 et 7 points de réduction des dommages physiques.</content>
+
+  <content contentuid="b31d8f9a655c405a9042f488c7cfc5ae" version="4">Les dommages physiques reçus  sont réduits de 2 tant que vous ne portez pas d'armure intermédiaire ou lourde.</content>
+  <content contentuid="5f11ef4f2d454e0abf2ce6427e87f637" version="4">Des écailles de même type qu'un dragon couvrent certaines parties de votre peau. Lorsque vous ne portez pas d'armure, les dommages physiques reçus sont réduits de 2.</content>
+  <content contentuid="4b577c92a6404d6f9299d1ba447dcdfa" version="4">Protége une créature qui ne porte pas d'armure lourde contre les attaques: réduit les dommages physiques reçus de 2.</content>
+  <content contentuid="731c711a6f3743fabbe8e859ceaae0dc" version="4">&lt;LSTag Tooltip="Vulnerable"&gt;Vulnérable&lt;/LSTag&gt; pour matraquer, percer et réduire les dégâts. </content>
+  
+  <content contentuid="cf30036f65814d419a85370f85ac57e2" version="4">Lorsque vous portez une armure moyenne, elle n'impose pas de &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; à vos &lt;LSTag Tooltip="AbilityCheck"&gt;Jets&lt;/LSTag&gt; de Furtivité, ne vous ralentit pas et réduit en outre tous les dommages physiques reçus de 1. </content>
+  <content contentuid="ca651d9944b54ad8b4f1aa0cea07b884" version="4">Lorsque vous portez une armure lourde, elle réduit en plus tous les dommages physiques reçus de 2.</content>
+  
+  <content contentuid="db8155db9a7a40b5ac331713163167a3" version="2">Vous obtenez une points de réduction des dégâts physiques de +1 tout en portant une armure.</content>
+  <content contentuid="375406973b7c4120b2bfc55f742aad09" version="2">Agilité</content>
+  <content contentuid="c049a52aef49415796759ccca882eeec" version="2">Vous gagnez un bonus de +1 à votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'armure&lt;/LSTag&gt; tant que vous ne portez pas d'armure lourde. </content>
+</contentList>

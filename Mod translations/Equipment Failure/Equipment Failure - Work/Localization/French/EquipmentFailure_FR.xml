@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h1afaec519e374d43a3c7f7f554b0406fe2b9" version="1">Amulette déchargée !</content>
+	<content contentuid="hfe480d6f19a54214b956788590ecf27feb28" version="1">Bottes élimées !</content>
+	<content contentuid="hbf649e6eb1e24525a7ae7629934ccf160adb" version="1">Armure détèriorées !</content>
+	<content contentuid="h0761ad56028340db9b01017faf00ae12cc28" version="1">Cape déchirée !</content>
+	<content contentuid="h6cd656df60d34210873a6b0db8c1994agab5" version="1">Gants abimés !</content>
+	<content contentuid="h0f1c564f795845d9827d0a8e4189324ebd9e" version="1">Casque brisé !</content>
+	<content contentuid="hc7e29ee523ff4beb825274c31e163c91555d" version="1">Arme de mêlée cassée !</content>
+	<content contentuid="hf6315c171da14da0a7bba746d45c0ce7gf6g" version="1">Arme de mêlée ( main secondaire ) cassée !</content>
+	<content contentuid="h3bea19d1ef8648438ba25b687c5d40068agg" version="1">Arme à distance cassée !</content>
+	<content contentuid="hc886f8ab1c4c4b298decc524c067c2c1c323" version="1">Arme à distance ( main secondaire ) cassée !</content>
+	<content contentuid="h242731f104794848acabae420c1e42f715fc" version="1">Anneau épuisé !</content>
+	<content contentuid="hd5a229015e0140e387053358e2163922612f" version="1">Anneau épuisé !</content>
+	<content contentuid="he5a76bbb1d0f434fb37b322fbbda5dac67e9" version="1">Sous-vêtements usités !</content>
+	<content contentuid="h6f62f7cb74bb43cfb672b5e05429133065fc" version="1">Vêtements de camp passés !</content>
+	<content contentuid="h2ff0cf4951294b5994ac5b0f22495b8574c8" version="1">Bottes de camp fatiguées !</content>
+	<content contentuid="ha9cdb2898d69447bb701ea09814d2ab18f4d" version="1">Amulette tenu !</content>
+	<content contentuid="h1c2f0372830144e3900d5ead04fa8a13ca18" version="1">Bottes tenu !</content>
+	<content contentuid="hd7e14be588c142bf9c37476d7bc54fe399a7" version="1">Armure tenu !</content>
+	<content contentuid="h2d97461f5dd74fa4a82fe07efc58133018fe" version="1">Cape tenu !</content>
+	<content contentuid="hf300462ee54f4561b1d45d671a8ae7aeef0b" version="1">Gants tenu !</content>
+	<content contentuid="h1b534d00b3594258b0bc9e60db6e957dfada" version="1">Casque tenu !</content>
+	<content contentuid="hec6f728259e04b6a81664b20f47434a4fbe1" version="1">Arme de mêlée tenu !</content>
+	<content contentuid="hdd128f3f86564c9fbc8bc0902a2313dbff9d" version="1">Arme de mêlée ( main secondaire ) tenu !</content>
+	<content contentuid="had975425c36a4a24991159922e5887268bd5" version="1">Arme à distance tenu !</content>
+	<content contentuid="h4771ba2a2b924f1abe4598ebf9ec8aff3fa8" version="1">Arme à distance ( main secondaire ) tenu !</content>
+	<content contentuid="h0176b542a7d04114b5b04549655b6c33a770" version="1">Anneau tenu !</content>
+	<content contentuid="h536fc2b2e4384c5ea9f33d5a2b40861a540e" version="1">Anneau tenu !</content>
+	<content contentuid="hcc88d7d370024744acf4663e7553e49ec6bc" version="1">Sous-vêtements tenu !</content>
+	<content contentuid="hb66557df152c448b815051f8c8c6d6a68b1e" version="1">Vêtements de camp tenu !</content>
+	<content contentuid="h0a204ae6fad4485396e12b0242f1e55214ab" version="1">Bottes de camp tenu !</content>
+</contentList>

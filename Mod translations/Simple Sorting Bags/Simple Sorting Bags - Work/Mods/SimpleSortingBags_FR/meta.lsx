@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="900"/>
+  <region id="Config">
+    <node id="root">
+      <children>
+        <node id="Dependencies"/>
+        <node id="ModuleInfo">
+          <attribute id="Author" type="LSString" value="Aqu1lae"/>
+          <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
+          <attribute id="Description" type="LSString" value="Tranduction française du mod -Simple Sorting Bag- de retroversion."/>
+          <attribute id="Folder" type="LSString" value="SimpleSortingBags_FR"/>
+          <attribute id="GMTemplate" type="FixedString" value=""/>
+          <attribute id="LobbyLevelName" type="FixedString" value=""/>
+          <attribute id="MD5" type="LSString" value=""/>
+          <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
+          <attribute id="MenuLevelName" type="FixedString" value=""/>
+          <attribute id="Name" type="FixedString" value="SimpleSortingBags_FR"/>
+          <attribute id="NumPlayers" type="uint8" value="4"/>
+          <attribute id="PhotoBooth" type="FixedString" value=""/>
+          <attribute id="StartupLevelName" type="FixedString" value=""/>
+          <attribute id="Tags" type="LSWString" value="translation;french"/>
+          <attribute id="Type" type="FixedString" value="Add-on"/>
+          <attribute id="UUID" type="FixedString" value="46ea2467-79b3-49b1-b6e5-fd798c37eb3a"/>
+          <attribute id="Version64" type="int64" value="36591757709803520"/>
+          <children>
+            <node id="PublishVersion">
+              <attribute id="Version64" type="int64" value="36591757709803520"/>
+            </node>
+            <node id="Scripts"/>
+            <node id="TargetModes">
+              <children>
+                <node id="Target">
+                  <attribute id="Object" type="FixedString" value="Story"/>
+                </node>
+              </children>
+            </node>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

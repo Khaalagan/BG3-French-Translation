@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h4903028cg3313g480ag9ef9gfb89d7174d76" version="1">Pochette de magnétites</content>
+	<content contentuid="hf9dca9cdgf59cg4a29g988agb41daba02320" version="1">Cette pochette contient toujours des pierres qui peuvent invoquer et revoquer vos compagnons.</content>
+	<content contentuid="h967fb663ga8b1g4decgad50ge3c0f81f9184" version="1">Une magie particulière est tissée dans ce velours capable d'invoquer des alliés à longue distance.</content>
+
+<!-- Dummy -->
+	<content contentuid="h03a0f6eag7066g473bg80a1g4e8004ee65d3" version="1">Invoquer [1]</content>
+	<content contentuid="hf6f0de61g2520g44d2g9fd6g79756035a87a" version="1">Invoque [1] à vos côtés. Vous devez être un avatar, avoir accès au camp et disposer d'une place disponible. Le recrutement ne fonctionne pas si vous ou [1] êtes au combat, frappés d'incapacité ou morts.</content>
+	<content contentuid="he76be815g8a42g4813g895fg58c452e33e78" version="1">Revoquer [1]</content>
+	<content contentuid="hcb3c7bcagc0e6g4e14ga8dag989b90df2391" version="1">Renvoie [1] au camp. Vous devez être un avatar, avoir accès au camp et contrôler [1]. Le renvoi ne fonctionne pas si vous ou [1] êtes au combat, frappés d'incapacité ou morts.</content>
+	<content contentuid="hbfe656f3g9881g4509g97c7g886a2386d298" version="1">Cette pierre vibre doucement mais résolument dans la paume de votre main, comme si elle était à l’aube d’un mouvement beaucoup plus important.</content>
+<!---->
+	<content contentuid="h225fce08ge4edg451bg9fe4g4648ca103a3e" version="1">Invocation d'Astarion</content>
+	<content contentuid="h9f4c084bg4386g4e03ga9b2g9314c73b52c5" version="1">Description technique d'Astarion</content>
+	<content contentuid="h24e8858fg2485g485ega5efgf5613ac6bd50" version="1">Cette pierre blanche nacrée est mélangée à un rouge brillant qui cache une intention sinistre.</content>
+
+	<content contentuid="hbd51dc8ag4da9g431cgb133g5bfe065f7c11" version="1">Invocation de Gayle</content>
+	<content contentuid="h17b0d355g089bg428cgab6cg1f0d2f1ff791" version="1">Description technique de Gayle</content>
+	<content contentuid="h8a802c9bg03c7g47edgad6egcd7410cae84b" version="1">Le violet profond de cette pierre est brisé par un éclat d’or qui respire la faveur divine.</content>
+
+	<content contentuid="h9f0ff0d9gd88fg40a1g9773g52eb82a7f82c" version="1">Invocation de Halsin</content>
+	<content contentuid="h9b749d21g959cg4438gabb3g942a5a24765a" version="1">Description technique Halsin</content>
+	<content contentuid="h2c6cce44gab59g4c48ga6ffg229c6885a648" version="1">Verdoyante et tachetée de brun miel, l'apparence simpliste de cette pierre cache une profonde sagesse.</content>
+
+	<content contentuid="h9a752ca3gd116g4c5dg8055g32bf8ca2022f" version="1">Invocation de Jaheira</content>
+	<content contentuid="h309c4ac1g32ceg44f7gac33g3754b7a8b5a1" version="1">Description technique de Jaheira</content>
+	<content contentuid="h6cf90319g6d20g4ac7ga16ag14068a3265a0" version="1">Cette pierre de jade est brossée d'un bronzage qui abrite une expérience et une confiance éprouvée au combat.</content>
+
+	<content contentuid="hf9323076g0a20g4733g8194g95cabfb8cc02" version="1">Invocation de Karlach</content>
+	<content contentuid="h066bc342ga14fg4576ga55bg2480f103dbc5" version="1">Description technique de Karlach</content>
+	<content contentuid="h87b1a325g00cbg423fgb969ga9a8041ed5b7" version="1">À l’intérieur de cette pierre fumante se trouve un cœur qui brûle pour l’indépendance.</content>
+
+	<content contentuid="hc9590f3cgd559g4f0cgbd48g2d19562ec125" version="1">Invocation de Laezel</content>
+	<content contentuid="h014e5773g13e5g4267g8e5eg91a2f5ef4aab" version="1">Description technique de Laezel</content>
+	<content contentuid="h06a3021egc8feg4eb6gb257ga35f78a546df" version="1">Des stries noires dansent à travers cette pierre jaune-vert, évoquant l'harmonie entre discipline et loyauté.</content>
+
+	<content contentuid="h4c99196dg6101g4785gb77ag842f82bc849e" version="1">Invocation de Minsc</content>
+	<content contentuid="h993b131eg02aeg4169g8334g1a66f46b90b9" version="1">Description technique Minsc</content>
+	<content contentuid="h6d17c6d2g78b9g4d40g8a1dgcb56b939efb0" version="1">L’orange et le blanc se superposent à un brun charismatique dans un esprit de camaraderie et de compassion inébranlables.</content>
+
+	<content contentuid="h8b52e136gf45cg4564ga0b3gf02bf8b13ddf" version="1">Invocation de Minthara</content>
+	<content contentuid="hcd4b830ege9ebg4368gb0bdg69b1f33d0edc" version="1">Description technique de Minthara</content>
+	<content contentuid="hb9e991aag0c42g4a70g8685g32389ae999fe" version="1">L'autorité, la supériorité et la ténacité trouvent une représentation égale dans l'apparence pittoresque du bleu, de l'or et de l'argent de cette pierre.</content>
+
+	<content contentuid="hf05a5ed0gb3e8g4ae9g9c24gf72837d711d7" version="1">Invocation d'Ombrecœur </content>
+	<content contentuid="ha22beeadg5b52g4234g898fg80e8a8e50aec" version="1">Description technique d'Ombrecœur</content>
+	<content contentuid="h156302f6g227ag4f86gbfb9g35c13203decc" version="1">Le noir abyssal de cette pierre est mêlé d'un violet subtil, soulignant la fidélité au secret.</content>
+
+	<content contentuid="he1001661ga254g4ed6gb2c4g9800d789308e" version="1">Invocation de Wyll</content>
+	<content contentuid="hb906c941g3d79g49e3g9076g0211fc2f4855" version="1">Description technique de Wyll</content>
+	<content contentuid="h795d066fg3ed8g4f95g88c4g1b8c4ec97d4a" version="1">Le vert surnaturel qui recouvre cette pierre travaille sans relâche à étouffer sa vertu.</content>
+
+	<content contentuid="h0117072cg3255g4b99g916bg350b2377853b" version="1">Invocation générique_1</content>
+	<content contentuid="h5fb4b2cdgc6f3g497bg82f1g8da3fc9750d8" version="1">Description technique générique_1</content>
+	<content contentuid="h5e85a091g8f2eg4ac1ga44bg7583da808d93" version="1">Générique_1 Description de goût</content>
+
+	<content contentuid="ha65da763g2161g4241g9704g722b42caf822" version="1">Invocation générique_2</content>
+	<content contentuid="h2ae26fc9ga480g41f8gbd80g03ffabba61a0" version="1">Générique_2 Description technique</content>
+	<content contentuid="ha6fcebedg926eg44e8g8607gfbe7feae8a81" version="1">Générique_2 Description de goût</content>
+
+	<content contentuid="hfa0ee75ag2cddg4865g8021g51052b29c648" version="1">Invocation générique_3</content>
+	<content contentuid="h17daab0cg76b9g48dfga57fgcc11a4852f8e" version="1">Description technique générique_3</content>
+	<content contentuid="he324efbegbe13g4577g8d5bg4f381e807c6f" version="1">Description de goût générique_3</content>
+
+	<content contentuid="h86180175gda87g4fe5gae89gac4acbb63106" version="1">Invocation générique_4</content>
+	<content contentuid="h372168f1g8e40g4ae3gaa38gc42f5467b019" version="1">Générique_4 Description technique</content>
+	<content contentuid="h6fed57f5g60c5g410egab58gf16e031f12b1" version="1">Description de goût Generic_4</content>
+
+	<content contentuid="hf53f56dfga61bg4c7fg80ccg2935250299dc" version="1">Invocation générique_5</content>
+	<content contentuid="ha1d1af17g8035g4fe4g984fg422edc4d276b" version="1">Description technique générique_5</content>
+	<content contentuid="he140a387g419eg41d4ga4cag9eca5651a1ba" version="1">Description de goût générique_5</content>
+
+	<content contentuid="h31db9456gafe1g40efg8300g29d1c9ee2a69" version="1">Invocation générique_6</content>
+	<content contentuid="hb76879f4g33d7g4376g8bf2ga85e2ea481da" version="1">Générique_6 Description technique</content>
+	<content contentuid="hb9f9916cg0075g491cgae1fg7c49d992e315" version="1">Description de goût Generic_6</content>
+
+	<content contentuid="h7bc62497g22ceg4f09g9755g97a6192e3fc9" version="1">Invocation générique_7</content>
+	<content contentuid="h7925770dgf7e2g4b9fgad8cgfe0817b60f68" version="1">Générique_7 Description technique</content>
+	<content contentuid="h8af8680fg3fd8g483fgabb9ge9213ec32c1a" version="1">Description de goût Generic_7</content>
+
+	<content contentuid="hcd0d593bg467eg4196g915bga700838b7b92" version="1">Invocation générique_8</content>
+	<content contentuid="h8fdaaea0gb580g4a5dg84cfg710772eb6e63" version="1">Description technique générique_8</content>
+	<content contentuid="h7e5bdf1eg6373g4da7g9820gb4d7a81d0732" version="1">Description de goût Generic_8</content>
+
+	<content contentuid="h5f454dfegec5bg4cc0gb04ag79bc8be19fe7" version="1">Invocation générique_9</content>
+	<content contentuid="h269d8854gc7aag485bgb0fdgf84245a75e7a" version="1">Description technique générique_9</content>
+	<content contentuid="h7fe95af4g92a7g4307g9fe8g9570c9fa8cb1" version="1">Description de goût générique_9</content>
+
+	<content contentuid="hc54f7195gdde2g4dd0g9825g544071e8df34" version="1">Invocation générique_10</content>
+	<content contentuid="hd0575832g51afg41f9g93fag21ef1d50afc9" version="1">Générique_10 Description technique</content>
+	<content contentuid="hc05eec2fge07cg40e8g8131gd9f294b4718f" version="1">Générique_10 Description de goût</content>
+
+	<content contentuid="hfb6f0d04gaf18g4574gb891gf7a8944ac261" version="1">Invocation générique_11</content>
+	<content contentuid="h9826616dg5a20g401ag97ecg5828d433e5f5" version="1">Générique_11 Description technique</content>
+	<content contentuid="heaca12d0g22aag46fega348g82758bda4042" version="1">Générique_11 Description de goût</content>
+
+	<content contentuid="ha1130a66g821cg44d9g956cg0a7a4bbb2086" version="1">Invocation générique_12</content>
+	<content contentuid="h3a42abb6g8673g4ba9gb8d2g59d42ef76056" version="1">Générique_12 Description technique</content>
+	<content contentuid="h9927d178g4596g4c20gbb2dgd6f359591389" version="1">Générique_12 Description de goût</content>
+
+	<content contentuid="h39a4d1d4ged0cg4d02g955cg843f318d50a7" version="1">Invocation générique_13</content>
+	<content contentuid="h3df45ac9g2502g4f18g9d0ag7303f037d3a7" version="1">Générique_13 Description technique</content>
+	<content contentuid="h7b7d25ddg3007g4e30gb1bbgdc4482f6ee0d" version="1">Générique_13 Description de goût</content>
+
+	<content contentuid="heb0ca3dcgbc55g474dgbb87g0993782d245d" version="1">Invocation générique_14</content>
+	<content contentuid="he71d83abgef74g4df1ga593g50d58eea8386" version="1">Générique_14 Description technique</content>
+	<content contentuid="h1ca9527ag35fag44e6g8e0bg1c12b0af6422" version="1">Générique_14 Description de goût</content>
+
+	<content contentuid="hcb07eb82g3f62g4fadgbf02g569172627c3f" version="1">Invocation générique_15</content>
+	<content contentuid="hccc9e0b8ga652g48c8g87f6g086342e17a26" version="1">Générique_15 Description technique</content>
+	<content contentuid="h4e898229g58d3g414bg8d10g34a9721e9a48" version="1">Générique_15 Description de goût</content>
+
+	<content contentuid="haf2a49c4gead8g4f45g8a44g398ba14b0894" version="1">Invocation générique_16</content>
+	<content contentuid="h29d1e46bgf76cg48a1gb1c7gb84d2c54888e" version="1">Générique_16 Description technique</content>
+	<content contentuid="h2cca4a97g1d2bg456bgb1bcgcad146cce6d2" version="1">Générique_16 Description de goût</content>
+
+	<content contentuid="hc7a72440g1bb0g47b2gacf9gbef88971e739" version="1">Invocation générique_17</content>
+	<content contentuid="h1c848665g8f42g452aga085gdacf6cbad816" version="1">Générique_17 Description technique</content>
+	<content contentuid="h60bde34fg23b5g4070ga110ge2e7d77d4b41" version="1">Générique_17 Description de goût</content>
+
+	<content contentuid="h5708375eg2630g418fgb558g14d13bcf93b5" version="1">Invocation générique_18</content>
+	<content contentuid="h3b1a5f43g32deg4ba9ga932g867b1efcfa65" version="1">Générique_18 Description technique</content>
+	<content contentuid="h80c8e98bga613g4eb7g9460gf7bf8c2be1f5" version="1">Générique_18 Description de goût</content>
+
+	<content contentuid="h9ef58c74gfb82g4d25gbeedg6b005c7e4ab8" version="1">Invocation générique_19</content>
+	<content contentuid="hd757e932g250eg47eegbfb9g064efc6c75e2" version="1">Générique_19 Description technique</content>
+	<content contentuid="h3864d638gb50dg41d0g991cge05ee0654d86" version="1">Générique_19 Description de goût</content>
+
+	<content contentuid="hae99e750g5d94g4547ga16cg43a766e2f95f" version="1">Invocation générique_20</content>
+	<content contentuid="hbd8296b5g5256g4331ga6f8g5b0c6b46bc02" version="1">Générique_20 Description technique</content>
+	<content contentuid="h529aed68g8418g4894gb9deg796d25eb7e4f" version="1">Générique_20 Description de goût</content>
+
+	<content contentuid="h7ccf9c31g530fg4188g868fg83d0210e0fe4" version="1">Invocation générique_21</content>
+	<content contentuid="h5ec929c1g47aag49fag8042ga781bfb84ef1" version="1">Générique_21 Description technique</content>
+	<content contentuid="h0e63fc58g9227g49b6gb268g399c288e868d" version="1">Description de goût Generic_21</content>
+
+	<content contentuid="h65d13952g585bg46e2g85b0g1e882a23a52d" version="1">Invocation générique_22</content>
+	<content contentuid="h73c0d5c1g21d2g4044gb868g45b8387418c8" version="1">Générique_22 Description technique</content>
+	<content contentuid="h47476ed2g1c3ag4544gaaacg771458fcecad" version="1">Description de goût Generic_22</content>
+
+	<content contentuid="h6fc0ac9agf5d1g4b08gb6f9g6884d13c4a37" version="1">Invocation générique_23</content>
+	<content contentuid="h6765df7fg97e2g4599g9ca9gf77b4e40b005" version="1">Générique_23 Description technique</content>
+	<content contentuid="hec6edf1bg1136g4ba7gbdc8g733045068745" version="1">Description de goût Generic_23</content>
+
+	<content contentuid="h3573fb4egb322g414fgbb80g4ff8f5f69f97" version="1">Invocation générique_24</content>
+	<content contentuid="h9cf7e3f8g3e8ag42cag9e52g83249175817c" version="1">Générique_24 Description technique</content>
+	<content contentuid="h1b10e07dg6275g4458gb10eg57f7f2701db7" version="1">Description de goût Generic_24</content>
+
+	<content contentuid="h0c11f56bg619bg4d35g89d1gd1358d8af1f8" version="1">Invocation générique_25</content>
+	<content contentuid="h1c34a99cg80fcg4e65gba09g774ac43cd1db" version="1">Générique_25 Description technique</content>
+	<content contentuid="hecafa9d2gd789g4b3egb5dfgc5545875f8fe" version="1">Description de goût Generic_25</content>
+
+	<content contentuid="hd52ee6d7g6c5cg4ba9g8159g2e866434f739" version="1">Invocation générique_26</content>
+	<content contentuid="h02fdc20dge614g43f6gba94gcbc5848e1194" version="1">Générique_26 Description technique</content>
+	<content contentuid="h775026afg7af8g4227g97adgb89fcc088906" version="1">Generic_26 Description de goût</content>
+
+	<content contentuid="ha71e074dg3170g4b75g959fg49ced5d4690e" version="1">Invocation générique_27</content>
+	<content contentuid="h030a57bag23fdg4822g9a1eg43b475201bb9" version="1">Générique_27 Description technique</content>
+	<content contentuid="ha3ecd585g6643g443bga900gd50e6de5b3aa" version="1">Générique_27 Description de goût</content>
+
+	<content contentuid="he07a8ecdg3869g4378gbf24g42dbaf46d740" version="1">Invocation générique_28</content>
+	<content contentuid="h8662fc76gf0fag42b8gac08g28375d624cb5" version="1">Générique_28 Description technique</content>
+	<content contentuid="h86d489a2g7542g4c78gb4d3g2ff5d6fd02be" version="1">Générique_28 Description de goût</content>
+
+	<content contentuid="hbf4de147geab8g4a6agb34bg4895661233a8" version="1">Invocation générique_29</content>
+	<content contentuid="h52e32f23ge4fdg4a79ga4a2g5cd0a177f6cf" version="1">Générique_29 Description technique</content>
+	<content contentuid="hb4dd86dfg6941g41f7gba61gdfe970c27681" version="1">Générique_29 Description de goût</content>
+
+	<content contentuid="h303d9569ga4ecg43a0g994eg9096a141f2c3" version="1">Invocation générique_30</content>
+	<content contentuid="haa7c4688gc8ecg43e2g92a0gd870ef8f799a" version="1">Générique_30 Description technique</content>
+	<content contentuid="h776e1caegb2c4g4065g8083gef5b1f00050c" version="1">Générique_30 Description de goût</content>
+
+	<content contentuid="h11c2362ag72f2g4420g9daeg716dec4e3245" version="1">Invocation générique_31</content>
+	<content contentuid="h498e4304g5043g46ebgacd7g35abc53dd212" version="1">Générique_31 Description technique</content>
+	<content contentuid="h0be49e20g85ccg46beg87f0g1110fdd6679c" version="1">Générique_31 Description de goût</content>
+
+	<content contentuid="h93824792g98a4g49b8g8b47g0964e5d95ac9" version="1">Invocation générique_32</content>
+	<content contentuid="h3e973426g3a14g4f38gab15gabdeda7ee38a" version="1">Générique_32 Description technique</content>
+	<content contentuid="hdcb83755g65d0g41d0g802bg2318c8e4077b" version="1">Générique_32 Description de goût</content>
+
+	<content contentuid="haa32fd16g6b13g4b2dgbf61g6b8a94c29619" version="1">Invocation générique_33</content>
+	<content contentuid="h792cbd5agad55g49dfg8a78g051338269033" version="1">Générique_33 Description technique</content>
+	<content contentuid="h508ce3d0g5f09g41f3ga3e4g59051086372b" version="1">Générique_33 Description de goût</content>
+
+	<content contentuid="h009e6715gad1bg4d0dg861dg4cb7efba1165" version="1">Invocation générique_34</content>
+	<content contentuid="hfddc3327gac36g4c69gbdc3g56ac7fd11b68" version="1">Générique_34 Description technique</content>
+	<content contentuid="hdee93540gee3fg42acg96dagccc3382fce74" version="1">Générique_34 Description de goût</content>
+
+	<content contentuid="h44abdd99gab65g4273g99ebg999c3b85bd2b" version="1">Invocation générique_35</content>
+	<content contentuid="h1428376bg1310g43caga3abge13dac0ac752" version="1">Générique_35 Description technique</content>
+	<content contentuid="he2e76533g7ecbg4bb7g8b68gf3588a73bbd8" version="1">Générique_35 Description de goût</content>
+
+	<content contentuid="hd5e4b02dgdf13g4eadg9f2ag97651b10e773" version="1">Invocation générique_36</content>
+	<content contentuid="h1e4b0a78g8590g4ed2gb13cg567d40a0bf47" version="1">Générique_36 Description technique</content>
+	<content contentuid="h5b168cd1g56c0g4132ga393g9ac88498b250" version="1">Générique_36 Description de goût</content>
+
+	<content contentuid="hfc76c9acg0675g40cdga844ge4a3f1a1c400" version="1">Invocation générique_37</content>
+	<content contentuid="h9698aacdg61bcg4a5egba27g83664db53c48" version="1">Générique_37 Description technique</content>
+	<content contentuid="h536a14d6g6508g490fgaef4gf94596a71854" version="1">Générique_37 Description de goût</content>
+
+	<content contentuid="h1ae3fc13gfaaag4411ga406g751051b5aa33" version="1">Invocation générique_38</content>
+	<content contentuid="h2cc7e7fdg5bddg4576g9f97gdf6ee716d03b" version="1">Générique_38 Description technique</content>
+	<content contentuid="h5c73ae74ge9e0g4c6cg953bg770390b6ee38" version="1">Générique_38 Description de goût</content>
+
+	<content contentuid="h63fd2536g7dffg4425ga126ge61891584d36" version="1">Invocation générique_39</content>
+	<content contentuid="hcec2f900gb68ag4b9eg9c4ag079f9d3759e7" version="1">Générique_39 Description technique</content>
+	<content contentuid="h0d0fb7aegc421g43a7g92f7g9f03f16b29c8" version="1">Générique_39 Description de goût</content>
+
+	<content contentuid="h6911aeccgde22g40a2gbbe7g1148a96aa6af" version="1">Invocation générique_40</content>
+	<content contentuid="h3a7fc682g2835g4d27ga1d0g2c0f3db9ad55" version="1">Générique_40 Description technique</content>
+	<content contentuid="h948aefd0gaf22g47e4g9cb0gf5a18f11417d" version="1">Description de goût Generic_40</content>
+
+	<content contentuid="h7cd4cd84g434bg413fg80dcg25bc8e867488" version="1">Invocation générique_41</content>
+	<content contentuid="he675e89eg2321g46e3g9dd4gc256bd877dbf" version="1">Générique_41 Description technique</content>
+	<content contentuid="h3d4de168ga36dg49feg91d0gc8f741d8a88b" version="1">Générique_41 Description de goût</content>
+
+	<content contentuid="hedf4e0e7g143bg4da4ga900gaca6cb244853" version="1">Invocation générique_42</content>
+	<content contentuid="h51a70d85g1044g4d1cgb305g598fe3f0aa44" version="1">Générique_42 Description technique</content>
+	<content contentuid="h86a96e12gae94g4377ga763g69cd7f66aa56" version="1">Générique_42 Description de goût</content>
+
+	<content contentuid="ha802fab8g99a5g4401ga840g83c666e481b6" version="1">Invocation générique_43</content>
+	<content contentuid="h826bb644g9fa8g480bg94aag2abf6a1cdd88" version="1">Générique_43 Description technique</content>
+	<content contentuid="h6ab80734g7f9bg4ac6g9a59g740b7f881b44" version="1">Générique_43 Description de goût</content>
+
+	<content contentuid="h5da63fc9gd88ag4b7agb934g5e07d9aab74b" version="1">Invocation générique_44</content>
+	<content contentuid="h2a78e803gcd90g40cagbd49ga2ecc2cd8fa6" version="1">Générique_44 Description technique</content>
+	<content contentuid="hea7b9b60gf152g4070gb224g32436a839911" version="1">Générique_44 Description de goût</content>
+
+	<content contentuid="hcd7a5ad0gbca0g4fc1g9d58g054d04abf541" version="1">Invocation générique_45</content>
+	<content contentuid="h82bfdeb7g26ccg40bbg8f83gb41041fa5fa6" version="1">Générique_45 Description technique</content>
+	<content contentuid="hba9c4b6cg89c6g4715g8a58g217ea5b12a74" version="1">Description de goût Generic_45</content>
+
+	<content contentuid="h0f7ac355g2da1g4099gaa34g299b74be8576" version="1">Invocation générique_46</content>
+	<content contentuid="h29738468g5b29g4a72ga241gf7f58f33264b" version="1">Générique_46 Description technique</content>
+	<content contentuid="h4477b6d6g2ee3g46bcg92e2gc095b6cc9c60" version="1">Générique_46 Description de goût</content>
+
+	<content contentuid="hbaf31fc8gc495g4cf2gab80gf78eacb71082" version="1">Invocation générique_47</content>
+	<content contentuid="hec7b7200g1260g4402gb981gd75c2ab37224" version="1">Générique_47 Description technique</content>
+	<content contentuid="he030d0f1gc575g4231g9df9geb8c3efb3e70" version="1">Générique_47 Description de goût</content>
+
+	<content contentuid="h3e7e8ef6ge274g4038g8ccdg96ad51ed8060" version="1">Invocation générique_48</content>
+	<content contentuid="h4f9a8ce0ge63bg4d4bgae5eg8eca4d87466b" version="1">Générique_48 Description technique</content>
+	<content contentuid="hb5c27326g82d4g40bagb2d2g9a4d58b6b99d" version="1">Générique_48 Description de goût</content>
+
+	<content contentuid="h31107621gae11g4b02gbd21geb7ddc5c7e03" version="1">Invocation générique_49</content>
+	<content contentuid="hf1b4ae4eg96f4g4751gbfdcg34584c5b6c07" version="1">Générique_49 Description technique</content>
+	<content contentuid="hd17b0dacg1c73g4305ga657g6a9038c8b8e7" version="1">Générique_49 Description de goût</content>
+
+	<content contentuid="h1300697dg51deg4da5gb974g545246eb9ff6" version="1">Invocation générique_50</content>
+	<content contentuid="hac816c13gb018g4c92g905bgc20f37f9d197" version="1">Générique_50 Description technique</content>
+	<content contentuid="h76aa29a2gd9bbg4076g962agaebffba8b223" version="1">Description de goût Generic_50</content>
+
+	<content contentuid="hf845bb32g539dg4363g92bfgb30b6f363ed4" version="1">Invocation générique_51</content>
+	<content contentuid="h92909e55g8781g4914gb791g8db7f437cd85" version="1">Générique_51 Description technique</content>
+	<content contentuid="hd4a6df66g692bg47d2g864dg7c19311aadfc" version="1">Générique_51 Description de goût</content>
+
+	<content contentuid="h9d6164deg3fe0g41c0gabdcge899178338f2" version="1">Invocation générique_52</content>
+	<content contentuid="h7bd48939g75fbg469eg8f93g31bf494f8566" version="1">Générique_52 Description technique</content>
+	<content contentuid="h286de11cg4e31g4c1bgb3a3gd2320ae3309a" version="1">Générique_52 Description de goût</content>
+
+	<content contentuid="h021158c7ga9b3g4a83ga979g8568a0788e4e" version="1">Invocation générique_53</content>
+	<content contentuid="hf5bac2f2gcd65g4a0dg857agd1fbc9a6868a" version="1">Générique_53 Description technique</content>
+	<content contentuid="h9f5e6004g4248g4b97g91a7gdd4e1ebcdff8" version="1">Générique_53 Description de goût</content>
+
+	<content contentuid="h429522afg14efg4780ga7abg5374f3822645" version="1">Invocation générique_54</content>
+	<content contentuid="h749fa0c2gff05g4276gb054g87823eadc5ea" version="1">Générique_54 Description technique</content>
+	<content contentuid="hb3f66722gda84g4d26ga56dg1c10e7b58229" version="1">Générique_54 Description de goût</content>
+
+	<content contentuid="he98ccafcgbed9g425agb819gad9798bf4ed8" version="1">Invocation générique_55</content>
+	<content contentuid="h8111e064ge693g42eegacafgaac835c827f9" version="1">Générique_55 Description technique</content>
+	<content contentuid="h6887886egd998g4d33gb8e4g3cc362e92aa8" version="1">Générique_55 Description de goût</content>
+
+	<content contentuid="h7bbff905g80dfg4bf7g91adgecf0ed657e3f" version="1">Invocation générique_56</content>
+	<content contentuid="h303a013bg27f2g4f9fgbfc3g5bfc1148f395" version="1">Générique_56 Description technique</content>
+	<content contentuid="h220796b6gea1cg46ccg9475ga50aba7ff9ae" version="1">Générique_56 Description de goût</content>
+
+	<content contentuid="h0980a37dg9bbeg46cfgb953gefe6b348e750" version="1">Invocation générique_57</content>
+	<content contentuid="hc0a9f2c8g7cf3g4521g8016gec6be7f27216" version="1">Générique_57 Description technique</content>
+	<content contentuid="h95ffcca2g7f90g4c58g9b88g223146d82423" version="1">Générique_57 Description de goût</content>
+
+	<content contentuid="h82d33cb8g3ce1g445cg87c1g9e66bfc05b60" version="1">Invocation générique_58</content>
+	<content contentuid="hbb52e9fbg0e6ag4c39gaeffg01266f232edc" version="1">Générique_58 Description technique</content>
+	<content contentuid="h02cd7c30ga966g4202ga6e1gb9f8ddca91b1" version="1">Générique_58 Description de goût</content>
+
+	<content contentuid="hc98aa4c1gc7d5g47afg8479gb90f88edc0a6" version="1">Invocation générique_59</content>
+	<content contentuid="hca8a98f4gfee3g4dc7g9e2ag8263fb3ba154" version="1">Générique_59 Description technique</content>
+	<content contentuid="hbba1a194g6a91g41bfg864fg21f2ec67e2e7" version="1">Générique_59 Description de goût</content>
+
+	<content contentuid="h274385e0g47e6g4ef8gb5b4gacf7690662df" version="1">Invocation générique_60</content>
+	<content contentuid="ha84e1e97g466fg4e10gbb7cg8f8b70c48042" version="1">Générique_60 Description technique</content>
+	<content contentuid="h40b32788g43f6g450cg8589g2ac6d34a9439" version="1">Description de goût Generic_60</content>
+
+	<content contentuid="h6834e23bg53ffg4eacgb2e7g83adb2d66c64" version="1">Invocation générique_61</content>
+	<content contentuid="h5f52637dg4a6ag4e04ga6ebg8d78d729a455" version="1">Générique_61 Description technique</content>
+	<content contentuid="h6da84a8fge88cg493cga6f7g5adc1c5a5955" version="1">Générique_61 Description de goût</content>
+
+	<content contentuid="hed1b8b3bg8a4bg4bc4g9851gf07a7d49121e" version="1">Invocation générique_62</content>
+	<content contentuid="hf4151541g090cg48d3gad05g5feac036f112" version="1">Générique_62 Description technique</content>
+	<content contentuid="h3d845825g3218g4e0cga1c8gbc5756c34d88" version="1">Générique_62 Description de goût</content>
+
+	<content contentuid="hb9f30b19g1d15g411ag94c3g79174e0b8bac" version="1">Invocation générique_63</content>
+	<content contentuid="h720f7b61g842cg470fg8da5ga315405ee6a8" version="1">Générique_63 Description technique</content>
+	<content contentuid="hcaa3ec53gaf48g4bcagaa63gb36e28bc3e1f" version="1">Générique_63 Description de goût</content>
+
+	<content contentuid="hc91aff0dgf1e9g4fcfg8f88g17eab89cec60" version="1">Invocation générique_64</content>
+	<content contentuid="hbe262fbfg9cb9g4299g901cge2eecf8fa245" version="1">Générique_64 Description technique</content>
+	<content contentuid="h75a008b7g2e9dg4ca8g87bcg7ea7f7eaf24c" version="1">Description de goût Generic_64</content>
+
+	<content contentuid="h202717c5g894ag455dgb3e6gb0db4ea836dc" version="1">Invocation générique_65</content>
+	<content contentuid="h37df2249g881bg4664gb290g7d734b28350d" version="1">Générique_65 Description technique</content>
+	<content contentuid="hb571cd02gb64eg4efegb374gead80342e5ce" version="1">Description de goût Generic_65</content>
+
+	<content contentuid="h079df24cg79c6g4ae9g8dd2gd8213187092a" version="1">Invocation générique_66</content>
+	<content contentuid="h2389aaf3g352dg4422g9dc6g081e27d5c6a6" version="1">Générique_66 Description technique</content>
+	<content contentuid="h8a86f732g5b0eg4789g9852g11a80ef23988" version="1">Générique_66 Description de goût</content>
+
+	<content contentuid="h436825aegc406g4df7ga43agc03edfef8178" version="1">Invocation générique_67</content>
+	<content contentuid="h2285e807gae30g4dcdga130g5f0224333c9b" version="1">Générique_67 Description technique</content>
+	<content contentuid="h39413f96gd193g4c13g84cfgb88a63c591fe" version="1">Générique_67 Description de goût</content>
+
+	<content contentuid="h8f80732cgac2bg4769g9b18g535dc2e2f528" version="1">Invocation générique_68</content>
+	<content contentuid="h0a0d9048gb78bg474eg88dcgc9093a51c882" version="1">Générique_68 Description technique</content>
+	<content contentuid="hb50d54f1g75b3g41c4gace2gfcaa3dc077ea" version="1">Description de goût Generic_68</content>
+
+	<content contentuid="h0157e63dgf11dg4a2eg94c2g2eff50a9d2e4" version="1">Invocation générique_69</content>
+	<content contentuid="hf7d04f8eg80f6g4e5dg88d8gdce8dc6855cf" version="1">Générique_69 Description technique</content>
+	<content contentuid="h98144f95g63efg449ag8ce9ga07dce67e2d1" version="1">Générique_69 Description de goût</content>
+
+	<content contentuid="hfaeefdc4g35bcg4110g87ebg74f039c45594" version="1">Invocation générique_70</content>
+	<content contentuid="h8e79a7abg4c25g4b82ga01bgf68cfdb826dc" version="1">Générique_70 Description technique</content>
+	<content contentuid="h76a1cfbaga160g44f5g9fbeg847d9372bb50" version="1">Description de goût Generic_70</content>
+
+	<content contentuid="h4097c4c6g7c76g4337gb746g96a898d1572b" version="1">Invocation générique_71</content>
+	<content contentuid="h23292a81g3267g4545gb39bg88913b7df0db" version="1">Générique_71 Description technique</content>
+	<content contentuid="hfdc45411gaaf6g4bd4gbf7bg5665fb4877ce" version="1">Générique_71 Description de goût</content>
+
+	<content contentuid="hf02833fegaca4g4b62gb45cg3053e0dc9197" version="1">Invocation générique_72</content>
+	<content contentuid="h152d3281g7cd8g4caag988dgfe65431b600a" version="1">Générique_72 Description technique</content>
+	<content contentuid="h5ab84974ga20bg48bcgb0fbge7a78d46697c" version="1">Générique_72 Description de goût</content>
+
+	<content contentuid="hf015f1b2g8f7fg4667gbfe0g27b64a00462b" version="1">Invocation générique_73</content>
+	<content contentuid="h54b6d9begfbd0g4821g9ef0gc196a2d5c345" version="1">Générique_73 Description technique</content>
+	<content contentuid="h3d5d4a0bge08ag41f2ga6c2g9afd645ee45d" version="1">Générique_73 Description de goût</content>
+
+	<content contentuid="h6bdfdb73g62d0g467bg8576g2ce2837ac729" version="1">Invocation générique_74</content>
+	<content contentuid="h9a4e2377g2956g4be5gb2b1g41df7bb0a92d" version="1">Générique_74 Description technique</content>
+	<content contentuid="h5bb16e4eg33f3g4853g9732gcb6c2c083158" version="1">Générique_74 Description de goût</content>
+
+	<content contentuid="h79a8e3f2g9d6cg4308g9f8cg9ea14e76e568" version="1">Invocation générique_75</content>
+	<content contentuid="h233fc647gedf5g44b1ga0ecg2159d44c9aec" version="1">Générique_75 Description technique</content>
+	<content contentuid="hbeead628ge6a9g4a7eg9adag5ae56c7df9a0" version="1">Description de goût Generic_75</content>
+
+	<content contentuid="hbe1ca842g3222g46f5gaa20g5a039fcb6fe6" version="1">Invocation générique_76</content>
+	<content contentuid="h45830670g40deg4f91gb649g7ae07c4ca493" version="1">Générique_76 Description technique</content>
+	<content contentuid="h1f04fb64g02eeg4f88gbd66gcf2ec831a587" version="1">Générique_76 Description de goût</content>
+
+	<content contentuid="h5ac3052bg6974g43bdga277g500921732287" version="1">Invocation générique_77</content>
+	<content contentuid="h2a083f1ag4e73g4d26g8a5eg9744702da052" version="1">Générique_77 Description technique</content>
+	<content contentuid="h32cc8de2g615dg4c32g9000g8b08dd440ed1" version="1">Générique_77 Description de goût</content>
+
+	<content contentuid="h87f31ee4g3959g436egbda5gaa4138461558" version="1">Invocation générique_78</content>
+	<content contentuid="ha81d0251g4997g45f6g9db3gfbddbcd0e1f2" version="1">Générique_78 Description technique</content>
+	<content contentuid="h163d9c3agba7dg472dg80a9g247dc6c1d09a" version="1">Générique_78 Description de goût</content>
+
+	<content contentuid="hc00bf2c3gc056g4f6dgba04g24a02bef2dde" version="1">Invocation générique_79</content>
+	<content contentuid="hd42cfa7cg404cg4c21g91e7g4ceaaed9a7f0" version="1">Générique_79 Description technique</content>
+	<content contentuid="h2203b529g4480g4276gb9a5g6fc4ff0aae17" version="1">Générique_79 Description de goût</content>
+
+	<content contentuid="h687a278ag077ag4d21ga680gcbde09f1077a" version="1">Invocation générique_80</content>
+	<content contentuid="h6aae3170gb7ddg4b72g91afg296190a2d3e9" version="1">Générique_80 Description technique</content>
+	<content contentuid="h213ae5f1ge59eg4782gaea1gd91e7f383e7e" version="1">Description de goût Generic_80</content>
+
+	<content contentuid="hcc7e1935g280eg416eg9313g7435c1b1d246" version="1">Invocation générique_81</content>
+	<content contentuid="hb71a5d07gab45g4329ga1e9gdf5bbc2eda04" version="1">Générique_81 Description technique</content>
+	<content contentuid="h1b431ecdgf275g4746g8404gc10765985fb3" version="1">Description de goût Generic_81</content>
+
+	<content contentuid="hc0126848geb2fg4114gbf11g4220be5e45a4" version="1">Invocation générique_82</content>
+	<content contentuid="h17da4626g4aa6g41a9g90afg6356ebcae08b" version="1">Générique_82 Description technique</content>
+	<content contentuid="h96dcd13eg354fg4e4egb92fg3e196de24e2b" version="1">Générique_82 Description de goût</content>
+
+	<content contentuid="h99a88365g5f5bg4130g8c4bgc089b94e8736" version="1">Invocation générique_83</content>
+	<content contentuid="h15a17ed5g4f61g490dgbaefgb4367e1f65ef" version="1">Générique_83 Description technique</content>
+	<content contentuid="hef21efafg4ab5g4338g94a5gc4693da27400" version="1">Générique_83 Description de goût</content>
+
+	<content contentuid="h1cda2040ge25bg4328g880dgc1fb68609d2f" version="1">Invocation générique_84</content>
+	<content contentuid="hbe16af9eg6805g47a9g9dd3g221689d70c04" version="1">Générique_84 Description technique</content>
+	<content contentuid="h56e034c6gf9c1g449cg86a3gfdaf7d6ff235" version="1">Générique_84 Description de goût</content>
+
+	<content contentuid="h8f685cebgad5ag4c49gb9c4g3e1317ed5f4b" version="1">Invocation générique_85</content>
+	<content contentuid="hb50183f2g4ef1g4204gae6ag9d7d8df45eee" version="1">Générique_85 Description technique</content>
+	<content contentuid="hfeadd5d1g1c62g42a5g9040g85bb020512f7" version="1">Description de goût Generic_85</content>
+
+	<content contentuid="h4fc5694bg60f5g4d89gaae3g55b8c07d44a3" version="1">Invocation générique_86</content>
+	<content contentuid="h0725446eg5887g4a5bgb25fg2d9cc68caab6" version="1">Générique_86 Description technique</content>
+	<content contentuid="h7b108416g29b4g46a4ga3b2gc88f214bcc3e" version="1">Description de goût Generic_86</content>
+
+	<content contentuid="h907e6aa5g82a5g4965gb539g95b3a5711a9d" version="1">Invocation générique_87</content>
+	<content contentuid="h0f813f51ge43eg40bag8923gd75b334ad4bc" version="1">Générique_87 Description technique</content>
+	<content contentuid="hf1bcdeddg981dg4f02g821bg82752e02d6df" version="1">Description de goût Generic_87</content>
+
+	<content contentuid="h2c3b2179g522eg4c11g8a43g18d9241af195" version="1">Invocation générique_88</content>
+	<content contentuid="hc590cc2cg937fg4eb9g9765g517b24ca94df" version="1">Générique_88 Description technique</content>
+	<content contentuid="haabbfbfeg7a27g4d50gaadcg2978e9db78d3" version="1">Description de goût Generic_88</content>
+
+	<content contentuid="h7c553fecgc323g4ab2ga8bbgc68595d3f057" version="1">Invocation générique_89</content>
+	<content contentuid="he6134bfbg9030g478dg8b55g72f24870a416" version="1">Générique_89 Description technique</content>
+	<content contentuid="h442da0a4g00a5g4c91g805fg206d07957b97" version="1">Description de goût Generic_89</content>
+
+	<content contentuid="hf76b2da1gfb54g4915gb13fge7c473a0a9af" version="1">Invocation générique_90</content>
+	<content contentuid="hf8509c93gdb30g465bg9db6g4388a17a055f" version="1">Générique_90 Description technique</content>
+	<content contentuid="hfe0047a5ge98ag49fag9b09g7041a14e75b1" version="1">Description de goût Generic_90</content>
+
+	<content contentuid="h8658498egdc57g4443gafbagcd31c5b0ccaa" version="1">Invocation générique_91</content>
+	<content contentuid="h76fc20b3g6d08g4f55g828dgeab717630d4a" version="1">Générique_91 Description technique</content>
+	<content contentuid="h60971a34g338eg4f22gb049g71d7a64eb563" version="1">Description de goût Generic_91</content>
+
+	<content contentuid="h0c16d2aag4dffg48efg9475g06b704f42932" version="1">Invocation générique_92</content>
+	<content contentuid="hff741697gba01g42f5ga1c9gb43b3c0f403d" version="1">Générique_92 Description technique</content>
+	<content contentuid="he4aef957g0975g41edga0f8gcff3826689c8" version="1">Générique_92 Description de goût</content>
+
+	<content contentuid="h78c2056cg54b7g4fd4g87acgda4677f7ca95" version="1">Invocation générique_93</content>
+	<content contentuid="h001bef44g9f8fg416eg9438g41c8caca5e2c" version="1">Générique_93 Description technique</content>
+	<content contentuid="ha61fec53gac9ag4020gad69ge2ede0de307a" version="1">Générique_93 Description de goût</content>
+
+	<content contentuid="h5589250dg54bbg457ag8b82g207757390672" version="1">Invocation générique_94</content>
+	<content contentuid="h6396c6a0gfea9g42d3g8d5dge26eb1ca6af4" version="1">Générique_94 Description technique</content>
+	<content contentuid="h534f5ddcg10a1g4e93g8742g7f76f0a76dcd" version="1">Générique_94 Description de goût</content>
+
+	<content contentuid="h38390709g12a3g4b16g9932g92f6b5fd4a96" version="1">Invocation générique_95</content>
+	<content contentuid="h66dfbb97g6743g44b5gbb35gfe56a2671bc3" version="1">Générique_95 Description technique</content>
+	<content contentuid="h2cb0358eg0e50g4533g8925g56cc33eacc5f" version="1">Description de goût Generic_95</content>
+
+	<content contentuid="hf9d107e3g685eg4b42ga740g6e4f5c39f1ab" version="1">Invocation générique_96</content>
+	<content contentuid="h613f9f23gabddg4cc6ga149g655399475184" version="1">Générique_96 Description technique</content>
+	<content contentuid="hdc87149cgcf32g46e4gb05fg789d9773eaa8" version="1">Description de goût Generic_96</content>
+
+	<content contentuid="h4177077eg115cg4561g9e95g64e242037283" version="1">Invocation générique_97</content>
+	<content contentuid="hefe95ff7gf11bg437eg8d4bg2c8f83bb2a5d" version="1">Générique_97 Description technique</content>
+	<content contentuid="h47dc63acg2a97g4ffbg8a14gdad8109761c6" version="1">Générique_97 Description de goût</content>
+
+	<content contentuid="h0d1b1833g3db2g4ef9g899cgee363c1271bb" version="1">Invocation générique_98</content>
+	<content contentuid="h5a645914g6131g4c24gb65agb55b11da9b9d" version="1">Générique_98 Description technique</content>
+	<content contentuid="hf58f22bfgaa94g40b1g89a2g70d37a599f89" version="1">Description de goût Generic_98</content>
+
+	<content contentuid="h4c53a121gc65bg4868g826agb6a689c167aa" version="1">Invocation générique_99</content>
+	<content contentuid="hf079eaf8g56cfg4dfbga36bgec1bc8e8f1f7" version="1">Générique_99 Description technique</content>
+	<content contentuid="h65c3a6a4ge1dcg4b50g9342gb242d4c8cc91" version="1">Description de goût Generic_99</content>
+
+	<content contentuid="h9be360ceg9e09g4d03g9ee1g1f8dca1ae02a" version="1">Invocation générique_100</content>
+	<content contentuid="h61604c7fg7869g4d7bgb8afg15771e3adc7b" version="1">Générique_100 Description technique</content>
+	<content contentuid="h44a3da09ga915g437agb0f4gf29fab06501b" version="1">Description de goût Generic_100</content>
+</contentList>

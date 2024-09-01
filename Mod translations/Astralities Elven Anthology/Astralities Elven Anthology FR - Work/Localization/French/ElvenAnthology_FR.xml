@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<!-- cc / elves -->
+	<content contentuid="h03ec5793g34d6g4f0agae47g136908273e98" version="1">Favorisés par la déesse Sehanine Archelune, les elfes du crépuscule sont une espèce rare et insaisissable. Limités à de petites enclaves isolées au sein des forêts les plus sombres de Féerune et de la Gisombre, leur nombre a diminué au fil des siècles.</content>
+	<content contentuid="ha4e77e5cg8c62g4aeeg84bcg4620d484810b" version="1">Elfe du crépuscule</content>
+    <content contentuid="hdcecd246baa54ab8bdade26faa81db43d986" version="1">Gardés par la lumière de la lune, les Elfes de la Lune sont extraordinairement extravertis et ont une affinité particulière pour la magie lunaire. Avec une soif de voyage particulièrement forte, ils préfèrent vivre aux côtés d’autres races, avec lesquelles ils entretiennent pour la plupart des relations positives depuis des générations.</content>
+	<content contentuid="h2c5ef53a5bf24cd290b4e66f0986949cb7g4" version="1">Elfe de la Lune</content>
+	<content contentuid="h526e546bgfc2fg48b3g8d13g9abe4be5b8b6" version="1">Descendants directs des Eladrins de l'Hiver, les Elfes des Neiges sont une espèce isolée et isolée, n'ayant gardé que des contacts minimes avec le monde extérieur pendant des générations. Ils ont appris à prospérer dans des environnements dangereusement glacials, vivant de la terre et établissant souvent de petites communautés à proximité de sites naturels ou religieux importants.</content>
+	<content contentuid="h823a7181g4240g44e8ga6a4g3b081ae7fe67" version="1">Elfe des Neiges</content>
+	<content contentuid="h377e8567g27a5g438eg8362g155dc2a95ea8" version="1">Les Elfes des Étoiles ont vécu isolés dans le demi-plan du Sildëyuir pendant des générations, n'émergeant qu'après la Magepeste. Peu familiers avec les coutumes, les races et les environnements naturels de Féerune, ils sont curieux et aiment découvrir leur nouvel environnement, désireux d'explorer et de s'intégrer au monde au-delà de leur royaume isolé.</content>
+	<content contentuid="h163e2bd0g27cag42e5g86baga33f52f097df" version="1">Elfe de Étoiles</content>
+	<content contentuid="h9e577e95gbe5fg4482ga09dg58ffb364f6bb" version="1">Une ancienne lignée d'Elfes réputée pour sa préférence à rester dans ses propres colonies isolées, rarement vue ailleurs. Les Elfes du Soleil se consacrent à la perfection dans les professions qu'ils ont choisies, s'engageant souvent dans un métier ou une compétence singulière pendant toute leur vie.</content>
+	<content contentuid="h1bf76cb4g213bg4b23gb85bgd3263ab8bb34" version="1">Elfe du Soleil</content>
+	<content contentuid="h54caa922ge77bg4dd3gb061ge37b7141dc3e" version="1">De véritables Elfes Lycanthropes dotés de la capacité de changer de forme pour prendre celle de loups. Rares à Féerune, les Lytharis préfèrent la compagnie de leurs propres meutes profondément entrelacées. Malgré leur nature lycanthropique, ils sont souvent opposés à la violence et comptent principalement sur leur forme de loup pour se reposer, transmettre des messages ou chasser.</content>
+	<content contentuid="hffcf7b50gd57cg45b8g8739ga8520a513656" version="1">Lythari</content>
+
+    <!-- cc / drow -->
+    <content contentuid="h2ef38923c56344ac9942e79dcc73ce16b282" version="1">Profondément en phase avec la Trame, les Drow de la lumière des étoiles ont abandonnés les enseignements de Lolth et les modes de vie typiques de la société Drow. S'installant dans un réseau bioluminescent d'énergies magiques au plus profond d'une montagne de l'extrême nord, ils s'aventurent à la surface uniquement à des fins rituelles, exploitant leurs prouesses magiques sous le ciel étoilé.</content>
+	<content contentuid="hdcc191cf3cea496f8a6d7e746c1b9facde6g" version="1">Aevendrow</content>
+	<content contentuid="hde175a40d1834d9b94c9044325fe6f7fe62f" version="1">Après avoir défié les enseignements de Lolth, Drow de l’ombre verte a fui Menzoberranzan pour s'installer à Saekolath, à l'extrême sud de Féerune. Favorisant un lien profond avec l'environnement naturel, ils vivent en équilibre avec la forêt, la terre et le ciel et prospèrent dans l'ombre du feuillage de la jungle.</content>
+	<content contentuid="h7346f13c61cb4e05a551336aa14d79d27b8c" version="1">Lorendrow</content>
+	<content contentuid="h8b333e58b39643199059990ea2d245feef16" version="1">Favorisés par Lolth, que ce soit par leurs réalisations ou par leur droit de naissance, les Touchés-de-Lolth sont des membres exceptionnels de leur communauté. Bénéficiant d'un entraînement bien supérieur à celui du Drow moyen, le sang de l'araignée dans ses veines revendique toute faiblesse qu'elle aurait pu abriter, ce qui donne un avatar presque intrépide de la reine araignée qui inspire la peur et l'effroi à quiconque pose les yeux sur elle.</content>
+	<content contentuid="h5a286b759b7e463986b1fe5090fd4e999c75" version="1">Udadrow</content>
+    <content contentuid="hea13deb6e8f943d0b40e046a540fdd80g251" version="1">Né de l'union profane entre un Dragon de l'Ombre et un Drow, Und Zar'ithra possède du sang draconique bien qu'il ne soit pas de véritables demi-dragons. Avec un lien profond avec le plan de l’Ombre, ils montrent de forts penchants pour la magie de l’ombre et sont souvent dotés de capacités magiques innées dès la naissance. Réputés pour leur force et leur pouvoir, les Zar'ithra accèdent fréquemment à des postes de direction au sein de leurs communautés, utilisant leurs formidables capacités pour imposer le respect et l'autorité.</content>
+	<content contentuid="h95765437c76745cfb319ca0e8464bfc6938g" version="1">Zar'ithra</content>
+
+    <!-- cc / half-elf -->
+    <content contentuid="heb918168e60a42a28f29d95ab2f55e99fb0e" version="1">Les Demi-Aevendrow héritent d'une profonde harmonisation avec la Trame et d'un rejet des enseignements de Lolth de la part de leur parent elfe. Le sang humain dans leurs veines leur permet de traverser la surface même pendant la journée, suscitant le désir d'errer au-delà des limites de l'Enclave de Lumière des étoiles en leur sein.</content>
+    <content contentuid="h393ba42a1bff445cb2e6beaef8d7b1184ggg" version="1">Demi-Aevendrow</content>
+    <content contentuid="h243a8d58b63a41bf806da4e51b61e7c9d7c4" version="1">Sentant un lien profond avec le monde naturel et les ombres, de nombreux  demi-elfe du crépuscule quittent les enclaves isolées de leurs parents pour découvrir ce que Féerune peut leur offrir. Leur ascendance elfique leur confère une grâce subtile et une compréhension innée des ombres, leur permettant de naviguer confortablement dans la lumière et dans les ténèbres.</content>
+    <content contentuid="hae09ce0a1f3a47c9b241565d317e8b9d51da" version="1">Demi-elfe du crépuscule</content>
+    <content contentuid="h4514f49e477a48ab99d71ee4e45a868c6752" version="1">Les Demi-Elfe de la Lune héritent de la nature extravertie et de la connexion avec la lune de leur parent elfe de la lune. Ils prospèrent dans diverses communautés où ils apportent un sentiment de curiosité et d’envie de voyager, servant souvent de bardes, de prêtres ou d’artistes itinérants.</content>
+    <content contentuid="he7f9051b5e3b480b94fff5c4879f1c3cce51" version="1">Demi-Elfe de la Lune</content>
+    <content contentuid="hb93f073f7da341df93a02d15b6a95de58ac5" version="1">Il n'est pas rare que Lorendrow s'allie à l'un des établissements humains de la jungle qu'il habite, ce qui aboutit souvent à la naissance d'une poignée de Demi-Lorendrow. Ils héritent de leurs deux parents des compétences nécessaires à la survie dans la jungle, combinées à une touche de grâce elfique, ce qui en fait de redoutables survivants.</content>
+    <content contentuid="hcec5db42d0c1412d88129104088aa98f5f77" version="1">Demi-Lorendrow</content>
+    <content contentuid="hfccb2cc377344bcb8e99cc3593144073ef4b" version="1">Bien que les Demi-Lythari héritent de certains traits animaux de leur parent Lythari, ils n'ont souvent pas la capacité lycanthropique de leur parent. Cette distinction peut parfois les laisser se sentir étrangers au sein des meutes de loups où ils habitent, ce qui incite de nombreux Demi-Lythari à errer au-delà, à la recherche d'un endroit où ils peuvent véritablement trouver leur appartenance.</content>
+    <content contentuid="ha009bdc7dbbf46559e47a4864870886fe6a2" version="1">Demi-Lythari</content>
+    <content contentuid="h97c8651a5bd64d56ba3d2dd630cd2f7e89c4" version="1">Les demi-elfes des neiges naissent généralement des quelques ambassadeurs elfes des neiges envoyés pour établir des contacts avec les établissements humains au-delà du nord glacial. Élevés dans ces colonies en raison de la nature périlleuse des voyages, ils n'ont souvent pas l'endurance de leurs parents elfes des neiges, bien qu'ils conservent encore des traces de la magie glaciale inhérente à leur lignée.</content>
+    <content contentuid="h312da852087842bf9af2a874140d8c30ada2" version="1">Demi-elfe des neiges</content>
+    <content contentuid="h5d2d34af4c5643a6b172f94519166ba34d71" version="1">Les Elfes des étoiles aiment s'intégrer profondément dans des cultures inconnues comme moyen d'étude, découvrant parfois l'amour dans le processus. En conséquence, les demi-elfe des étoiles ne sont pas rares et sont souvent considérés comme une bénédiction. Dotés de certaines capacités de leurs parents elfes, ils n'ont pas leur naïveté et leur émerveillement distinctifs, car ils sont plus familiers avec Féerune.</content>
+    <content contentuid="hf3651cf54d524f48acf9cee610a691befe8e" version="1">Demi-elfe des étoiles</content>
+    <content contentuid="h46c10fc2e14d493a83146592eee5e38a6559" version="1">Comme les Elfes du Soleil quittent rarement leurs communautés, les demi-Elfe du Soleil sont plus rares que les autres Demi-Elfes. N'étant généralement pas élevés dans des colonies exclusivement elfes du soleil, ils n'ont pas une grande partie de l'immense exposition directe à la culture de leurs parents elfes, mais héritent néanmoins de certaines de leurs capacités inhérentes.</content>
+    <content contentuid="h7cdb7b2c6e2644b88205d964495c6a8cd773" version="1">Demi-Elfe du Soleil</content>
+
+	<!-- tags / elves -->
+	<content contentuid="h3166e51dgeae8g47c0ga894g8b271acd74b6" version="1">Favorisés par la déesse Sehanine Archelune, les elfes du crépuscule sont une espèce rare et insaisissable.</content>
+	<content contentuid="hf9ee0e19g2e0eg45c0g9664g0ed7999a8d3b" version="1">Elfe du crépuscule</content>
+    <content contentuid="hdb11730405684859820f83c705056fc4b9f6" version="1">Gardés par la lumière de la lune, les Elfes de la Lune sont extraordinairement extravertis et ont une affinité particulière pour la magie lunaire.</content>
+	<content contentuid="h02342c21bb7249278b8605d0eee8db7cf786" version="1">Elfe de la Lune</content>
+	<content contentuid="h7ff25263g8085g45a8g9355g03491d760b32" version="1">Descendants directs des Eladrins de l'Hiver, les Elfes des Neiges sont une espèce isolée et isolée.</content>
+	<content contentuid="he3949f28g1b0ag4658g847fgb493b90d0b23" version="1">Elfe des neiges</content>
+	<content contentuid="he6decd85g198dg4610gb6feg336499322b9b" version="1">Les Elfes des étoiles ont vécu isolés dans un demi-plan du Sildëyuir pendant des générations, n'émergeant qu'après la Magepeste.</content>
+	<content contentuid="h101b26ceg5cf2g446eg8fd2g19b9d7c6dcc1" version="1">Elfe des Étoiles</content>
+	<content contentuid="hd364f0c0g9e1ag4a04g8e3fg54a6ed0a6118" version="1">Une ancienne lignée d'Elfes réputée pour sa préférence pour rester dans ses propres colonies isolées.</content>
+	<content contentuid="h8e56ad08g3b33g42bdgb5dbgf939299c3a6e" version="1">Elfe du Soleil</content>
+	<content contentuid="ha0c061f5gfb86g4033g8a29g337a246a778d" version="1">De véritables Elfes lycanthropes dotés de la capacité de changer de forme pour prendre celle de loups.</content>
+	<content contentuid="h10ed890egaa32g4f03g9fadg16c0606518bf" version="1">Lythari</content>
+
+    <!-- tags / drow -->
+    <content contentuid="hf2acbe20401544d28b97f851058dc1d88f1b" version="1">Profondément en phase avec la Trame, les Aevendrow ont abandonnés les enseignements de Lolth et les modes de vie typiques de la société Drow.</content>
+    <content contentuid="hcc74ce7ad8c7495691706137ffc0f0c4b68c" version="1">Aevendrow</content>
+    <content contentuid="h6fc3c455cac54324bb9dbe643dbce4b6690a" version="1">Après avoir défié les enseignements de Lolth, les Lorendrow ont fui Menzoberranzan pour s'installer à Saekolath, à l'extrême sud de Féerune.</content>
+    <content contentuid="ha1297f966d1d4c56b60288ddbcd796761e4d" version="1">Lorendrow</content>
+    <content contentuid="hf903ad8e48124868abf9d5af79d214c7811d" version="1">Favorisés par Lolth, que ce soit par leurs réalisations ou par leur droit de naissance, les Drows Touchés-de-Lolth sont des membres exceptionnels de leur communauté.</content>
+    <content contentuid="h7edca008ac2b4971a8f9d175a3fd2566d77g" version="1">Udadrow</content>
+    <content contentuid="h750b03bacba941379d9aacec52c77be67927" version="1">Né de l'union profane entre un Dragon de l'Ombre et un Drow, Zar'ithra possède du sang draconique bien qu'il ne soit pas de véritables demi-dragons.</content>
+    <content contentuid="h45449b32615b40a08f12b007b5fae3bfe5dg" version="1">Zar'ithra</content>
+
+    <!-- tags / half-elf -->
+    <content contentuid="h17cea4e87c6a46398d407359b72b08a490b7" version="1">Les Demi-Aevendrow héritent d'une profonde harmonisation avec la Trame et d'un rejet des enseignements de Lolth de la part de leur parent elfe.</content>
+    <content contentuid="hb69959d353c94aae8ded7e872c27232a7eg3" version="1">Demi-Aevendrow</content>
+    <content contentuid="hfaa883ea8d5a46f491e1b56465bdca9468ga" version="1">Les demi-elfe du crépuscule quittent les enclaves isolées de leurs parents pour découvrir ce que Féerune peut leur offrir.</content>
+    <content contentuid="h64a7dec6c1994aa58a8682ff7cc09abcd0ba" version="1">Demi-elfe du crépuscule</content>
+    <content contentuid="hf2e474249dfe437eaa078058859d03d8a6b8" version="1">Les Demi-Elfe de la Lune héritent de la nature extravertie et de la connexion avec la lune de leur parent elfe de la lune.</content>
+    <content contentuid="he2778723e44f436b8705ed93df195f0e2f73" version="1">Demi-Elfe de la Lune</content>
+    <content contentuid="h66426bcc27154a62a08fed19a306467cgcc5" version="1">Les demi-Lorendrow hérite de la compétence de survie dans la jungle de ses deux parents, combinée à une touche de grâce elfique, ce qui en fait de redoutables survivants.</content>
+    <content contentuid="ha5c477d4484a4bf39e797bf64da2e5c1g4ea" version="1">Demi-Lorendrow</content>
+    <content contentuid="h07390c10a38e4cc99b33a97ddc4bcca08b78" version="1">Les demi-Lythari héritent de certains traits animaux de leur parent Lythari, mais ils n'ont souvent pas la capacité lycanthropique de leur parent.</content>
+    <content contentuid="hc01f5c0bd8d045d4bdd005123b926c588c43" version="1">Demi-Lythari</content>
+    <content contentuid="h5bc4fafc0b5d4a70b556c6fa8d30f864c3ba" version="1">Les demi-elfes des neiges sont généralement nés des quelques ambassadeurs elfes des neiges envoyés pour établir le contact avec les établissements humains.</content>
+    <content contentuid="hf616601e8f9546f4b6d99e016c670c17gd35" version="1">Demi-elfe des neiges</content>
+    <content contentuid="hca66fa10289b4ec0a45e07f2ef4cbb958b1c" version="1">Les demi-elfe des étoiles ne sont pas rares et sont souvent considérés comme une bénédiction.</content>
+    <content contentuid="hcd4d2edfd2674d329cf8957896e49fa55g3g" version="1">Demi-elfe des étoiles</content>
+    <content contentuid="h4c426251de62403190fb4669152374cde6a8" version="1">Les demi-Elfe du Soleil sont plus rares que les autres demi-Elfes.</content>
+    <content contentuid="h5a643e6388a14148a4e122bbafd87f4agc61" version="1">Demi-Elfe du Soleil</content>
+
+    <!-- abilities / passives -->
+    <content contentuid="hdcc9e814bd89468ea88799233a2aef1fbe21" version="1">Voile de la tombée de la nuit</content>
+    <content contentuid="h70beaa0880a84bf281259ac63d4c63e2a7f8" version="1">Vous avez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de la Furtivité.</content>
+    <content contentuid="heb9caad8c4cc44479e3e19b362e96db4e8eb" version="1">Sanctuaire du Crépuscule</content>
+    <content contentuid="h03c847b3002647c7801268bb495bdfad2a5e" version="1">Lorsque vous êtes obscurci par l'ombre, vous bénéficiez d'un bonus de +[1] à vos &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt;.</content>
+    <content contentuid="he3ee9129fa6b42ec9bf464f51de9004affd8" version="1">Endurance polaire</content>
+    <content contentuid="h5ead47ed5141445ead92c8e2df52d6e788d9" version="1">Vous êtes &lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; aux dégâts de froid et vous pouvez traverser les surfaces de glace sans glisser.</content>
+    <content contentuid="h6c007ef3g1806g4006g8032ga50308b49def" version="1">Protection étoilée</content>
+    <content contentuid="hbcc275f8g29c1g4975g950cg2ac94ab47922" version="1">Vous êtes &lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; aux dégâts radiants.</content>
+    <content contentuid="h79196c11gd94fg488cg9d38gebb0bbf2da2a" version="1">Colère céleste</content>
+    <content contentuid="hac757984gdb64g4d92g8a15g5dc290396f3f" version="1">Lorsque vous infligez un coup critique sur un &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt;, vous infligez [1] dégâts radiants supplémentaires.</content>
+    <content contentuid="h9c3aa8b859ac4fbe89478cc794c03c13ea13" version="1">Nature curieuse</content>
+    <content contentuid="h29f889d647ea423aa3a98d33b5901cbe3790" version="6">Vous êtes naturellement curieux. Vous avez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de l'Investigation.</content>
+    <content contentuid="h1c51190dg693fg426eg9975gdea7e903cd9d" version="1">Prouesses martiales</content>
+    <content contentuid="h5ffd584eg1cc4g43d7g8390g5f4a491c97a0" version="6">Lorsque vous infligez un coup critique avec une arme, vous pouvez effectuer une attaque supplémentaire au cours du même tour en utilisant une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt;.</content>
+    <content contentuid="h97842991g8fe2g42e6gb1dcg2eb75178f4db" version="1">Prouesses martiales : attaque supplémentaire</content>
+    <content contentuid="ha799a0d9gd769g4c23ga755g8f1a23c28adf" version="1">Magie solaire</content>
+    <content contentuid="hc6e67f77g1c4bg486aga842gf1048f26dc92" version="6">Vous connaissez le sort mineur &lt;LSTag Type="Spell" Tooltip="Target_SacredFlame_SunElf"&gt;Flamme sacrée&lt;/LSTag&gt; et êtes capables de le lancer à volonté. Au niveau 3, vous apprenez le sort &lt;LSTag Type="Spell" Tooltip="Zone_BurningHands_SunElf"&gt;Mains brûlantes&lt;/LSTag&gt;, et au niveau 5 vous apprenez le sort &lt;LSTag Type="Spell" Tooltip="Target_Daylight_Container_SunElf"&gt;Lumière du jour&lt;/LSTag&gt;. Vous pouvez lancer ces sorts une fois par &lt;LSTag Tooltip="LongRest"&gt;Repos long&lt;/LSTag&gt; sans dépenser d'emplacement de sort.</content>
+    <content contentuid="hdf79dc09gb616g4e4bgaf14gef5d47bd8af8" version="1">Gorgés de soleil</content>
+    <content contentuid="hd79a1ea8gf21bg4bbaga233g4d76d09b49cd" version="6">Vous êtes &lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; aux dégâts de feu. Lorsque vous êtes au soleil, vous gagnez +1 à vos &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; et à vos &lt;LSTag Tooltip="SkillCheck"&gt;Tests de compétence&lt;/LSTag&gt;.</content>
+    <content contentuid="h550d19feg44cfg41f4gb3bag7011cbb08c84" version="1">Connexion animale</content>
+    <content contentuid="h96267118g5228g48aegb6afga2ac5316a8c5" version="1">Vous êtes naturellement capable de parler avec les animaux.</content>
+    <content contentuid="he41b5122g9cb6g4ac4g8ed7gd6ceb75e2256" version="1">Instinct naturel</content>
+    <content contentuid="h77852ba4gc689g4837ga5c9g0b9a564a5eb4" version="1">Vous avez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de la Nature et de la Survie.</content>
+    <content contentuid="h87d1c5bcgaa1bg4913g981fgf046a50de7d0" version="1">Capacité canine</content>
+    <content contentuid="h8efda4b0g7889g43d5gb2f9gd94179e5f114" version="1">Votre limite de poids transportable est augmentée d'un quart et vous pouvez sauter [1] plus loin.</content>
+    <content contentuid="haef764ecg8c69g433fg8594g321fcd6a5fc5" version="1">Magie d'Aevendrow</content>
+    <content contentuid="hbd091598g1862g4688g9171g3c1cfb3593f6" version="6">Vous connaissez le sort mineur &lt;LSTag Type="Spell" Tooltip="Target_DancingLights_MoonElf"&gt;Lumières dansantes&lt;/LSTag&gt; et êtes capables de le lancer à volonté. Au niveau 3, vous apprenez le sort &lt;LSTag Type="Spell" Tooltip="Target_MageArmor_Aevendrow"&gt;Armure de mage&lt;/LSTag&gt;, et au niveau 5 vous apprenez le sort &lt;LSTag Type="Spell" Tooltip="Shout_MirrorImage_Aevendrow"&gt;Image miroir&lt;/LSTag&gt;. Vous pouvez lancer ces sorts une fois par &lt;LSTag Tooltip="LongRest"&gt;Repos long&lt;/LSTag&gt; sans dépenser d'emplacement de sort.</content>
+    <content contentuid="he15fd502gad2bg4d47g86d5gf0bdeaa6102e" version="1">Favori de la jungle</content>
+    <content contentuid="hcb905420g4377g48f7g86ebga2be81d3181b" version="1">Vous avez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de la Furtivité et les &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Terrain difficile&lt;/LSTag&gt; ne peuvent pas vous ralentir.</content>
+    <content contentuid="hd39145d3gde30g42e4g9150g2119cd06b3dc" version="1">Intrépide</content>
+    <content contentuid="hb8bbb25dg356eg4700g8bf5gcf59b24a05bb" version="1">Vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; contre la peur.</content>
+    <content contentuid="h86659e68g2012g4027gbfb5gc50fef901862" version="1">Sang d'araignée</content>
+    <content contentuid="h045268e0ga303g447dgae43g76cbed26f402" version="1">Vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; contre l'empoisonnement et êtes &lt;LSTag Tooltip="Resistant"&gt;Résistant&lt;/LSTag&gt; aux dégâts de Poison.</content>
+    <content contentuid="hc0b284ae3df14b83b8fee48db44448c5fb46" version="1">Magie de l'araignée</content>
+    <content contentuid="hb6a81d504b17418585954aea4db254722f02" version="6">Vous connaissez le sort mineur &lt;LSTag Type="Spell" Tooltip="Target_FindFamiliar_Spider_Lolthtouched"&gt;Appel de familier : Araignée&lt;/LSTag&gt;. Au niveau 4, vous apprenez le sort &lt;LSTag Type="Spell" Tooltip="Target_Web_Lolthtouched"&gt;Toile d'araignée&lt;/LSTag&gt;. Vous pouvez lancer ces sorts une fois par &lt;LSTag Tooltip="LongRest"&gt;Repos long&lt;/LSTag&gt; sans dépenser d'emplacement de sort.</content>
+    <content contentuid="hc8a820720bb3473b98f06aca6b9ae42cb2bd" version="1">Magie Lunaire</content>
+    <content contentuid="h24f49f8113cb4d09869b093f880ebc7a0270" version="6">Vous connaissez le sort mineur &lt;LSTag Type="Spell" Tooltip="Target_MinorIllusion_MoonElf"&gt;Illusion mineure&lt;/LSTag&gt; et êtes capables de le lancer à volonté. Au niveau 3, vous apprenez le sort &lt;LSTag Type="Spell" Tooltip="Target_Moonbeam_MoonElf"&gt;Rayon de lune&lt;/LSTag&gt;, et au niveau 5 vous apprenez le sort &lt;LSTag Type="Spell" Tooltip="Target_MistyStep_MoonElf"&gt;Foulée brumeuse&lt;/LSTag&gt;. Vous pouvez lancer ces sorts une fois par &lt;LSTag Tooltip="LongRest"&gt;Repos long&lt;/LSTag&gt; sans dépenser d'emplacement de sort.</content>
+    <content contentuid="h12726ff9be6f458d85906e79e65419aff7d8" version="1">Maîtrise sociale</content>
+    <content contentuid="hf1b9303015a4443c9bba45c203315b1e3414" version="6">Vous avez d'incroyables compétences relationnelles. Vous avez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de la Tromperie et de la Persuasion.</content>
+    <content contentuid="hd25869186b4f4e4ba3a482dc5df75b99c093" version="1">Ascendance du Dragon de l'Ombre</content>
+    <content contentuid="ha027e10a925545ff9b93d9621514667f2a20" version="6">Votre ascendance remonte à l'union entre un Drow et un Dragon de l'Ombre.</content>
+    <content contentuid="h1b9dd12b61d94355bc5979bc437af7004e97" version="1">Influence draconique</content>
+    <content contentuid="h48df0ba7174a474a910473b419221a40fe12" version="6">Vous connaissez le sort mineur &lt;LSTag Type="Spell" Tooltip="Target_ChillTouch_Zarithra"&gt;Froid osseux&lt;/LSTag&gt; et êtes capables de le lancer à volonté. Au niveau 3, vous apprenez le sort &lt;LSTag Type="Spell" Tooltip="Target_InflictWounds_Zarithra"&gt;Blessure&lt;/LSTag&gt;, et au niveau 5 vous apprenez le sort &lt;LSTag Type="Spell" Tooltip="Zone_ShadowBreath_Zarithra"&gt;Souffle d'Ombre&lt;/LSTag&gt;. Vous pouvez lancer ces sorts une fois par &lt;LSTag Tooltip="LongRest"&gt;Repos long&lt;/LSTag&gt; sans dépenser d'emplacement de sort.</content>
+    <content contentuid="h5389cf3b8bbd44f0acb6a9ed38164703e342" version="1">Ombre vivante</content>
+    <content contentuid="h02eb258332bd4b66879b33c25a467919a29g" version="1">Lorsque vous êtes obscurci par l'ombre, vous pouvez vous &lt;LSTag Type="Spell" Tooltip="Shout_Hide"&gt;Cacher&lt;/LSTag&gt; utilisant une &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Action bonus&lt;/LSTag&gt;.</content>
+    <content contentuid="h3563bcf6c0e34d398dd80541751aaa8d17aa" version="1">Souffle d'Ombre</content>
+    <content contentuid="h50b14f65637345b9b7b5568f30948afacbb4" version="4">Libérez un cône de l’ombre la plus noire.</content>
+
+    <!-- abilities / sun elf expertise -->
+    <content contentuid="hf7ed2744g2200g4e99g86a9g60925f8572b5" version="1">Acrobaties</content>
+    <content contentuid="hcd5579cbg548bg4944ga257g75eac0e82dcf" version="1">Vous êtes expert en Acrobatie.</content>
+    <content contentuid="hc4b5ac85g70f0g464fg87bdg3ab5d1308f22" version="1">Dressage</content>
+    <content contentuid="h9c28418dgdf33g4755gb7abgf793e298f1d4" version="1">Vous êtes expert en Dressage.</content>
+    <content contentuid="hbe4102bcg79e1g47d3ga0c0gad208c3ea47f" version="1">Arcanes</content>
+    <content contentuid="ha5771df2g9edfg4d46gae76g10dcc6a4852d" version="1">Vous êtes expert en Arcanes.</content>
+    <content contentuid="hedf4a3c2g887cg4861g852bg4fad01c22065" version="1">Athlétisme</content>
+    <content contentuid="h624e3f56g1663g4cf4g8ddcge071fdbaec0a" version="1">Vous êtes expert en Aathlétisme.</content>
+    <content contentuid="h2348da7fg9b99g4967gb122g54e24c7d6d3b" version="1">Tromperie</content>
+    <content contentuid="h7f6a6a63gabedg4963g9159g15001c5321ec" version="1">Vous êtes expert en Tromperie.</content>
+    <content contentuid="h29d6b41cgf5e5g4e59gaeb2g524ea57efc19" version="1">Histoire</content>
+    <content contentuid="h71533ac4gf649g4b33g9814g38b4f7d4b337" version="1">Vous êtes expert en Histoire.</content>
+    <content contentuid="h055ea9ecg67c6g4000g9991gf5b1729d9870" version="1">Aperçu</content>
+    <content contentuid="h10c3ec3eg8888g4cffg9d0eg3490736b7fcb" version="1">Vous êtes expert en Intuition.</content>
+    <content contentuid="ha9c74ddcgdabbg4811gb99fgc0f52476f6d5" version="1">Intimidation</content>
+    <content contentuid="h275a974aga425g4795gb684g3eef09d5d397" version="1">Vous êtes expert en Intimidation.</content>
+    <content contentuid="hef2c1469g17a7g45fdgab34g75602b620a77" version="1">Investigation</content>
+    <content contentuid="hb01dfeb1g8dc6g4d5agbdcfg25243f97d63a" version="1">Vous êtes expert en Investigation.</content>
+    <content contentuid="h70bd03f2g2007g468agbd58g3d8a40f1265b" version="1">Médecine</content>
+    <content contentuid="hd0f08d13g047bg42d6g9bc7gb4550496b61f" version="1">Vous êtes expert en Médecine.</content>
+    <content contentuid="h821c470bg5cacg49aeg912bg76371159d82e" version="1">Nature</content>
+    <content contentuid="hbd3b13dagd91fg498fgb666g83ca967ceed6" version="1">Vous êtes expert en Nature.</content>
+    <content contentuid="he9ef9ad8g07d6g484egb92eg8e7e99504e98" version="1">Perception</content>
+    <content contentuid="hcf8af9d5g8b99g42a7g9027g455bece1b32b" version="1">Vous êtes expert en perception.</content>
+    <content contentuid="h1292366fg9ff0g4e8cg9984g98903ef06e92" version="1">Performance</content>
+    <content contentuid="h9475cc7fg5bf9g4b44ga846g92df316f1c48" version="1">Vous êtes expert en Représentation.</content>
+    <content contentuid="h2ebea6d7g319bg4d54gad89gccf0ab24f4a7" version="1">Persuasion</content>
+    <content contentuid="h319a5f0eg60a7g4773g8f71gf54a43bf1513" version="1">Vous êtes expert en Persuasion.</content>
+    <content contentuid="h8d6e6d3fg1da2g4c46gab45g76a9539fa34e" version="1">Religion</content>
+    <content contentuid="haef732d4g3c19g43dcga08fg83cb899964fd" version="1">Vous êtes expert en Religion.</content>
+    <content contentuid="hc630cdd6g859cg4f49gb25bg76c4255bc80b" version="1">Escamotage</content>
+    <content contentuid="hb5368a1fg4897g4d57g8626g2a113baaed9a" version="1">Vous êtes expert en Escamotage.</content>
+    <content contentuid="h72bd46e3g0f7fg4991g9746g57aeb95e1c70" version="1">Furtivité</content>
+    <content contentuid="h71dc06acg86d6g4abbgb742geb61c2d209cf" version="1">Vous êtes expert en Furtivité.</content>
+    <content contentuid="h23146ff7g9357g469eg9254g50800c445cef" version="1">Survie</content>
+    <content contentuid="hb01bc96ag049dg4425g9842g022c7bac05f0" version="1">Vous êtes expert en Survie.</content>
+    
+    <!-- abilities / status -->
+    <content contentuid="h80c598ae69b34fa8bd7e79b9d87c2134a18f" version="1">Sanctuaire du Crépuscule</content>
+    <content contentuid="he3fed542e32845f09a4d8c2e3b8fd7d3a256" version="1">Tant que vous restez dans l'obscurité, vous bénéficiez d'un bonus de +[1] à vos &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt;.</content>
+
+    <!-- abilities / abilities -->
+    <content contentuid="h5c27ce72gbe2ag434dg9c8cgb519a3c8fdab" version="1">Forme lycanthropique : Rapide</content>
+    <content contentuid="hbd33dc97ga8e3g4c63g9d48g3d0410593c68" version="8">Prenez la forme d'un loup mince et rapide. Votre forme lycanthropique a [1]  &lt;LSTag Tooltip="HitPoints"&gt;Point de vie&lt;/LSTag&gt; et une vitesse de déplacement accrue.</content>
+    <content contentuid="h1d10ccbcgfe1cg4e6ega26bg54906ec5a361" version="6">Sous forme animale, vous ne pouvez ni parler ni lancer de sorts. Vous prenez les attributs de votre forme de bête - à l'exclusion de votre valeur de caractéristique d'&lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, de &lt;LSTag Tooltip="Wisdom"&gt;Sagesse&lt;/LSTag&gt;, et de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;Quand votre forme lycanthropique tombe à 0 &lt;LSTag Tooltip="HitPoints"&gt;Point de vie&lt;/LSTag&gt;, vous revenez à votre forme humanoïde.</content>
+    <content contentuid="h54ce0fb2gca85g4047gaf78ga5b69fbfbd10" version="1">Forme Lycanthropique : Robuste</content>
+    <content contentuid="h404ab3eeg41cbg4b65g81edg1ac5f2dbc17b" version="8">Prenez la forme d'un loup robuste et fort. Votre forme Lycanthropique a [1] &lt;LSTag Tooltip="HitPoints"&gt;Point de vie&lt;/LSTag&gt;.</content>
+    <content contentuid="hebf4d579gcedbg40d9gb74fg384d8b8827ae" version="1">Forme Lycanthropique : Annuler</content>
+    <content contentuid="hef52f0fbg290dg43c3gb301gae55f049bb4e" version="3">Ignorez votre forme lycanthropique et revenez à votre forme originale.</content>
+    <content contentuid="hc4c8ec10gd8bdg4b72gb8b0gf3e1aa998d37" version="1">Hurlement précipité</content>
+    <content contentuid="h201b6387g339eg47a4g8dbcg601e9aa06bc2" version="3">Appelez votre meute. Chaque allié à portée de voix peut se déplacer de [1] supplémentaire lors de son prochain tour.</content>
+    <content contentuid="h1a487d36ge7c7g4544g8308g68218ce90f55" version="3">&lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse&lt;/LSTag&gt; augmenté de [1].</content>
+    <content contentuid="h52471098g22c3g4963g9667gf6a6887f1db6" version="1">Hurlement menaçant</content>
+    <content contentuid="h452db503g9d39g4898gb29fg69c46fa8e49d" version="3">Faites connaître votre présence. Chaque ennemi à portée de voix perd [1] de Vitesse pour son prochain tour.</content>
+    <content contentuid="hf83fca01gb72dg4413gb16bg8490aa033f5f" version="3">&lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse&lt;/LSTag&gt; diminué de [1].</content>
+    <content contentuid="hdf737eabg9efeg4a92ga682g6fb739ed5cd2" version="1">Mordre</content>
+    <content contentuid="hbb5bfd04gccb1g42c3gbf06gcc693721fd03" version="1">Mordez une cible.</content>
+    <content contentuid="h815f62b5g8ff6g4453gbe54gdae9ad079fe3" version="1">Morsure sauvage</content>
+    <content contentuid="hfb2ce063g7860g4bbbg8ae4gadf14d682772" version="1">Foncez sur une cible avec toute la force de votre corps canin et eventuellement lui infliger un &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Renversement&lt;/LSTag&gt;.</content>
+    <content contentuid="h9437eb1bg8234g4ae4gaf78gde9ae77d7791" version="1">Morsure rompante</content>
+    <content contentuid="h5ee4ee32gd877g4c67ga054gfd52fc64d8e8" version="1">Frapper le point faible d'une cible et eventuellement lui infliger un &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Saignement&lt;/LSTag&gt;.</content>
+
+    <!-- progression description -->
+    <content contentuid="hdefe6bb2cfe54153834c8116004aefd33a32" version="1">Magie boréale</content>
+    <content contentuid="h37b5447f9cee4f7e885026e45fb7819c66be" version="1">Votre peuple réside dans le Grand Nord depuis des générations et a appris à exploiter ses énergies magiques.&lt;br&gt;&lt;br&gt;Vous pouvez sélectionner un sort mineur.&lt;br&gt;Ce sort mineur n'utilise pas d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacements de sorts&lt;/LSTag&gt; et peut être lancé à volonté.&lt;br&gt;Il utilise votre Sagesse comme &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Modificateur&lt;/LSTag&gt;.</content>
+    <content contentuid="he64d5a40g7c36g4e6dgbe86g6c8d78cd8b59" version="1">Perfectionnisme</content>
+    <content contentuid="hc83be489g62c5g4900g9a2eg895e485641c8" version="1">Votre peuple est réputé pour sont dévouement à développer certaines compétences à un degré magistral. Sélectionnez une compétence pour laquelle vous avez une affinité particulière pour acquérir une expertise.&lt;br&gt;&lt;br&gt; Lors d'un &lt;LSTag Tooltip="AbilityCheck"&gt;Test de caractéristique&lt;/LSTag&gt; qui repose sur cette compétence, vous pouvez ajouter votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt; deux fois.</content>
+    <content contentuid="hc9c5000egb64eg413eg98c0gd7975ea95160" version="1">Tradition</content>
+    <content contentuid="hbc1ad0bag2eebg4e0fga9eagcb1332ce63ef" version="1">Vous pouvez choisir comment les traditions transmises par votre communauté ont affecté vos capacités.</content>
+    <content contentuid="he480f9b7gcf22g47ebg87deg9557cd2e3d70" version="1">Lycanthropie</content>
+    <content contentuid="h36f3772fgcddag4744g8f19g1430d1529041" version="1">Vous êtes un véritable Lycanthrope, descendant d'une meute de Lythari qui a survécu à travers les générations.&lt;br&gt;&lt;br&gt;Pour assurer la survie de la meute, chaque loup doit faire sa part, que ce soit par la force ou l'intelligence.&lt;br&gt;&lt;br&gt;&lt;br&gt;Vous pouvez utiliser votre Forme Lycanthropique un nombre de fois égal à votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Bonus de maîtrise&lt;/LSTag&gt;.</content>
+    <content contentuid="haafe0cc1gbc76g4545g9b60ge7cab201abd8" version="1">Magie Naturelle</content>
+    <content contentuid="h52fd073dgae95g4f47g879bge6ab1aaf627d" version="1">Votre peuple réside dans les jungles isolées de l'extrême sud depuis des générations et a appris à exploiter ses énergies magiques.&lt;br&gt;&lt;br&gt;Vous pouvez sélectionner un sort mineur.&lt;br&gt;Ce sort mineur n'utilise pas d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacements de sorts&lt;/LSTag&gt; et peut être lancé à volonté.&lt;br&gt;Il utilise votre Sagesse comme &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Modificateur&lt;/LSTag&gt;.</content>
+
+    <!-- tag selector / original by ghouls0rules -->
+
+    <content contentuid="h27442dc7g9180g4fd5g9d7fg3994cfeda3d3" version="1">Ascendance</content>
+    <content contentuid="h2a67e4d9gd6eag4834g90c1g87664086b004" version="1">Qui êtes-vous ? D'où venez-vous ?&lt;br&gt;Sélectionnez l'ascendance qui correspond le mieux à votre personnage.&lt;br&gt;&lt;br&gt;Cette sélection détermine les balises qui leur sont appliquées. Les balises affectent la façon dont les PNJ réagissent à votre égard et les options de dialogue auxquelles vous pouvez avoir accès.</content>
+
+    <content contentuid="h1e6dfc9eg9940g41b1gba15g25369245fe33" version="1">Baldurien</content>
+    <content contentuid="hc4ace1dagb619g4a5fg92dfg6dda94a8e4ba" version="1">Vous êtes originaire de la Porte de Baldur.</content>
+    <content contentuid="h927a2352g1eeag441cgb7f1gc10d8cc58349" version="1">Outreterrien</content>
+    <content contentuid="h79b446a5g3d5dg43cdgb83cgc1436d56774d" version="1">Vous êtes originaire de l'Outreterre.</content>
+
+    <content contentuid="h6b02cbc2g98b9g4db6g8799gb0fb80ce0377" version="1">Haut Elfe</content>
+    <content contentuid="hb79aaf7cg7f0eg4beagaf57g03d19918825d" version="1">Vous êtes un Haut Elfe.</content>
+    <content contentuid="h38647ae1g72b0g453fgb170g39ab44e3feb4" version="1">Elfe des bois</content>
+    <content contentuid="h040fab45gdf2bg4ae2gb083ge3917451f243" version="1">Vous êtes un elfe des bois.</content>
+
+    <content contentuid="h84792999g8a78g49abgb33dg3ae695a10cb4" version="1">Demi-haut elfe</content>
+    <content contentuid="h98d9140cg2a13g48e1g9511g8994615e7a5f" version="1">Vous êtes un demi-haut elfe.</content>
+    <content contentuid="h174ef2ffg89feg4829g9c9bg2d1720a9e0c3" version="1">Demi-elfe des bois</content>
+    <content contentuid="h4693984dg4376g4c98g82d3geaf1bbe5a98b" version="1">Vous êtes un demi-elfe des bois.</content>
+    <content contentuid="h40dbda33ge88ag44daga258g037ca7ae3d72" version="1">Demi-Drow</content>
+    <content contentuid="hf5c1f1b0gcf75g4981gbcadgd0829fe59a08" version="1">Vous êtes un Demi-Drow.</content>
+
+    <content contentuid="h5648b860ge7d5g46bbg95f4ga57534921efa" version="1">Drow dévoué à Lolth</content>
+    <content contentuid="hf73d20cfg26a5g4cbcgb942g13378575b41f" version="1">Vous êtes un Drow assermenté par Lolth.</content>
+    <content contentuid="h7afbe898g17b9g4851ga946g8af4539bb2f8" version="1">Drow de la Seldarine</content>
+    <content contentuid="h2886730cg4f28g449cg8a16g3a0db0824a0b" version="1">Vous êtes un Drow désavoué par Lolth.</content>
+
+    <content contentuid="hb432860dg63cbg459eg8c88g005563ed6202" version="1">Rare</content>
+    <content contentuid="h6de38774g742dg4e14gb8e3g816990fb64b7" version="1">Vous êtes une race rare.</content>
+
+    <content contentuid="h2e304b8803f149a9aed246db75d9ed42eb99" version="1">Enfant de Dragon</content>
+    <content contentuid="he87725fadcbc4c70bdce55453e601f39796d" version="1">Vous êtes un Enfant de Dragon.</content>
+
+    <content contentuid="hb035e593g14d6g4792ga5c6gf87f158b6ab5" version="1">Bête</content>
+    <content contentuid="hcb203cd0g6e2ag43b7gbbdbgedb7f7683de0" version="1">Vous êtes une sorte de bête, que ce soit physiquement ou autrement.</content>
+
+    <content contentuid="h173a832ag17a1g408dg9f92gff41fe69a13c" version="1">Planaire</content>
+    <content contentuid="h0c2d29bfg25f5g4315g8888g6340eaa719d5" version="1">Vous avez des origines extraplanaires.</content>
+
+    <content contentuid="hcaa90bb91d734af08091d5f3928099034097" version="1">Lycanthrope</content>
+    <content contentuid="hca59e8c2a0124c25bf6ad74b6a61beb99b11" version="1">Vous êtes un Lycanthrope.</content>
+
+    <content contentuid="hfc7907efg1289g49cdga011g2c64d68f98d3" version="1">Sans passé</content>
+    <content contentuid="h0df5798ag9daeg46d5ga154gb121476368c6" version="1">Qui que vous étiez avant ce jour, vous l’avez oublié depuis longtemps.</content>
+
+    <content contentuid="h689fa15852934f17a91b950c02bfc22018f1" version="1">Sorcier draconique</content>
+    <content contentuid="hc4d8a428f17949808c50d232b9df699c5g16" version="1">Vous êtes un Sorcier Draconique.</content>
+
+    <content contentuid="h26b79a3eg14b9g45e7gabcdgd6a79be28ff2" version="1">Sans demeure</content>
+    <content contentuid="h6e617917g8f52g4297gb26cg21fe799742b2" version="1">D’où que vous veniez, vous ne pouvez pas vous en souvenir.</content>
+
+    <!-- skintones -->
+
+    <!-- dusk elves -->
+    <content contentuid="h844c5f4cd28949708a337c75703eec24gb98" version="1">Tombée de la nuit 00</content>
+    <content contentuid="h122377b79755cc286a782d1gf8aa101903a6" version="1">Tombée de la nuit 01</content>
+    <content contentuid="hd2b3d21a5be5e09312a2c57c54g54d5b0ce4" version="1">Tombée de la nuit 02</content>
+    <content contentuid="h4358088492f93gd5gg9d1202d47d4bgg47bf" version="1">Tombée de la nuit 03</content>
+    <content contentuid="ha46b29gea025d4ec96b4g9907ebe6fcc2e25" version="1">Tombée de la nuit 04</content>
+    <content contentuid="hf84462b94ccb47a7a3de234750b9120396bg" version="1">Tombée de la nuit 05</content>
+    <content contentuid="hg1e3eb4b2614becf6af74b8578a705b98313" version="1">Tombée de la nuit 06</content>
+    <content contentuid="hdb3a008c73f34f7b9150e69548e63e7e748g" version="1">Tombée de la nuit 07</content>
+    <content contentuid="h147477585a479ea69c18ae03g606660b1838" version="1">Tombée de la nuit 08</content>
+    <content contentuid="hc5ad8d0f895547f7bf0854772b088386d9ge" version="1">Tombée de la nuit 09</content>
+    <content contentuid="h7722b723de76915aaa71050gdf057390d5d1" version="1">Tombée de la nuit 10</content>
+    <content contentuid="hdf1789c6ee1d46e7b4bdf6e77b4e5406d1b1" version="1">Tombée de la nuit 11</content>
+    <content contentuid="h123894170a8a64g9b53b9c43d11954ac14e4" version="1">Tombée de la nuit 12</content>
+    <content contentuid="h49df29a672314fe69ed44e19b40fe74d0628" version="1">Tombée de la nuit 13</content>
+    <content contentuid="hf8a51153cf4dda8agg03bfg70e971f7c33e5" version="1">Tombée de la nuit 14</content>
+    <content contentuid="hbe44c17840620504f39c4bfefb5a0b6976e8" version="1">Tombée de la nuit 15</content>
+    <content contentuid="h7f0ebccad9d54bd2b2724f324f11e5688e13" version="1">Tombée de la nuit 16</content>
+    <content contentuid="h0654fe0126b7ac7e5428f71f8c96f64a3b6d" version="1">Tombée de la nuit 17</content>
+    <content contentuid="h69c9fa5431ee5920gfcac063870ec8ea8706" version="1">Tombée de la nuit 18</content>
+    <content contentuid="hea1edee660c54cfea1716e62a7ddc7a75d76" version="1">Tombée de la nuit 19</content>
+    <content contentuid="h1b019ca21c6a400f986217c2b1c1fad514e0" version="1">Tombée de la nuit 20</content>
+    <content contentuid="hd22fcg7196c8f231g1302af392cd2g12628b" version="1">Crépuscule 00</content>
+    <content contentuid="h5e443e9d3aa6991b9b918b760fef9bg01837" version="1">Crépuscule 01</content>
+    <content contentuid="hgg19c0g43a172721f03bc98336b859133d5b" version="1">Crépuscule 02</content>
+    <content contentuid="h323g7de89a0f23e17gd7g173d619cf324ce9" version="1">Crépuscule 03</content>
+    <content contentuid="h3fcb7cf7d262g2g99ebg96b8e2ecf02d6617" version="1">Crépuscule 04</content>
+    <content contentuid="h49g91bcee03b3ac46562ae67102005318815" version="1">Crépuscule 05</content>
+    <content contentuid="h5109b9056dgba0b9d6gabdd1g37a2b297fbc" version="1">Crépuscule 06</content>
+    <content contentuid="h2d116a50dfe18ggd94dafc304d9760d955a2" version="1">Crépuscule 07</content>
+    <content contentuid="h21f5d563c9dca0dg21e870ab4a92cg378ggg" version="1">Crépuscule 08</content>
+    <content contentuid="hfdf00968925agg5a72f02bg435fd5d8gde21" version="1">Crépuscule 09</content>
+    <content contentuid="h647faf9cb077d1ab8da854881ff9g23ddcc5" version="1">Crépuscule 10</content>
+    <content contentuid="hb0350aab3g5g6ggeed6b63ddde2ba9d3bdg8" version="1">Crépuscule 11</content>
+    <content contentuid="h2801bbf5ea4232eg23c5add2a718073910c7" version="1">Crépuscule 12</content>
+    <content contentuid="h2egfge10129030bgae16ga678a2bf59720gg" version="1">Crépuscule 13</content>
+    <content contentuid="hg535e312570ea2fc818d8f72250d5227fec0" version="1">Crépuscule 14</content>
+    <content contentuid="hb0d0c6g462000g9663cba49e526b91da324e" version="1">Crépuscule 15</content>
+    <content contentuid="h89e23965172b742c5g9c4c73db7142debbd8" version="1">Crépuscule 16</content>
+    <content contentuid="h194467917ga728b2ddbdb3ae817d9bec5gaa" version="1">Crépuscule 17</content>
+    <content contentuid="hc81120ee91362d2d44010gf023g54d6ed883" version="1">Crépuscule 18</content>
+    <content contentuid="h0ag37eb762edf94c890ea5dc1b8172daf528" version="1">Crépuscule 19</content>
+    <content contentuid="h9279cgf36ga8b8a5gdg6c36393cbda7239gf" version="1">Crépuscule 20</content>
+
+    <!-- snow elves -->
+    <content contentuid="h8g309061deb9c82d029ed465bd396gge6848" version="1">Pergélisol 00</content>
+    <content contentuid="h1053a460cc8162gfgg6a380fa11c6gda9e41" version="1">Pergélisol 01</content>
+    <content contentuid="h96e5g7c1d4e7cdfg2121dfcd0443gbg7ec3b" version="1">Pergélisol 02</content>
+    <content contentuid="hf61aedged59492e54f47gd0d39fcb2bgba4b" version="1">Pergélisol 03</content>
+    <content contentuid="h2bc670a5602beae172a1fc286e2fg49b1315" version="1">Pergélisol 04</content>
+    <content contentuid="h240e71e57ce19gb829701d604330g5d993c2" version="1">Pergélisol 05</content>
+    <content contentuid="h4a4cd60c71d1d8c931192cb3e66e2830aa90" version="1">Pergélisol 06</content>
+    <content contentuid="hfg2478ee36781041cgfbcdb432084ddcb3fb" version="1">Pergélisol 07</content>
+    <content contentuid="h20f3cg051eb9f0ebaa11ebebga4gb02e77f1" version="1">Pergélisol 08</content>
+    <content contentuid="h275b88beaad9f2a0eeg78f96c5a5450a2c83" version="1">Pergélisol 09</content>
+    <content contentuid="h1ddf6g7c65edb80730da39fde5f1a58d1fdb" version="1">Pergélisol 10</content>
+    <content contentuid="he16c3ff99be4023745cdgd18b199g5g95f58" version="1">Pergélisol 11</content>
+    <content contentuid="h17bcebc8c4c54940e68590ed55e1279a1gca" version="1">Pergélisol 12</content>
+    <content contentuid="hfda55gda86de90b58571c6c64949f44e99g7" version="1">Pergélisol 13</content>
+    <content contentuid="h3d849290bba1364fg82606a4c4f1g0fddde0" version="1">Pergélisol 14</content>
+    <content contentuid="hc7565cb1d1eb9882abea239632cgc41f7ba5" version="1">Pergélisol 15</content>
+    <content contentuid="h9b84381c606d26g5def5d8g8c94378d300c4" version="1">Pergélisol 16</content>
+    <content contentuid="hbgcc51803e0dg8365cbg9569fcfc331ag3g9" version="1">Pergélisol 17</content>
+    <content contentuid="h565b509ff85g9460c25874bcb0f3g29a9gbb" version="1">Pergélisol 18</content>
+    <content contentuid="h596a6290f0cb2e1e3fdf3289bbc9dg6f17f9" version="1">Pergélisol 19</content>
+    <content contentuid="h224e66c5b9bbc6a2e7994g52c6f325493ba9" version="1">Pergélisol 20</content>
+    <content contentuid="h48f4gdb4cg8f32gccfggdd6fg50e390761bb" version="1">Neige fraîche 00</content>
+    <content contentuid="heb16eeb410g8697cd4e52ddge5e9g4fb75d9" version="1">Neige fraîche 01</content>
+    <content contentuid="hee643g4259b9ga98351e7c417fge9c0d0fcc" version="1">Neige fraîche 02</content>
+    <content contentuid="hed69gg4e3c1ef2f81ccd7d7a36ccabcg0e2c" version="1">Neige fraîche 03</content>
+    <content contentuid="h66619gb20940deg0da421dcadd389b1ba301" version="1">Rime 00</content>
+    <content contentuid="h0a6561b9fgf538f24b2caca2f0c440b125db" version="1">Rime 01</content>
+    <content contentuid="h8ag9193d32c93fb3cgd51d3153e6b37a9600" version="1">Rime 02</content>
+    <content contentuid="h87becbf64e9995342d098b22e37278c9db30" version="1">Rime 03</content>
+    <content contentuid="h5848046ff1077fafc235b0a3d913f567b1f7" version="1">Rime 04</content>
+    <content contentuid="h5656d79c7d58df4866a47d0e407bf0f4478d" version="1">Rime 05</content>
+    <content contentuid="h29848912767a274a51c3164cc6gg8d588149" version="1">Rime 06</content>
+    <content contentuid="h308de77a012324a6a5ee09ad087c200cf8fe" version="1">Rime 07</content>
+    <content contentuid="h7cc7df60a6d2f7e18e2cgd1e295040e86503" version="1">Rime 08</content>
+    <content contentuid="hebfe1a690bggffe44926cfcf02eefb25f2c2" version="1">Rime 09</content>
+    <content contentuid="h5447fg1f02g7660d12b1gd893cbe4200afe0" version="1">Rime 10</content>
+    <content contentuid="h8d0e45e4c532fg68a7af43a3e9afe0bfb4fg" version="1">Rime 11</content>
+    <content contentuid="h3f06g8f9c37c3245db9b7654235f0bbbde1g" version="1">Rime 12</content>
+    <content contentuid="he8cb2b6c60aaaceb06fb5cc395gg67709227" version="1">Rime 13</content>
+    <content contentuid="h32g7ceagbf7ea3101fc62bd742g06c4056ba" version="1">Rime 14</content>
+    <content contentuid="h89303e67f5c87gb9099191f3e992cd14e1ge" version="1">Rime 15</content>
+    <content contentuid="h7584g814540a7d1a8a5a18472a969937fac2" version="1">Rime 16</content>
+    <content contentuid="he3f89837556c98195f00a30e1d9g892c3ea9" version="1">Rime 17</content>
+    <content contentuid="hcc023009f9d7efa4a7a37cd38f3g3d2458f6" version="1">Rime 18</content>
+    <content contentuid="hbfe9a0148gc2c61cd20d6gd4184gaa6g2aa4" version="1">Rime 19</content>
+    <content contentuid="hbecc35d7eg702g44490558c1c6bf2841gf9d" version="1">Rime 20</content>
+
+    <!-- star elves -->
+    <content contentuid="hed772729180028b67f1eebb40f9f274gaecc" version="1">Météorite 00</content>
+    <content contentuid="h35046gd304d3cafbc1ae1394812751e23837" version="1">Météorite 01</content>
+    <content contentuid="h0g6c81a4195a1475a8dg9a775b90a82c9c19" version="1">Météorite 02</content>
+    <content contentuid="h2edd78f3161dd16e16bg5ffbbdgfb784284b" version="1">Météorite 03</content>
+    <content contentuid="he935cc1a075053e30572e27bag214f47d77c" version="1">Météorite 04</content>
+    <content contentuid="h65bacb8c19c7187e8126734079e84ab5d096" version="1">Météorite 05</content>
+    <content contentuid="hfd737f01cb577c1236c9gb7aecd74a98fgg1" version="1">Météorite 06</content>
+    <content contentuid="h39ef3f91fd176d0f964b0g7d13fa3f354bcc" version="1">Météorite 07</content>
+    <content contentuid="h9d8f064ee488cf9ecbacb7gbcac8671c8cag" version="1">Météorite 08</content>
+    <content contentuid="hb345b9daff878392154af057b9a0bfgd5712" version="1">Météorite 09</content>
+    <content contentuid="hf22340bc7817ebcc251g2b1f588a5efac37b" version="1">Météorite 10</content>
+    <content contentuid="hf16ac1a7d6e9174c4fdf9e29g799g0fcc149" version="1">Météorite 11</content>
+    <content contentuid="hf0a3d5aeebfbbff696b37d22c63a8b701610" version="1">Météorite 12</content>
+    <content contentuid="h54e379e9e3df44a766gb67bbaef64e05fe2c" version="1">Météorite 13</content>
+    <content contentuid="h584166c8d4d067dcg4eea5385g08a5dg1e0c" version="1">Météorite 14</content>
+    <content contentuid="h3029g5a2ebbfdda5g92g5500eb4f662b3163" version="1">Météorite 15</content>
+    <content contentuid="hcf40131c8ac733fd44ga3df3fcb594542c96" version="1">Météorite 16</content>
+    <content contentuid="he460cbcggacf8850902aacb5dd191ccgbfdd" version="1">Météorite 17</content>
+    <content contentuid="hbfedbb88b217ca598c8fe263e2630f9abb7a" version="1">Météorite 18</content>
+    <content contentuid="h25b72gfgge46ab71f746ca3e64887b9g0087" version="1">Météorite 19</content>
+    <content contentuid="hbfe50b188811gg28g338016ag94e4e9e59gd" version="1">Météorite 20</content>
+    <content contentuid="hbc1174e6a1faddfacbbc54facbca318ffc27" version="1">Lustre 00</content>
+    <content contentuid="hgb048be0b706a15925881362d4afd976cee5" version="1">Lustre 01</content>
+    <content contentuid="ha697627cba70c4d77279ad0g4fcaa89eb1de" version="1">Lustre 02</content>
+    <content contentuid="hba2fcc13556ggb5ef80f9fb40g9ac77dg25g" version="1">Lustre 03</content>
+    <content contentuid="hf16733018gg3d415b2g9f44a45d0a7be9c08" version="1">Lustre 04</content>
+    <content contentuid="h7a93f7d6fe7d3f8768d9aa1cbebag6fe2bfb" version="1">Lustre 05</content>
+    <content contentuid="hda84gda0237720bc3adb91ceb7b0582724bb" version="1">Lustre 06</content>
+    <content contentuid="h33bbb799c096c44bgbeca0c57e5e27f2a008" version="1">Lustre 07</content>
+    <content contentuid="h77895a95a3e544f2285f7e5ec77b6f8c3262" version="1">Lustre 08</content>
+    <content contentuid="h0bf1a6af42c18da49gee27dg9g798g3a1341" version="1">Lustre 09</content>
+    <content contentuid="hdf1083565458gc8e3b302adc6d486127g9fb" version="1">Lustre 10</content>
+    <content contentuid="h023703dbf2031bcg164407edcbdef6e5a03c" version="1">Lustre 11</content>
+    <content contentuid="h17b02d44ecce9fd5g5f396gafa547914dcd9" version="1">Lustre 12</content>
+    <content contentuid="h1cgga13697gaa2bgd01a3a2f7771c25b7d8c" version="1">Lustre 13</content>
+    <content contentuid="hf1g61f5a1df4ed403b61de4f61g747d4e853" version="1">Lustre 14</content>
+    <content contentuid="hg8g2e9706efb23f75d28fe12ac17212dbaa8" version="1">Lustre 15</content>
+    <content contentuid="h5c6586763f06dd7a4dbbf4567adb6154f4a6" version="1">Lustre 16</content>
+    <content contentuid="hg11cg23b06160366g5996559089ecf7gee62" version="1">Lustre 17</content>
+    <content contentuid="h40b5f739fe25cf82c1be5363ad69634fcfff" version="1">Lustre 18</content>
+    <content contentuid="hf47d51d0e8gc468c23b2b11f6a828c3780d3" version="1">Lustre 19</content>
+    <content contentuid="h314f038b53eaf9fd633g3afd90ge36e6g268" version="1">Lustre 20</content>
+
+    <!-- sun elves -->
+    <content contentuid="h519f2cea7974f4a386g7dff1cbe5b98521ab" version="1">Ensoleillé 00</content>
+    <content contentuid="hac0dca5d8g6044d8d67d4bea9f9gdac526f9" version="1">Ensoleillé 01</content>
+    <content contentuid="he0gc6ab4829f37gdgbbe2c092be7a8f80b0a" version="1">Ensoleillé 02</content>
+    <content contentuid="h3a8526b08e37d8146c95c3b250c49af1e242" version="1">Ensoleillé 03</content>
+    <content contentuid="hb7gad4dd79f71c4a3ac806a51fg6321b015e" version="1">Ensoleillé 04</content>
+    <content contentuid="h7c7d896c9b30ac6cb0b5010b0f10ec17590f" version="1">Ensoleillé 05</content>
+    <content contentuid="hea78b0cb3be77db5cad7c5g4a6531gb90e8g" version="1">Ensoleillé 06</content>
+    <content contentuid="h4893d8ea7c6ca4degb156493948fe5af8279" version="1">Ensoleillé 07</content>
+    <content contentuid="hbe79bee00ccd8a931d6bbb9547a0b1e63cgg" version="1">Ensoleillé 08</content>
+    <content contentuid="he84ec7ab4aeb0fc9c637f683b15d389f69cg" version="1">Ensoleillé 09</content>
+    <content contentuid="h4fb9439b9c2fa3f7f69b528bb6a63278af5d" version="1">Ensoleillé 10</content>
+    <content contentuid="hf8c11b41gda3c5b03553f35c9257333bfd1d" version="1">Ensoleillé 11</content>
+    <content contentuid="h68ag007ab8bcgge5d2ef59ae925ee8623ef0" version="1">Ensoleillé 12</content>
+    <content contentuid="hcbc0d8bc90ae8adcg38ed6527c4d8bgd8322" version="1">Ensoleillé 13</content>
+    <content contentuid="h16bb10911779efcd80356540eea5ee8b79e4" version="1">Ensoleillé 14</content>
+    <content contentuid="hbb48g9eeg70c49de0dbb69585352f1c914ff" version="1">Ensoleillé 15</content>
+    <content contentuid="hb249b68615d4f69ecfgc662357gd4a1b1a27" version="1">Ensoleillé 16</content>
+    <content contentuid="h72686e74cg1212eca5a425394fgf1b6cdd66" version="1">Ensoleillé 17</content>
+    <content contentuid="h1522839e7gaed1c817c03a3b8fccecd4fdfa" version="1">Ensoleillé 18</content>
+    <content contentuid="h8ab306aga3253f6g91d27d1ga1f31b119704" version="1">Ensoleillé 19</content>
+    <content contentuid="hg2111g2e8ff1da523g48b057b70b9bf145da" version="1">Ensoleillé 20</content>
+    <content contentuid="h9cdg909036fd81ge0270g5dg4e744dc71883" version="1">Soleil-Timide 00</content>
+    <content contentuid="h24e6d42aa6483163ab7def968112430g31af" version="1">Soleil-Timide 01</content>
+    <content contentuid="hc3e8018145936f11gcg9de8aafg4cb8fd545" version="1">Soleil-Timide 02</content>
+    <content contentuid="h2b85530e17cc1340d965aa5209ce531bbba8" version="1">Soleil-Timide 03</content>
+    <content contentuid="h888d4e2647d584c85689b20ab3ab3c3f3g33" version="1">Soleil-Timide 04</content>
+    <content contentuid="hd677c934843136g96c4g9db3d91b3cg6e6c7" version="1">Soleil-Timide 05</content>
+    <content contentuid="hdgee0167gc4be93112b4b16ef4db589e4dac" version="1">Soleil-Timide 06</content>
+    <content contentuid="hdbf95dge9d77dc71aa834ef99033e2eb99g6" version="1">Soleil-Timide 07</content>
+    <content contentuid="h0f201a11cf5e0aa706510a0176ec8158a1a6" version="1">Soleil-Timide 08</content>
+    <content contentuid="hce658b3869ca3f88427213ea9c6ace75d7gc" version="1">Soleil-Timide 09</content>
+    <content contentuid="hadgac7c2ag6g7e3682700f0b7d66d1cf4bf0" version="1">Soleil-Timide 10</content>
+    <content contentuid="h2a64b3d7cb22c2a01f2gge7aa5160100b93g" version="1">Soleil-Timide 11</content>
+    <content contentuid="h6e74733ag8f48efd01cgeea999g0453230a8" version="1">Soleil-Timide 12</content>
+    <content contentuid="h38b16ac57b7e4c08g1c2484549a74b8b02d5" version="1">Soleil-Timide 13</content>
+    <content contentuid="hc0ccf03f93f89db4eege86f3bbca38175b3e" version="1">Soleil-Timide 14</content>
+    <content contentuid="hg0bbb3348da0a97e031a8b68dd46dd559b5e" version="1">Soleil-Timide 15</content>
+    <content contentuid="h6f347a2e86884eaf23a4405d8dg8a322a109" version="1">Soleil-Timide 16</content>
+    <content contentuid="h2f56a41c27g63b5785gaa1caf58fcc11b094" version="1">Soleil-Timide 17</content>
+    <content contentuid="h07feg9f0d5e403d3b090gc1a95301gb7f620" version="1">Soleil-Timide 18</content>
+    <content contentuid="h6761024d3bf6b342d156dd0308ea2gg78482" version="1">Soleil-Timide 19</content>
+    <content contentuid="h62eg0361e2591d65c892e6gbag69b499fgdd" version="1">Soleil-Timide 20</content>
+    <content contentuid="hbgbag1gd69bda569cgf410eb659eg50eg8da" version="1">Doré 00</content>
+    <content contentuid="hdd707ccc2bcd1aa0d58ac64b5e87d6cfg67f" version="1">Doré 01</content>
+    <content contentuid="h594a63ed43cc6e19de030761db2c4bg88cb2" version="1">Doré 02</content>
+    <content contentuid="hgfe0ce40c080f59g24658gg8c8f5f60ba0c6" version="1">Doré 03</content>
+    <content contentuid="he4c76f747948ec3b7eg2d3ef046eb3f16428" version="1">Doré 04</content>
+    <content contentuid="hb097c35g6e2b1fc6d175c88381f57fbgc227" version="1">Doré 05</content>
+    <content contentuid="h1b4gg81d333f60ae5d8e19223b1e058036fc" version="1">Doré 06</content>
+    <content contentuid="h355422df22143a62a1eb6fb9988e042a4f5b" version="1">Doré 07</content>
+    <content contentuid="hc810901gfff93a372afa1ba62362b8g768e0" version="1">Doré 08</content>
+    <content contentuid="hf05157920092b17c4581f2c8a1abcad15188" version="1">Doré 09</content>
+    <content contentuid="hcd89f63719fbd0073f63d7158edge68eg8bg" version="1">Doré 10</content>
+    <content contentuid="h13g75713fc37e7b55cb2855c6d02cc84d872" version="1">Doré 11</content>
+    <content contentuid="h1453f073e8ecg4d781g1g400f27c89bc5aa8" version="1">Doré 12</content>
+    <content contentuid="h91cb231gf6fg56cd07cc0aa20f0d88a3ba35" version="1">Doré 13</content>
+    <content contentuid="he4226b343fdaa7a2470c595ca242156cd80a" version="1">Doré 14</content>
+    <content contentuid="h77c62e5c01cf659960c1852acddgc4753edg" version="1">Doré 15</content>
+    <content contentuid="h44fg9g08dega8d2e5debdbg1e6bebee1bbc2" version="1">Doré 16</content>
+    <content contentuid="h6b7e8cd2g5462141f78549bg3edg300fff64" version="1">Doré 17</content>
+    <content contentuid="hg62be67ag39b4689d6ede36cd7fb196g7248" version="1">Doré 18</content>
+    <content contentuid="h8g59175bf29560g49gea29dc3887e98g717c" version="1">Doré 19</content>
+    <content contentuid="haadaf8dcb6f187ag257a017a70e56f851acd" version="1">Doré 20</content>
+
+    <!-- lythari -->
+    <content contentuid="h0ed73c908d3bcc551g2gcc45661ddabfged1" version="1">Lycanthrope 00</content>
+    <content contentuid="hfd2gg1ef4gc6c0b75fgf7de3cg713023985a" version="1">Lycanthrope 01</content>
+    <content contentuid="hf76fffdf16e258e0281bg014035e21e923de" version="1">Lycanthrope 02</content>
+    <content contentuid="hgb504a27d1193b85107aae1a760717552622" version="1">Lycanthrope 03</content>
+    <content contentuid="hg718491b20a79f578g9495c3a5b4143435b9" version="1">Lycanthrope 04</content>
+    <content contentuid="h4c73e7f0f36fe2ca6ag62dcaa86d54eg6396" version="1">Lycanthrope 05</content>
+    <content contentuid="h3f66ae542b1ab42db17f87gb6c13879bad57" version="1">Lycanthrope 06</content>
+    <content contentuid="h3d4b22gb967ce41g58e416a686b92e948500" version="1">Lycanthrope 07</content>
+    <content contentuid="hag8d51a65093288af31d1441b543367852g1" version="1">Lycanthrope 08</content>
+    <content contentuid="h349634690b57f3a05823f93027dfaa686f52" version="1">Lycanthrope 09</content>
+    <content contentuid="h72bgc6f7062013fe01d127c6378341921acc" version="1">Lycanthrope 10</content>
+    <content contentuid="h14546g284105914a049ccb2fg99ab9b379ea" version="1">Lycanthrope 11</content>
+    <content contentuid="h7c88f0ae61e356fb941971bcefaaae3f6ff7" version="1">Lycanthrope 12</content>
+    <content contentuid="h2acec59250f4f07948431g39gb7de751c24a" version="1">Lycanthrope 13</content>
+    <content contentuid="hbf2e6f4eg283eee398g70a80gge2038g2e2e" version="1">Lycanthrope 14</content>
+    <content contentuid="hef09cb2552fgd9156fe92b7c42cd2e2850ec" version="1">Lycanthrope 15</content>
+    <content contentuid="ha2g0294e1432b8ad096bg13c6240d81a055e" version="1">Lycanthrope 16</content>
+    <content contentuid="hdcb787a13091f44bg3c679a8753d1023fb59" version="1">Lycanthrope 17</content>
+    <content contentuid="haac6gddbgg942785ba05a878dga4bed743fa" version="1">Lycanthrope 18</content>
+    <content contentuid="hf2463b5278a07258791694ga61ef0ad797b1" version="1">Lycanthrope 19</content>
+    <content contentuid="hd1f7b797ddg46b8fff0d5a79fd931b027afb" version="1">Lycanthrope 20</content>
+    <content contentuid="h94ff1d0b17e2f9460cd0ddff99dd142b75g1" version="1">Lié à la nature 00</content>
+    <content contentuid="h3ffb70c97f49653g9097e001d75a1e7f9772" version="1">Lié à la nature 01</content>
+    <content contentuid="hgb9fe39a3b96b517d51b4g978g3c61ecae56" version="1">Lié à la nature 02</content>
+    <content contentuid="h35723257aegeced29c625g39g2b7d870g01c" version="1">Lié à la nature 03</content>
+    <content contentuid="haa5ba45066a349d36a019c3649aa697cbaa5" version="1">Lié à la nature 04</content>
+    <content contentuid="h155cf659a60cd961eedc45ade58a3e108253" version="1">Lié à la nature 05</content>
+    <content contentuid="h4a9d0gf68c7a75cf5db4282c4465ef13aeg9" version="1">Lié à la nature 06</content>
+    <content contentuid="hd619bdb7a373ecba07742a514b0gg3e8da10" version="1">Lié à la nature 07</content>
+    <content contentuid="h678dbd3c336gffcaf8d9c979ca4cb2e411f8" version="1">Lié à la nature 08</content>
+    <content contentuid="hgb78417d282g47g9c7fda3e1gega9cc1e69b" version="1">Lié à la nature 09</content>
+    <content contentuid="hc0af13bcb63f6d67fg51fed49219dgg58cc0" version="1">Lié à la nature 10</content>
+    <content contentuid="hcd02948536c229gd0c7e436b0cf632d60dg8" version="1">Lié à la nature 11</content>
+    <content contentuid="h81ba5f1e6695e314760c9ag8edb84042e537" version="1">Lié à la nature 12</content>
+    <content contentuid="ha1gf5gg41af3185g7021c8ea60a275671g64" version="1">Lié à la nature 13</content>
+    <content contentuid="h6c11ae66cf8gcf404e3g8c88g516a5b10af3" version="1">Lié à la nature 14</content>
+    <content contentuid="heff24ed092a9fb8ag77g579dgccc7695fe86" version="1">Lié à la nature 15</content>
+    <content contentuid="hc3ge3657713gdcg2e1fgg2e4a9cb9f3d9dcb" version="1">Lié à la nature 16</content>
+    <content contentuid="h9363cc6834f04a5d29d5g859eg7c4b9d1780" version="1">Lié à la nature 17</content>
+    <content contentuid="h49111d8c54c61371g9ed58d5bd1831c7482a" version="1">Lié à la nature 18</content>
+    <content contentuid="h590ed5df5eb0d58d8700554cbc75cg5199de" version="1">Lié à la nature 19</content>
+    <content contentuid="h9bcgeee34a87bc2c5gag3f2fb2c02d080879" version="1">Lié à la nature 20</content>
+
+    <!-- lorendrow -->
+    <content contentuid="hd01408a299f43d7a3595e42ga7b8d02f5ec9" version="1">Feuillage 00</content>
+    <content contentuid="hf3256bef67d30af3ge1bf65273ac51131383" version="1">Feuillage 01</content>
+    <content contentuid="h48a6b3a5572f1g43577deb0a25a5agd38512" version="1">Feuillage 02</content>
+    <content contentuid="hcb9040fabc1fdg3d3fc2a9a8a0g3g285d836" version="1">Feuillage 03</content>
+    <content contentuid="h4ac9cbac5d20g9f1272be5dgf8090997d08g" version="1">Feuillage 04</content>
+    <content contentuid="heea0084216bb09facdd7f6a55e9f1295904e" version="1">Feuillage 05</content>
+    <content contentuid="h6gb2079g42a47f67b50c831cd1g40d5c47d2" version="1">Feuillage 06</content>
+    <content contentuid="h568b6b211cd96f1ba198g235gd8e30af20d9" version="1">Feuillage 07</content>
+    <content contentuid="ha70da4cad3c59g8aef3cb152aa5f8a1g452b" version="1">Feuillage 08</content>
+    <content contentuid="h15ad7c24364a286516cb07869b01812c5032" version="1">Feuillage 09</content>
+    <content contentuid="h489cca7gbcabef87973g6f8aaedggcfecdfe" version="1">Feuillage 10</content>
+    <content contentuid="hg08b09f357g690f7e7e4a8g92d890b8ada51" version="1">Feuillage 11</content>
+    <content contentuid="h05be828fd7bae5809a7813ba535e63fc5395" version="1">Feuillage 12</content>
+    <content contentuid="hg8092fcfa79868f5fcb4eea41b0gd96950e6" version="1">Feuillage 13</content>
+    <content contentuid="h115800e7839d51fgc818a9a332639b529283" version="1">Feuillage 14</content>
+    <content contentuid="ha2b55164b1426d27c4cag457dde1fd3fdbfa" version="1">Feuillage 15</content>
+    <content contentuid="hf6d440bg2fb79468g1b8e3436gf627512261" version="1">Feuillage 16</content>
+    <content contentuid="hd1694b5a96dc3e45ae73e71011e44dbd1f40" version="1">Feuillage 17</content>
+    <content contentuid="h6ga5b9e1a66af5a0d328f1aa10ae9b4gdaf1" version="1">Feuillage 18</content>
+    <content contentuid="hb2a032ccagdaaf955792779f6073eba26g3d" version="1">Feuillage 19</content>
+    <content contentuid="h69eacb11dgdb69b87695964facf6080437ge" version="1">Feuillage 20</content>
+    <content contentuid="he1c6eg1596a2fcg75bff30b4ab039deaa437" version="1">Ombre verte 00</content>
+    <content contentuid="h62f200b50g58df9813d3b8gf1b21d2c37024" version="1">Ombre verte 01</content>
+    <content contentuid="h50858695bf36eg603f949a38416fgc01ca15" version="1">Ombre verte 02</content>
+    <content contentuid="h949074380db2gec8e7133f709eedb3926835" version="1">Ombre verte 03</content>
+    <content contentuid="hd4633b0bg10855gb73c075991e054dbab287" version="1">Ombre verte 04</content>
+    <content contentuid="h0f786af184g1ae2bf165463b280b1467d265" version="1">Ombre verte 05</content>
+    <content contentuid="hc8446bdf608476c79f15ede04a1ea22cb016" version="1">Ombre verte 06</content>
+    <content contentuid="h37b0e8208240f446268d29743e6b4a4faf10" version="1">Ombre verte 07</content>
+    <content contentuid="h5b6g36cg02d4fa2e9c45abe7a6915280260e" version="1">Ombre verte 08</content>
+    <content contentuid="h62924g92da48ggfgg88g8fe4152769366678" version="1">Ombre verte 09</content>
+    <content contentuid="h10d90999g9dge7986g4eb047cb422ag4252b" version="1">Ombre verte 10</content>
+    <content contentuid="h8a4c4598dab6ebb082c0fd8eee6b7ea1a5b9" version="1">Ombre verte 11</content>
+    <content contentuid="h68e2bcb0d357036a8a0d2b2e3bd57b3682f3" version="1">Ombre verte 12</content>
+    <content contentuid="h7704b269b979bfa8g9ee6e8a8d52ag0fc1d0" version="1">Ombre verte 13</content>
+    <content contentuid="hg78826a7b7f0g1943d219g9bbcbaf2cg58g3" version="1">Ombre verte 14</content>
+    <content contentuid="h8372223549bga9d8d8e38b4g75f832fd902f" version="1">Ombre verte 15</content>
+    <content contentuid="h8b635bbe443417d8a5823fadg5d4177b62f4" version="1">Ombre verte 16</content>
+    <content contentuid="h639753e6b7cbeb4dec3dbgea0cb856f59gd0" version="1">Ombre verte 17</content>
+    <content contentuid="h479ccg6eb5dc143b36e241094d43feg09496" version="1">Ombre verte 18</content>
+    <content contentuid="h3g331cfeg43ggfb018613610287g3822gbg9" version="1">Ombre verte 19</content>
+    <content contentuid="h757462g414a4fc148g942f4f21g1g432c09a" version="1">Ombre verte 20</content>
+    <content contentuid="hf76a883f66a429ge8ef2e5c76701a068bagg" version="1">ASTRL Forêt tropicale 00</content>
+    <content contentuid="h1ebd2b09e93e88400958bd1b582be13b55gd" version="1">ASTRL Forêt tropicale 01</content>
+    <content contentuid="h787f54df474dfcga3g36e2e01922afb712g3" version="1">ASTRL Forêt tropicale 02</content>
+    <content contentuid="h8fb2e22637814dd41002f4ae86569cffgd05" version="1">ASTRL Forêt tropicale 03</content>
+    <content contentuid="h6404d590ecaac77805ab10ce3c1f36cc636f" version="1">ASTRL Forêt tropicale 04</content>
+    <content contentuid="h2c7e41713d07417e93fgc67cgb164cf1cc56" version="1">ASTRL Forêt tropicale 05</content>
+    <content contentuid="h69e056ge2bff4be66d6dfcgb2ec8e5642f16" version="1">ASTRL Forêt tropicale 06</content>
+    <content contentuid="hb8aa90bb03b9249b232eb7779ef18a80ef55" version="1">ASTRL Forêt tropicale 07</content>
+    <content contentuid="h60ecf7c4108cdd4d4bec06c175cgg5ab74db" version="1">ASTRL Forêt tropicale 08</content>
+    <content contentuid="h6d8cba1ad0g56d2834e80ga9766357g51968" version="1">ASTRL Forêt tropicale 09</content>
+    <content contentuid="h0eaab491566a4fg6b52378g1gb6601e1fe87" version="1">ASTRL Forêt tropicale 10</content>
+
+    <!-- aevendrow -->
+    <content contentuid="h54d664b9ea15fa76b021ea249ef7b73d45g6" version="1">Callidés 00</content>
+    <content contentuid="hdb6319aeb98d78feg4ed66g46ff274fbade8" version="1">Callidés 01</content>
+    <content contentuid="hdf94872fddd203613192bfde66c871a2db68" version="1">Callidés 02</content>
+    <content contentuid="hffcdf151919fb560961db9b4cc20ageb432g" version="1">Callidés 03</content>
+    <content contentuid="hae0372fe262757e214c98g1605d75d44801g" version="1">Callidés 04</content>
+    <content contentuid="hag71de7e542c7fa8a895ed12024g65bga93g" version="1">Callidés 05</content>
+    <content contentuid="hff523a8d68gce7de365bfde25efb0d81ga02" version="1">Callidés 06</content>
+    <content contentuid="h342268a21g709d95c33a8d36g9b6403633fc" version="1">Callidés 07</content>
+    <content contentuid="h12e4d52906148egf4f9b9873c106cc3gf7b2" version="1">Callidés 08</content>
+    <content contentuid="h5864f8add92b03298f4095f06bf8g02d7e59" version="1">Callidés 09</content>
+    <content contentuid="h797e49983146655b7dc8b74gf0f1a21f87f0" version="1">Callidés 10</content>
+    <content contentuid="h50g4dc62040a7947887ae1204ab5ba241a72" version="1">Callidés 11</content>
+    <content contentuid="h1b80d522gf40564ceeab854bc517gfecg43g" version="1">Callidés 12</content>
+    <content contentuid="h2g93fec7317d712f2aea5736g17g3a6da104" version="1">Callidés 13</content>
+    <content contentuid="h20f97ec8983e8d774cg1a9098f8f15fgc0a1" version="1">Callidés 14</content>
+    <content contentuid="hga84gd3b8274f913263a30cg516e7135ccc6" version="1">Callidés 15</content>
+    <content contentuid="h8b75312d3b8b02bb00g1ce23a1ga4720g418" version="1">Callidés 16</content>
+    <content contentuid="h561d18ca921ed4eg4066e2d7gf901db25c8b" version="1">Callidés 17</content>
+    <content contentuid="h1059f3feg18c14984ga117035e76f06b13c0" version="1">Callidés 18</content>
+    <content contentuid="h61368dfb82d53ee6f01b9600ce54g7d470c9" version="1">Callidés 19</content>
+    <content contentuid="h9acf1g63cedg99g23f6cg06e0e0ab3g6b59e" version="1">Callidés 20</content>
+    <content contentuid="h3ea5c105fb3ed3005eb65d0g24ca75b81999" version="1">Enclave de Lumière des étoiles 00</content>
+    <content contentuid="hb468cga9g76dfg8b509917c2b2ae01aa4e71" version="1">Enclave de Lumière des étoiles 01</content>
+    <content contentuid="h7gf8af152fcf28c7ged19f80614848e18304" version="1">Enclave de Lumière des étoiles 02</content>
+    <content contentuid="h7887e666b09d7d3a70fccg8bgefd03b4b037" version="1">Enclave de Lumière des étoiles 03</content>
+    <content contentuid="hcd3df0008ed996b0dac5bfce40cb02fg194c" version="1">Enclave de Lumière des étoiles 04</content>
+    <content contentuid="h4fd00e6733ffec55963c57a8f2e88ed26g34" version="1">Enclave de Lumière des étoiles 05</content>
+    <content contentuid="he90e7984d454ag7f2445f5d5bg458244b50d" version="1">Enclave de Lumière des étoiles 06</content>
+    <content contentuid="h05ddbega0f8205g80a714d98dc08ebfa6a4g" version="1">Enclave de Lumière des étoiles 07</content>
+    <content contentuid="ha4bbd0gggafc9c2d53451g20e8cf13201b31" version="1">Enclave de Lumière des étoiles 08</content>
+    <content contentuid="h6188dae4cc52838begf710c8cf832c1926d2" version="1">Enclave de Lumière des étoiles 09</content>
+    <content contentuid="h6g69c89bccd439acc62c5249f70ae72efc0e" version="1">Enclave de Lumière des étoiles 10</content>
+    <content contentuid="h01929fb01c4df651032e09c962083234201b" version="1">Enclave de Lumière des étoiles 11</content>
+    <content contentuid="ha39611648cf6251aed3a7534aa4fg0961cdf" version="1">Enclave de Lumière des étoiles 12</content>
+    <content contentuid="h8dag2d026c69d8cg2b1ebc6cd448e060b65d" version="1">Enclave de Lumière des étoiles 13</content>
+    <content contentuid="h45g03g842ag793bg3cg92e1cfg71a80ae582" version="1">Enclave de Lumière des étoiles 14</content>
+    <content contentuid="h3f51g3ceabgg9ae6fd0501423f4f625e4995" version="1">Enclave de Lumière des étoiles 15</content>
+    <content contentuid="h95db4d39fed46e0433a470edba9cg36gec49" version="1">Enclave de Lumière des étoiles 16</content>
+    <content contentuid="h9559f994gcb9fb790b83c532f2fc6058109e" version="1">Enclave de Lumière des étoiles 17</content>
+    <content contentuid="h1cfd5ecg73c8e06d73gcff22g9a95dae7c75" version="1">Enclave de Lumière des étoiles 18</content>
+    <content contentuid="hea445bead0821d19a33430bgg36d40c403fc" version="1">Enclave de Lumière des étoiles 19</content>
+    <content contentuid="h71cf0e4542ad6941494abd690669g1bfd188" version="1">Enclave de Lumière des étoiles 20</content>
+    <content contentuid="h808cg0d4fg0dgg2932e4fc3d1f25g292gca6" version="1">Les profondeurs 00</content>
+    <content contentuid="h67f1999db86cad1c1bb9b4acef3679cg734c" version="1">Les profondeurs 01</content>
+    <content contentuid="h4404bbe35g6ag7ca0eag15a8d5642697391a" version="1">Les profondeurs 02</content>
+    <content contentuid="hc7271fbg878c84db75fda8b80ccefecf3774" version="1">Les profondeurs 03</content>
+    <content contentuid="hge114e36d1ag87f121bbc8aefd6e673a2b27" version="1">Les profondeurs 04</content>
+    <content contentuid="hcgfe0ade8301297ge15d2eea18524e09cd04" version="1">Les profondeurs 05</content>
+    <content contentuid="hdc76b0d415aacc5106b820fc6ead3921b1d2" version="1">Les profondeurs 06</content>
+    <content contentuid="h3b5e190818efae38af6b690ad46cb995b228" version="1">Les profondeurs 07</content>
+    <content contentuid="h5e17bb92g47df0701gd65cbd28ba20ee30a1" version="1">Les profondeurs 08</content>
+    <content contentuid="he38c6191eg7ceb8324df43e79c2f8g27e574" version="1">Les profondeurs 09</content>
+    <content contentuid="hc6b62gb633096cff933a300b1d7aa4ab6c8a" version="1">Les profondeurs 10</content>
+    <content contentuid="ha19a3d1b5f650f68gg30d14e3g8cc14fg95f" version="1">Les profondeurs 11</content>
+    <content contentuid="hf3a810f6c5cgae8c9668e99e5e9ccfd0c074" version="1">Les profondeurs 12</content>
+    <content contentuid="h1015885ade2c12b7abb096c0f2131d622c0c" version="1">Les profondeurs 13</content>
+    <content contentuid="h25a8g40a990g3a72d07g8df13ba7gb4bad0e" version="1">Les profondeurs 14</content>
+    <content contentuid="ha57e290e236e05fg8e4b113ea9f3238eac2c" version="1">Les profondeurs 15</content>
+    <content contentuid="hb6b256380f3b91835ac95d5g961990ec22ba" version="1">Les profondeurs 16</content>
+    <content contentuid="h32935g051e00ae5ccb5e96g4fed47gd1f797" version="1">Les profondeurs 17</content>
+    <content contentuid="h31655eeefbed2b1g7bbf9bae3da9cc34776f" version="1">Les profondeurs 18</content>
+    <content contentuid="h12b4fe54db616fdafee144a440a0042ae6b8" version="1">Les profondeurs 19</content>
+    <content contentuid="hg812eb36g3bdc4abdfe0gf8c878e3g9e7c0c" version="1">Les profondeurs 20</content>
+
+    <!-- lolthtouched -->
+    <content contentuid="h62d611539fd51age66fgbf65g8b8b360b79c" version="1">Reine araignée 00</content>
+    <content contentuid="h798e0g523d82eg7b3faeec4g34b455a25egc" version="1">Reine araignée 01</content>
+    <content contentuid="h6779cg36gb84f01693cf18a12552ac99e9g1" version="1">Reine araignée 02</content>
+    <content contentuid="hd339edf62fdb94f914df3acadd421f2732f1" version="1">Reine araignée 03</content>
+    <content contentuid="hedgbe51dacc8c9175332gf5a59422eb01f50" version="1">Reine araignée 04</content>
+    <content contentuid="h0c846d9ebd6c35cg0bd1b434d56373gfc05c" version="1">Reine araignée 05</content>
+    <content contentuid="hff6094bb134ff2855da1bef0090becfe05cf" version="1">Reine araignée 06</content>
+    <content contentuid="h5c999792612daacdef1d20g4a14742ff92g9" version="1">Reine araignée 07</content>
+    <content contentuid="h5972c57d2fa09eb379fbfa85dd37c31806ce" version="1">Reine araignée 08</content>
+    <content contentuid="h8e730130b7327d36bb330323dga088e2g806" version="1">Reine araignée 09</content>
+    <content contentuid="h9e45784gddda2ddba198790e0ac0606ecgc1" version="1">Reine araignée 10</content>
+    <content contentuid="hf3c7f4d74ef2f1068b36e6e3c698gd843533" version="1">Reine araignée 11</content>
+    <content contentuid="hg86gae8c430916acd893f08cb3e3aa3994d2" version="1">Reine araignée 12</content>
+    <content contentuid="h45g0g01c9b2b23dca65fba6c8f642d3dfc92" version="1">Reine araignée 13</content>
+    <content contentuid="h5531e9b91d72b4a1ae5732248f6630f91519" version="1">Reine araignée 14</content>
+    <content contentuid="hf1bf0d2c1189c4597771f0ff22c8f63b9bd4" version="1">Reine araignée 15</content>
+    <content contentuid="h069f492eedf07gebgc8ad53fa7365809f374" version="1">Reine araignée 16</content>
+    <content contentuid="h67f537fa57d0b00ag25gb60b6e517de93abe" version="1">Reine araignée 17</content>
+    <content contentuid="hfe03042470daae33c1gdf48gf2d8a529eaf1" version="1">Reine araignée 18</content>
+    <content contentuid="h2defec632147eg26b283b2dca8fc189de2g1" version="1">Reine araignée 19</content>
+    <content contentuid="h0e03cdf6f83625463e8g6e645d6b882f242e" version="1">Reine araignée 20</content>
+    <content contentuid="hab44cd18e0b84577g575dgcf06684g435gg0" version="1">Toile démoniaque 00</content>
+    <content contentuid="h617a7eg03cg3dbda1bfa3ba359b6f9e498af" version="1">Toile démoniaque 01</content>
+    <content contentuid="hd8f27301c2d6bb9c16gc786289129170aad7" version="1">Toile démoniaque 02</content>
+    <content contentuid="he94711d45g08ff1cc66b051cga1a95123419" version="1">Toile démoniaque 03</content>
+    <content contentuid="h8826482c55g86g25e232d9a93g6abg118030" version="1">Toile démoniaque 04</content>
+    <content contentuid="h5f5c5363b419f70deb3339de58ef770g46a6" version="1">Toile démoniaque 05</content>
+    <content contentuid="h36adb4b74ae6gb66g62a8d02e9bbe844149d" version="1">Toile démoniaque 06</content>
+    <content contentuid="hcf850a1a2d7df7c080dbfc381e45e46bfgbg" version="1">Toile démoniaque 07</content>
+    <content contentuid="h01aadd414b35a2dddg1d657fg28c24a52785" version="1">Toile démoniaque 08</content>
+    <content contentuid="h914f5gca80517fdc109g896a9da7ga76egg3" version="1">Toile démoniaque 09</content>
+    <content contentuid="h8210a234e2f31769055a63249d172b76679a" version="1">Toile démoniaque 10</content>
+    <content contentuid="h814722308ccd96ada946fg90cf05aae5738d" version="1">Toile démoniaque 11</content>
+    <content contentuid="h2be539d3e756abb1b5b237495360g17g5af0" version="1">Toile démoniaque 12</content>
+    <content contentuid="h1995a097cbf6cb606a9195cfcc4a2235g271" version="1">Toile démoniaque 13</content>
+    <content contentuid="h11fbb0cecdc1dd56a2g448388d25572f61f6" version="1">Toile démoniaque 14</content>
+    <content contentuid="h9651e7g3dd20b96a5ffac1b5f0bebg3bb2c8" version="1">Toile démoniaque 15</content>
+    <content contentuid="haag03gd3fc8230dc01702418d89f12gbe3e4" version="1">Toile démoniaque 16</content>
+    <content contentuid="h665228f7f3ge2cd657g2a6a215d9218c6b7a" version="1">Toile démoniaque 17</content>
+    <content contentuid="hdaa041069e6e90323fg55b3c1e0ccaedddeb" version="1">Toile démoniaque 18</content>
+    <content contentuid="h857bg659ec0b2221f020ea891c911228fg71" version="1">Toile démoniaque 19</content>
+    <content contentuid="h801af08ea89dc80f1c8902f85aa3fe74eb69" version="1">Toile démoniaque 20</content>
+    <content contentuid="h3b3f36g504acb45546b49f4fc6fbf1a2f121" version="1">Maudit 00</content>
+    <content contentuid="h522b2ag7ffabgc92356f2704c4d58c6dcf4f" version="1">Maudit 01</content>
+    <content contentuid="h356189c2365645ag29dcc6g1b9be8cefc48f" version="1">Maudit 02</content>
+    <content contentuid="h40ded557a9egc4632ba7c6738ccga72de5f5" version="1">Maudit 03</content>
+    <content contentuid="had01c0e5492gf9db784629557233ca674819" version="1">Maudit 04</content>
+    <content contentuid="h205g6gefd19d11228a0911fec30effcb5c2e" version="1">Maudit 05</content>
+    <content contentuid="h0dd35680304gf65f86b11f983ad13b3931b3" version="1">Maudit 06</content>
+    <content contentuid="he36ddc17837119g7f4fd739adge80a30f836" version="1">Maudit 07</content>
+
+    <!-- zar'ithra-->
+    <content contentuid="h84ge482059f6e64g80bb14e666809bf45c1d" version="1">Tombe de l'Ombre 00</content>
+    <content contentuid="he150d029g91fg928ba9g0g6a99cc46b2f357" version="1">Tombe de l'Ombre 01</content>
+    <content contentuid="h6d4473f6d617g2ee9gcg002e1d7b89e0fcg0" version="1">Tombe de l'Ombre 02</content>
+    <content contentuid="h707a5854ga5205bbg98ef6d05bf45de2c533" version="1">Tombe de l'Ombre 03</content>
+    <content contentuid="h0gega64a9d0c6e1g4g2d4ab3g6597gbg086f" version="1">Tombe de l'Ombre 04</content>
+    <content contentuid="h69f2fc00f385132833056ge5gb106764372a" version="1">Tombe de l'Ombre 05</content>
+    <content contentuid="h52c3dcb9e07g309agdae5be078adb9ae9f5f" version="1">Tombe de l'Ombre 06</content>
+    <content contentuid="h16676dafd29f458d315df13094e868g7dde8" version="1">Tombe de l'Ombre 07</content>
+    <content contentuid="h5adb9efc552a4a3c291ec2c57113865bcbf6" version="1">Tombe de l'Ombre 08</content>
+    <content contentuid="h157bcf39df997dfbfba5ag3adefa62c0b70g" version="1">Tombe de l'Ombre 09</content>
+    <content contentuid="hb997e8362dd51ba94a6d0e2f5becd1g9001a" version="1">Tombe de l'Ombre 10</content>
+    <content contentuid="h027cc600984g09514edb54336cbf296bebf2" version="1">Tombe de l'Ombre 11</content>
+    <content contentuid="hf9gd8e468fb4g73edd7f5856g0fb05fgb994" version="1">Morosité 00</content>
+    <content contentuid="h470371gaf451e4d6ae03849824f42c4c20a1" version="1">Morosité 01</content>
+    <content contentuid="hcaeadg70b3g35050g70524a69a9g4b6b0184" version="1">Morosité 02</content>
+    <content contentuid="h909d3bed2e07cf889c2c77119d4562c01461" version="1">Morosité 03</content>
+    <content contentuid="h08e51e8886728ceb4b3d382bb316ee9f0d93" version="1">Morosité 04</content>
+    <content contentuid="h9g66da635eda49deg0ca29c613b53e315dg2" version="1">Morosité 05</content>
+    <content contentuid="h7055a73347042fbb3e153a2bcf1778ba0f02" version="1">Morosité 06</content>
+    <content contentuid="hce4447gf8ca99f43725gag3c76fdf2fb35ge" version="1">Morosité 07</content>
+    <content contentuid="heae22f7ee3a1g66e979a1033d453279a4ga0" version="1">Morosité 08</content>
+    <content contentuid="hcffcb780ga22cgc6f1428171b3146e4c2be7" version="1">Morosité 09</content>
+    <content contentuid="h8721g7e0dcdb7gd26b10e4gce7675a1c7366" version="1">Morosité 10</content>
+    <content contentuid="h87fg7b2c869d6cd2097453452e7f3b4b62c2" version="1">Morosité 11</content>
+    <content contentuid="h3c802bae94bg11f8eg451f5623544egec96g" version="1">Morosité 12</content>
+    <content contentuid="hgdb5a0g90a27a5752db9b7b1b47g980f0664" version="1">Morosité 13</content>
+    <content contentuid="h5f7bga1d10g9b3edbdc257f76gg68c044eg6" version="1">Morosité 14</content>
+    <content contentuid="h5g3f3a6db4ag8423eddgee8e0ce2gg5e6a57" version="1">Morosité 15</content>
+    <content contentuid="h9c64253524371a8713d1efb101ga6d483583" version="1">Ventre 00</content>
+    <content contentuid="ha5f6cc142e86a49655fc463e65g1c1cb761a" version="1">Ventre 01</content>
+    <content contentuid="h92dggg8235c18305765b77g247000adceg7d" version="1">Ventre 02</content>
+    <content contentuid="h4c54387c0de61173002e4db012f06bc0ddb1" version="1">Ventre 03</content>
+
+    <!-- eye colors -->
+
+    <!-- dusk elves -->
+    <content contentuid="h3baf9gb422a4272c3d65af2d5e5a2gg6bg9e" version="1">ASTRL Violet A1</content>
+    <content contentuid="ha6c6d38a89dacb38bb0dg07gb0dbc59f86b4" version="1">ASTRL Lavande A1</content>
+    <content contentuid="h83384275093g0ab3g2f90d0ad782ge478ecd" version="1">ASTRL Gris A1</content>
+    <content contentuid="h35358e5b30fd4734b91669ce173a0b24bc5e" version="1">ASTRL Violet B1</content>
+    <content contentuid="h384c991b355beaea9gbd69de7bd85fa10dfd" version="1">ASTRL Violet/Rose A1</content>
+    <content contentuid="h1152a2cgdbc287eb14c53fbced5f6c3e6c57" version="1">ASTRL Violet/Jaune A1</content>
+    <content contentuid="h80ec4f565f772bb177c3a0e0f697c8bf5d2g" version="1">ASTRL Violet C1</content>
+    <content contentuid="h0fafd82gb3gbd57a916d2a9g4cdaceef9g7c" version="1">ASTRL Violet/Jaune B1</content>
+    <content contentuid="h51a02f47623485ggf6da4f3e87433165a671" version="1">ASTRL Blurple A1</content>
+    <content contentuid="hd3e75e4765d9f24g5f32410dgdaf0f4d4a49" version="1">ASTRL Violet/Rose B1</content>
+    <content contentuid="h5fe4a240d9afgf5e8b5ee4694dc68771475a" version="1">ASTRL Violet D1</content>
+    <content contentuid="hdf89c3be28374303ca6f97c6ea9466cce4f9" version="1">ASTRL Violet/Rose C1</content>
+    <content contentuid="hb0a68ba7g2fc07c76fa8f16782gb63e24cfc" version="1">ASTRL Violet A2</content>
+    <content contentuid="h6df1a6492512agaaf32c02f1d5edbce7g102" version="1">ASTRL Lavande A2</content>
+    <content contentuid="hg84b7g37b9fg811fd8f28e2a55ba3d67b7gb" version="1">ASTRL Gris A2</content>
+    <content contentuid="h9a414d52998c8275039c77812217181b752d" version="1">ASTRL Violet B2</content>
+    <content contentuid="h724d4g7cb563b7843f80g4f2bdce81ceg660" version="1">ASTRL Violet/Rose A2</content>
+    <content contentuid="hfg1dd07bac78a2bbfdaedc49b453869a2818" version="1">ASTRL Violet/Jaune A2</content>
+    <content contentuid="h0ae6dbb49bga3cff51fe22a72694671ed6c8" version="1">ASTRL Violet C2</content>
+    <content contentuid="h67b627gbbcb61f70a026fg49160d44106dbe" version="1">ASTRL Violet/Jaune B2</content>
+    <content contentuid="hcfde1gf406b324a949811egabga9a408d2g8" version="1">ASTRL Blurple A2</content>
+    <content contentuid="ha8dca52bed782e85ab68bg9g6226c437f6f9" version="1">ASTRL Violet/Rose B2</content>
+    <content contentuid="ha5ge78dg77f4c4768gb5d3f0f86f97b9cgea" version="1">ASTRL Violet D2</content>
+    <content contentuid="hd426322a1g5bc6c16b67e516cg12g41a535g" version="1">ASTRL Violet/Rose C2</content>
+
+    <!-- snow elves -->
+    <content contentuid="h584a07320287526e684d7bd02c74b858g88a" version="1">ASTRL Gris B1</content>
+    <content contentuid="hgf7e52ac7e0d3e478d980b3b3agfe235g50e" version="1">ASTRL Bleu A1</content>
+    <content contentuid="h344e5377618cg25638767c4bgdc4265020a8" version="1">ASTRL Gris C1</content>
+    <content contentuid="h82997e38039aecf44bfb40feedf964cbegbf" version="1">ASTRL Gris D1</content>
+    <content contentuid="h3a073dfe01gbf8fgc86bd0f714bg830279ef" version="1">ASTRL Bleu B1</content>
+    <content contentuid="hdfac0g9e7g8e3g7c4e272d19ga64f6f8f935" version="1">ASTRL Bleu C1</content>
+    <content contentuid="hc576cf7ba32fe8f96ddc118ad58g4g63e8g8" version="1">ASTRL Bleu D1</content>
+    <content contentuid="h8c53b37552b8ae9e829dd6a2401200580442" version="1">ASTRL Blurple B1</content>
+    <content contentuid="he1abe4c03538df3dd9b50cb936ebbb4937e4" version="1">ASTRL Gris E1</content>
+    <content contentuid="hbbf2c61f22ec3776efda8ba288504639f565" version="1">ASTRL Gris/Bleu A1</content>
+    <content contentuid="h13aab415935954ad9baeee8e162g92bgbg0a" version="1">ASTRL Bleu E1</content>
+    <content contentuid="ha1ce74c6ge4c8928g06g38afbb2e81d4bfc3" version="1">ASTRL Bleu F1</content>
+    <content contentuid="ha7cec18aegfa347d2a8a217ef7112ec1d8b9" version="1">ASTRL Gris B2</content>
+    <content contentuid="hab4759c5e9f13d8a45caba5ed82dgd3ac378" version="1">ASTRL Bleu A2</content>
+    <content contentuid="hdb9459795eb9gce9dfb40bca4da23958a4c2" version="1">ASTRL Gris C2</content>
+    <content contentuid="h1d391g37cfg8df30bgbc00d8efe91egb354d" version="1">ASTRL Gris D2</content>
+    <content contentuid="h52c474f7747abcg6d65fdba40904423b34b7" version="1">ASTRL Bleu B2</content>
+    <content contentuid="h59d88c46da8784gc064743dd65gd7g0ef27g" version="1">ASTRL Bleu C2</content>
+    <content contentuid="h246d36dg508d1c24b69bceb9e70c7a12g30b" version="1">ASTRL Bleu D2</content>
+    <content contentuid="h9b89b8g2fd31a150f4g131c3ae6b95cb99ad" version="1">ASTRL Blurple B2</content>
+    <content contentuid="ha2d275d51f71d2d9226g4d2e92c06045629f" version="1">ASTRL Gris E2</content>
+    <content contentuid="h2fg48cea553ad581dd0de903bfe1ad077a35" version="1">ASTRL Gris/Bleu A2</content>
+    <content contentuid="h122ed96f9ga7dg419c84c01g37f23170847a" version="1">ASTRL Bleu E2</content>
+    <content contentuid="hbde26e98f39bg4afgf3872c81d2ga5bb2bg7" version="1">ASTRL Bleu F2</content>
+
+    <!-- star elves -->
+    <content contentuid="h63eg97d0982b7g844bfa19b6a76e11031b7g" version="1">ASTRL Violet/Rose D1</content>
+    <content contentuid="h438f615b534c4c26fa40bf9a4fd66a079ab0" version="1">ASTRL Violet E1</content>
+    <content contentuid="h86be911b8229g1a10b6f15dgf7ga8c3ff560" version="1">ASTRL Violet/Jaune C1</content>
+    <content contentuid="h479ded1d9440a978g0ba0190a9dbg7fa5c2b" version="1">ASTRL Violet/Rose E1</content>
+    <content contentuid="h349c16432887d6g2a43811g53c961g654247" version="1">ASTRL Gris F1</content>
+    <content contentuid="h0de4dbe67gc7d17a427c5de9f68dg0c3e585" version="1">ASTRL Violet/Jaune D1</content>
+    <content contentuid="he14fag8394ef042d11b5abafff3gdfff4d1c" version="1">ASTRL Lavande B1</content>
+    <content contentuid="h5cc60c99d6ed6d8b72fa90aag64bbf5db5b8" version="1">ASTRL Rose A1</content>
+    <content contentuid="h6478444522gae0cdcaf9a1e0b20b1g6b6801" version="1">ASTRL Gris/Rose A1</content>
+    <content contentuid="h11675d84e6972065cee61c5gege25eb79b20" version="1">ASTRL Violet E1</content>
+    <content contentuid="hd3f1d5efce1de81d073a44be21a82eec5a37" version="1">ASTRL Gris/Violet A1</content>
+    <content contentuid="h789d26f9f73136bdgde246g1aa76179df3f2" version="1">ASTRL Violet E1</content>
+    <content contentuid="hdde26c74677e664c27ddfab3bg2acc65g90g" version="1">ASTRL Violet/Rose D2</content>
+    <content contentuid="h72b900534e723d4c2gg2gb457b42815218cb" version="1">ASTRL Violet F2</content>
+    <content contentuid="h16d0411f3fd6703556136ad311dab5bccc1a" version="1">ASTRL Violet/Jaune C2</content>
+    <content contentuid="h9a60240a4b860bea30392g6d55a6999771f0" version="1">ASTRL Violet/Rose E2</content>
+    <content contentuid="h0ee1c2f547eccefd471d9e0d8c10871cb70e" version="1">ASTRL Gris F2</content>
+    <content contentuid="hbe1a62215186b438b65f6eb7ca64g553cf29" version="1">ASTRL Violet/Jaune D2</content>
+    <content contentuid="h818d7afbabbd8d87b5682bd1f1ea589975g9" version="1">ASTRL Lavande B2</content>
+    <content contentuid="h25820df74daf40g898194aec591gafc6ce8c" version="1">ASTRL Rose A2</content>
+    <content contentuid="hgg58fd9efaf26b515c9b31g9cg4c8g9f8c99" version="1">ASTRL Gris/Rose A2</content>
+    <content contentuid="h7g5975de9dba36b64cdd0fdcb07314033d7f" version="1">ASTRL Violet E2</content>
+    <content contentuid="h3372ebca045386e720g214aebg8448ffa63d" version="1">ASTRL Gris/Violet A2</content>
+    <content contentuid="hbb5645fc87b27f24906fcg3fg0af2a0f9gd8" version="1">ASTRL Violet F2</content>
+
+    <!-- sun elves -->
+    <content contentuid="he9e839d2f5f829dc3edb8dgff13gcgfa6424" version="1">ASTRL Jaune A1</content>
+    <content contentuid="hfe46302aaddd627149b69ff3519c1a666557" version="1">ASTRL Orange A1</content>
+    <content contentuid="hd27f7c7dbf7149add0bf8849f7057e300515" version="1">ASTRL Vert/Jaune A1</content>
+    <content contentuid="h27820daff7a37agg2fbf0e25055e8c6e3631" version="1">ASTRL Vert A1</content>
+    <content contentuid="h70ab704bg61407c878c578f7780f94e38g8g" version="1">ASTRL Vert B1</content>
+    <content contentuid="h546c9g50cc396d50c6cgbb24b7egd5729331" version="1">ASTRL Vert/Jaune B1</content>
+    <content contentuid="h5b44f86e43a78b87cac87217cf4719b883g1" version="1">ASTRL Rouge/Orange A1</content>
+    <content contentuid="h3405ec0c1fcd8cdae7cb7gc1823e2bg2cefe" version="1">ASTRL Vert C1</content>
+    <content contentuid="h6bf916921dcbb822c83231g4caee5bbee7c8" version="1">ASTRL Vert D1</content>
+    <content contentuid="h1gg261c45bb7g00a839599305gd60b07b670" version="1">ASTRL Marron/Rouge A1</content>
+    <content contentuid="h43e9f3f4b9c189d50b581ca09ac37746940c" version="1">ASTRL Jaune B1</content>
+    <content contentuid="hdge72agfe598g4cbbdgef792ga1f7a962bcf" version="1">ASTRL Jaune C1</content>
+    <content contentuid="hggc47f818e2fe148444c2076cdfef03b749e" version="1">ASTRL Jaune A2</content>
+    <content contentuid="hcgcdg11daab21ge8d4f9f905cb3f3c6a2696" version="1">ASTRL Orange A2</content>
+    <content contentuid="hcc34f3289d33aag657803e809029dda73a39" version="1">ASTRL Vert/Jaune A2</content>
+    <content contentuid="hacad0g030bf3483df7804gd9854760205526" version="1">ASTRL Vert A2</content>
+    <content contentuid="h40g58259183665e12ca9ff9ee9da531f4da9" version="1">ASTRL Vert B2</content>
+    <content contentuid="hee89g63810b513e103237g5282ea50aced20" version="1">ASTRL Vert/Jaune B2</content>
+    <content contentuid="h536b77665cc39b4f204bc22beg4871f978b4" version="1">ASTRL Rouge/Orange A2</content>
+    <content contentuid="haf4g0f1a3adc5gff0d275ef2db6de3850b27" version="1">ASTRL Vert C2</content>
+    <content contentuid="hf00gccfd89fb42446g9gd03c42g38e859eg9" version="1">ASTRL Vert D2</content>
+    <content contentuid="h5bgg07f40d1ab6b999e1720fec5fb7209b27" version="1">ASTRL Marron/Rouge A2</content>
+    <content contentuid="hf878049f3a8e88f74bdf6d15a6462g537481" version="1">ASTRL Jaune B2</content>
+    <content contentuid="h24308b9382gfdeabcc503b7bgf87b198e533" version="1">ASTRL Jaune C2</content>
+
+    <!-- lythari -->
+    <content contentuid="h601b9528ebg16ggeg31d8g9bf86cbb9egc4e" version="1">ASTRL Rouge A1</content>
+    <content contentuid="h6b14g0gfba51f88c9g3c33dffc1g0cb1b28f" version="1">ASTRL Marron/Rouge A1</content>
+    <content contentuid="hf1g8g6106fcf2d19354f38a48c47da98b4dc" version="1">ASTRL Marron A1</content>
+    <content contentuid="hb30g6g98018g572de54f08230a2555bgd963" version="1">ASTRL Marron/Rouge B1</content>
+    <content contentuid="h470g20f5f2900d1be774d82624bac9104cdf" version="1">ASTRL Marron/Rouge C1</content>
+    <content contentuid="h5538bd24a7ge1b405b033401f7e631f2cc9f" version="1">ASTRL Rouge B1</content>
+    <content contentuid="ha355532865e9c95a138a790age504g8cg5c9" version="1">ASTRL Marron/Vert A1</content>
+    <content contentuid="hg86deffc57ggg2b80de4e8e5d58dc66g0a22" version="1">ASTRL Vert/Rouge A1</content>
+    <content contentuid="h3202d28b259f0034ag543c020a2aedg2e3g6" version="1">ASTRL Vert E1</content>
+    <content contentuid="h8e21g1592416af168g1a94713c2e41445g5b" version="1">ASTRL Marron/Rouge D1</content>
+    <content contentuid="h11ga5gcc4817cag7eg3fc4918117b4ag969d" version="1">ASTRL Gris/Rouge A1</content>
+    <content contentuid="hb940357bg6ed0372dgf1bbab08a6a8f3214e" version="1">ASTRL Vert/Rouge B1</content>
+    <content contentuid="h15gd12833ddb97d15ec4872ae2d2d9gg3a89" version="1">ASTRL Rouge A2</content>
+    <content contentuid="h3cd2ea554cg75b89gb6da945g770d3da24a9" version="1">ASTRL Marron/Rouge A2</content>
+    <content contentuid="h7326c3a6ff8gg00g490660d37d2aebcccfc2" version="1">ASTRL Marron A2</content>
+    <content contentuid="hg98c3ff4ege495ad2727e2670bcee309g216" version="1">ASTRL Marron/Rouge B2</content>
+    <content contentuid="h79b4f28e402f15dae4a7b9b49bf11421cc6e" version="1">ASTRL Marron/Rouge C2</content>
+    <content contentuid="h1f56d940f8918d97g3133a13egd83eb4a0cb" version="1">ASTRL Rouge B2</content>
+    <content contentuid="h411dab97e44f0b070e85agd93276b1f1cge3" version="1">ASTRL Marron/Vert A2</content>
+    <content contentuid="hcab5c83a1bc9359ff69e33fe2e9c7e469gf1" version="1">ASTRL Vert/Rouge A2</content>
+    <content contentuid="h57ae86b0c87b010e2fc8c268d0a77e0830d9" version="1">ASTRL Vert E2</content>
+    <content contentuid="haa5a16c9c92b1b2b1cc41ee984752120302a" version="1">ASTRL Marron/Rouge D2</content>
+    <content contentuid="h8e9b83g8ad486ddd7e2ec95e1952687f0a93" version="1">ASTRL Gris/Rouge A2</content>
+    <content contentuid="h5g5c9gg1d1ge4cga2f8ag6f4747gg2375ee7" version="1">ASTRL Vert/Rouge B2</content>
+
+    <!-- aevendrow -->
+    <content contentuid="h9gc93d7015a74b43d00f6f9bbg5ee0852598" version="1">ASTRL Violet/Rose F1</content>
+    <content contentuid="hc8f210111be3b29g464128167d105b5b3390" version="1">ASTRL Violet G1</content>
+    <content contentuid="hd2g74301g0f8909g4365ac6e348337f50daf" version="1">ASTRL Bleu G1</content>
+    <content contentuid="h044a9b93c1a341f22c96c17fa82008e50g0g" version="1">ASTRL Gris G1</content>
+    <content contentuid="h6ca0c8g578c835c3e601eb591174424528a0" version="1">ASTRL Violet/Rose D1</content>
+    <content contentuid="hc2d6dbaag2e5565g67g447dab9e56g63e9c4" version="1">ASTRL Violet/Rose E1</content>
+    <content contentuid="h80849847ddc87450c9d47359e3cf8487e5b6" version="1">ASTRL Gris/Rose B1</content>
+    <content contentuid="h0g8d8b2703e010ge0f9c3e3g4e815bb933ab" version="1">ASTRL Bleu/Jaune A1</content>
+    <content contentuid="ha6de0dca98c50d771e54f38ga7d222dd30a3" version="1">ASTRL Violet/Bleu A1</content>
+    <content contentuid="h23d3f31a639bd4c8418ef71b87727d9g4bd4" version="1">ASTRL Violet H1</content>
+    <content contentuid="h2ceaedd4333d3c431f9b9f0d3g0e20gd32cf" version="1">ASTRL Violet I1</content>
+    <content contentuid="ha0eed5536755fd8518b71605597e0098eg8g" version="1">ASTRL Violet/Jaune C1</content>
+    <content contentuid="h5fa78441396a32fc426c03eaa7a033c7c1dd" version="1">ASTRL Violet/Rose F2</content>
+    <content contentuid="h95f2d9287882591g0b48d682684d830e05c7" version="1">ASTRL Violet G2</content>
+    <content contentuid="h47ffb33b1073g4f803d84d9815de9g8e0710" version="1">ASTRL Bleu G2</content>
+    <content contentuid="hag447fe1da66ce2dgdc352230be8bff81cf2" version="1">ASTRL Gris G2</content>
+    <content contentuid="hag7ee5663113d01c9d8558d4dab6c1755172" version="1">ASTRL Violet/Rose D2</content>
+    <content contentuid="h01ea8103badc6a441690e930338d194284ec" version="1">ASTRL Violet/Rose E2</content>
+    <content contentuid="hac43b56ac590f23d0a6f0a517074babe52c2" version="1">ASTRL Gris/Rose B2</content>
+    <content contentuid="h4f39ea43a892a6770f227e9c13c3g577f7f9" version="1">ASTRL Bleu/Jaune A2</content>
+    <content contentuid="h280a4d983ca3bb48a425ef72f0g95b6de8b5" version="1">ASTRL Violet/Bleu A2</content>
+    <content contentuid="h4588952095g4134b5bb5f6c8fdfa2ba86f72" version="1">ASTRL Violet H2</content>
+    <content contentuid="hd2210789d37ec8gfbf76d9565265b2480600" version="1">ASTRL Violet I2</content>
+    <content contentuid="ha33f954ac296c92340c37ebe1157e2a831fc" version="1">ASTRL Violet/Jaune C2</content>
+
+    <!-- lorendrow -->
+    <content contentuid="he84af26010ef021fg106b6759eaa9ga9baa2" version="1">ASTRL Vert F1</content>
+    <content contentuid="h75c77244eb40758c30af0g0f1b82b42f205e" version="1">ASTRL Vert G1</content>
+    <content contentuid="h844245669g3d2979abf0643g21d9a6e9ecge" version="1">ASTRL Vert H1</content>
+    <content contentuid="ha659aae3825bfb38a4725e351e6ec28106fd" version="1">ASTRL Vert I1</content>
+    <content contentuid="ha75d3bd1069f1ab85gg6gf126c75849749e8" version="1">ASTRL Sarcelle A1</content>
+    <content contentuid="h70e1gadd8432g59f3aba09420ad25bce8182" version="1">ASTRL Sarcelle B1</content>
+    <content contentuid="haa447011c61g882da5acc64e2ce7eg756100" version="1">ASTRL Vert J1</content>
+    <content contentuid="hf21cbaaa38232c70eegg3fd68b3a75d5dd03" version="1">ASTRL Sarcelle C1</content>
+    <content contentuid="h5844g2b97ff8ee86a9b1e01dg91ed8976ccg" version="1">ASTRL Vert K1</content>
+    <content contentuid="h4bebad78412863d317f4372g17a9ab4a2e07" version="1">ASTRL Vert L1</content>
+    <content contentuid="haea454c7c7fbe43g3baa27bd1bdd0a89fd46" version="1">ASTRL Sarcelle D1</content>
+    <content contentuid="h3bag57035f866fe6gg51a05b98g17d818113" version="1">ASTRL Sarcelle E1</content>
+    <content contentuid="h02eebe8b3f566264d79c52d7c04e8107eae3" version="1">ASTRL Vert F2</content>
+    <content contentuid="h264f88b7eegb054e4e2c659f96a1ad182807" version="1">ASTRL Vert G2</content>
+    <content contentuid="h9ac7g950845d0aab66ba9eea8b7e6cef5g34" version="1">ASTRL Vert H2</content>
+    <content contentuid="hf1010914f12f1c522gcd352ba17ccd05cg78" version="1">ASTRL Vert I2</content>
+    <content contentuid="h6aafg7a07031e2417bef7feae9b1gdbdd257" version="1">ASTRL Sarcelle A2</content>
+    <content contentuid="hb0753d04gc32b0550a90a750eb2c35a15533" version="1">ASTRL Sarcelle B2</content>
+    <content contentuid="ha267dc380gd4b04a3c2d54g63gb92b7bgcg9" version="1">ASTRL Vert J2</content>
+    <content contentuid="h50a3cgfe9895gf21b2311eaffa45b0aa8541" version="1">ASTRL Sarcelle C2</content>
+    <content contentuid="h419133bcbfeba33g3a339b3gccab0a1fgeee" version="1">ASTRL Vert K2</content>
+    <content contentuid="h8fg50be68b1gb6dfdge5b0d88d9d679806d5" version="1">ASTRL Vert L2</content>
+    <content contentuid="h08b3739294d0078f6fa427b989241fa44851" version="1">ASTRL Sarcelle D2</content>
+    <content contentuid="hd3c6ce9gc1c873g5a4ged93gc9b7282c516a" version="1">ASTRL Sarcelle E2</content>
+
+    <!-- lolthtouched -->
+    <content contentuid="hg9cag41ac420e3a67e68g3fgdcbbc7667052" version="1">ASTRL Rouge C1</content>
+    <content contentuid="h34727gb4513b5ed7c97gga7772ceb532720f" version="1">ASTRL Rose B1</content>
+    <content contentuid="hd88ef6ad8b9b5abe6433cb00434c78g55312" version="1">ASTRL Rose C1</content>
+    <content contentuid="hga56e4f71e781bcdafb499eg6eeg2gc50515" version="1">ASTRL Rose D1</content>
+    <content contentuid="hd0234a6d7b39f59233d6efa230011bafd5a4" version="1">ASTRL Rose E1</content>
+    <content contentuid="he18cd0a9d56cgg5f82a06a15342aba009cfe" version="1">ASTRL Rose F1</content>
+    <content contentuid="h963792b1f412dg0gd2901913fd263d6g9c6g" version="1">ASTRL Rose G1</content>
+    <content contentuid="h90g0c977d1d126gf67b403dcbc03f4b9906b" version="1">ASTRL Rouge D1</content>
+    <content contentuid="h1aga38b3044932d66g62g4e115g140cccabd" version="1">ASTRL Rouge E1</content>
+    <content contentuid="hb77170ggf6e50gf00g2g472b4g8f2b2019be" version="1">ASTRL Violet/Rose F1</content>
+    <content contentuid="h4f55a0g3764g957fd9c4b99da3421f9bdb0c" version="1">ASTRL Rouge F1</content>
+    <content contentuid="hb7984g8fa7258d9b32355b0c85fa1bb558fg" version="1">ASTRL Rouge G1</content>
+    <content contentuid="hccff9298b8e5adfa66267bd353fbfgfe2gg6" version="1">ASTRL Rouge C2</content>
+    <content contentuid="h9f5531c281aeeg33773b9b1cd7119315g7g9" version="1">ASTRL Rose B2</content>
+    <content contentuid="h4cb97b1175d2e5ade6a8614e34g9d5d08b2b" version="1">ASTRL Rose C2</content>
+    <content contentuid="h1g401b07771cee6e58931f50gbbc1c2cee69" version="1">ASTRL Rose D2</content>
+    <content contentuid="h2b2379gfc5gd90ge396595ge6776ace30bf7" version="1">ASTRL Rose E2</content>
+    <content contentuid="h44f71e8bb91841cg1208da256eb1b8fa0caf" version="1">ASTRL Rose F2</content>
+    <content contentuid="h86a24c772ba1d8e95c7eg7dbd2253869389f" version="1">ASTRL Rose G2</content>
+    <content contentuid="h4b1cd3d6a4gdag9f0a598ef3d430cfbc16e1" version="1">ASTRL Rouge D2</content>
+    <content contentuid="hd2g3a633a6d584830e9aaga0be5fc929aa1a" version="1">ASTRL Rouge E2</content>
+    <content contentuid="h9b0e8a52ea7d0a94106df1gd9g90g2g7af70" version="1">ASTRL Violet/Rose F2</content>
+    <content contentuid="h5ec1d21b011064f50gea8gefdg170bb9f14a" version="1">ASTRL Rouge F2</content>
+    <content contentuid="hcdef219c47f8443faf4ba5e8b0a3101c86f9" version="1">ASTRL Rouge G2</content>
+
+    <!-- moon elves -->
+    <content contentuid="hddfc8394cf8f702c9cgg99afdbcd810b6412" version="1">ASTRL Violet/Bleu B1</content>
+    <content contentuid="h7ad8c740fa270184d34704941577223b1g9e" version="1">ASTRL Bleu H1</content>
+    <content contentuid="h07efa3238fcf2272c144c287d69bb1bc3g36" version="1">ASTRL Violet/Bleu C1</content>
+    <content contentuid="h71b5f623afe27gd7bb5c2befd21d769b50f2" version="1">ASTRL Gris H1</content>
+    <content contentuid="hb9fb9e8gagbf647f3ee5467e2bg77fb9f630" version="1">ASTRL Violet J1</content>
+    <content contentuid="hf241c4b5cgb95377fg19dfb5gcg5g0c7a37c" version="1">ASTRL Violet K1</content>
+    <content contentuid="h22471ea232a171fg802281c825780820c38c" version="1">ASTRL Gris I1</content>
+    <content contentuid="hc39beec538g86168g115a98ggdgc534b5gg4" version="1">ASTRL Violet/Bleu D1</content>
+    <content contentuid="h9833b86b9131g2fge8675g83892bcc5bgfab" version="1">ASTRL Violet L1</content>
+    <content contentuid="h8c5f492839316faaee7cc353g6ee3a80ee15" version="1">ASTRL Bleu/Blanc A1</content>
+    <content contentuid="h293bbffd63d8f88f929735a0gbdf6gf0243f" version="1">ASTRL Gris/Violet B1</content>
+    <content contentuid="hc92dbbb421ee3gcbeg0427a0542109fc5c84" version="1">ASTRL Gris J1</content>
+    <content contentuid="h80c1e3dceg88f34047bce11dd53fg3d8fba5" version="1">ASTRL Violet/Bleu B2</content>
+    <content contentuid="h2d80dfe0ab48b26483g5aed50a5f15a10a7e" version="1">ASTRL Bleu H2</content>
+    <content contentuid="hebge28fd03b0d9dcbdg020ag09b0507ggg14" version="1">ASTRL Violet/Bleu C2</content>
+    <content contentuid="h6849b50g2aad4ad09d902a7f0ecda7266d5g" version="1">ASTRL Gris H2</content>
+    <content contentuid="h0512e54c0dcde3gf3ead30fa6774535a7e4c" version="1">ASTRL Violet J2</content>
+    <content contentuid="h4a184b708720d1900g2g5eedea774b435b90" version="1">ASTRL Violet K2</content>
+    <content contentuid="hae5fe8e05949494161f15aacg5fef9g3419d" version="1">ASTRL Gris I2</content>
+    <content contentuid="h4e16023g2dbf821032010319fb1g1c097856" version="1">ASTRL Violet/Bleu D2</content>
+    <content contentuid="hg2e6c9ce54e0210638bc212gc57892fd10d3" version="1">ASTRL Violet L2</content>
+    <content contentuid="h8092464478f8400d3088d3gd40f142ffadb8" version="1">ASTRL Bleu/Blanc A2</content>
+    <content contentuid="h4c076eaf935b0129feg116ggd0b0d761acb9" version="1">ASTRL Gris/Violet B2</content>
+    <content contentuid="hgfc5f2b75b2fec2718a520121d9dade9874e" version="1">ASTRL Gris J2</content>
+    
+    <!-- draconic lineage scale colors -->
+    <content contentuid="heba5aa44355c4cbd91bef6d45ba8e738be40" version="1">ASTRL Royaume des Ombres</content>
+    <content contentuid="h819cdf34e23a470a9d2eee552b3b0aba55a5" version="1">ASTRL Outreterre</content>
+    <content contentuid="h30530cd5d30d4845b5101943f8860fc2gb1b" version="1">ASTRL Lavande</content>
+    <content contentuid="h79ae6a4f0b394a71a3da1436f3fbb5d1092f" version="1">ASTRL Améthyste</content>
+    <content contentuid="h0ca4464588bf4f5dadc886f04fe0d5d3fa30" version="1">ASTRL Éveil</content>
+    <content contentuid="hd10149e785334e5b93279d3881711b5aa818" version="1">ASTRL Ventre</content>
+    <content contentuid="h7c2fbca5d51c4c528b4e0ec46a449888g0c1" version="1">ASTRL Ailes Sombres</content>
+    <content contentuid="h57588a2f1a66484e9125eb5d044d11b0986a" version="1">ASTRL Gisombre</content>
+    <content contentuid="h95ec0936e7a8458ab365049b7278f7458c23" version="1">ASTRL Interplanaire</content>
+    <content contentuid="hfc426b1350484bae987c6ee7176b49dc4ef3" version="1">ASTRL Drow</content>
+    <content contentuid="h2d48064ea4144a1ca424f20d917941b82116" version="1">ASTRL Luminescence</content>
+    <content contentuid="h6562e0bcaf4647788009e31493349fdcbf0e" version="1">ASTRL Ombre</content>
+</contentList>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="LHB_IB_Acolyte" version="1">Vous avez passé votre vie au service d'un temple, apprenant des rites sacrés et offrant des sacrifices aux dieux que vous vénérez. Servir les dieux et découvrir leurs œuvres sacrées vous guidera vers la grandeur. Vos expériences vous ont conféré la maîtrise de la Religion et les repos longs vous accordent Sanctuaire de manière permanente jusqu'à ce que vous attaquiez.</content>
+	<content contentuid="LHB_IB_Charlatan" version="1">Vous êtes un expert en manipulation, enclin à l’exagération et plus qu’heureux d’en tirer profit. Déformer la vérité et monter les alliés les uns contre les autres mènera à de plus grands succès à long terme. Vos expériences vous ont conféré la maîtrise de la Tromperie et vous pouvez lancer Déguisement à volonté.</content>
+	<content contentuid="LHB_IB_Criminal" version="1">Vous avez l’habitude d’enfreindre la loi et vous survivez en tirant parti de connexions non légales. Profiter des entreprises criminelles entraînera de plus grandes opportunités à l’avenir. Vos expériences vous ont conféré la maîtrise de l'Escamotage et des arbalètes à une main.</content>
+	<content contentuid="LHB_IB_Entertainer" version="1">Vous vivez pour influencer et subvertir votre public, en engageant les foules ordinaires et la haute société. Préserver l’art et apporter de la joie aux malheureux et aux opprimés renforce votre aura charismatique. Vos expériences vous ont conféré la maîtrise de la Représentation et des instruments de musique.</content>
+	<content contentuid="LHB_IB_FolkHero" version="1">Vous êtes le champion du peuple, défiant les tyrans et les monstres pour protéger les impuissants. Sauver des innocents en danger imminent fera grandir votre légende. Vos expériences vous ont conféré la maîtrise de la Persuasion et un avantage sur les jets de sauvegarde contre la peur.</content>
+	<content contentuid="LHB_IB_GuildArtisan" version="1">Votre compétence dans un métier particulier vous a valu d'être membre d'une guilde marchande, vous offrant privilèges et protection tout en vous améliorant dans votre art. Réparer et découvrir des objets artisanaux rares apportera de nouvelles inspirations. Vos expériences vous ont accordé la maîtrise de l'Histoire et une capacité de charge supplémentaire de 25 %.</content>
+	<content contentuid="LHB_IB_HauntedOne" version="1">Un mauvais moment, une personne ou une chose qui ne peut être tuée par une épée ou un sort hante votre esprit et s'évapore dans votre vision périphérique. Cela vous suis, où que vous alliez – ou peut-être que c'est vous-même qui êtes attiré. Vos expériences vous ont conféré la maîtrise de l'Intimidation et la vision dans le noir. Lorsque vous tuez un ennemi, tous les ennemis proches doivent réussir un jet de sauvegarde de Constitution ou subir un saignement pendant 2 tours. Une créature qui saigne subit 1d4 dégâts tranchants par tour et a un désavantage lors des jets de sauvegarde de Constitution.</content>
+	<content contentuid="LHB_IB_Noble" version="1">Vous avez grandi dans une famille appartenant à l’élite sociale, habituée au pouvoir et aux privilèges. Accumuler renommée, pouvoir et loyauté augmentera votre statut. Vos expériences vous ont conféré la maîtrise de la Perception, et lorsque vous obtenez un 1 pour un test de capacité, le dé est relancé une fois ; vous devez cependant utiliser le nouveau jet, même s'il s'agit également d'un 1.</content>
+	<content contentuid="LHB_IB_Outlander" version="1">Vous avez grandi dans la nature, apprenant à survivre loin du confort de la civilisation. Survivre aux dangers inhabituels de la nature améliorera vos prouesses et votre compréhension. Vos expériences vous ont conféré la maîtrise de la Survie et une vitesse de déplacement supplémentaire de 1,5 mètre (5 pieds).</content>
+	<content contentuid="LHB_IB_Sage" version="1">Vous êtes curieux et instruit, avec une soif inépuisable de connaissances. L’apprentissage des traditions rares du monde vous incitera à mettre ces connaissances à profit. Vos expériences vous ont conféré la maîtrise de l'Arcanes et le coût d'apprentissage des sorts à partir des parchemins est réduit de moitié.</content>
+	<content contentuid="LHB_IB_Soldier" version="1">Vous êtes formé aux tactiques et au combat sur le champ de bataille, après avoir servi dans une milice, une compagnie de mercenaires ou un corps d'officiers. Vous faites preuve de tactique intelligente et de courage sur le champ de bataille pour améliorer vos prouesses. Vos expériences vous ont conféré la maîtrise de l'Athlétisme, et lorsque vous obtenez un 1 pour un jet d'attaque, le dé est relancé une fois ; vous devez utiliser le nouveau jet, même s'il s'agit également d'un 1.</content>
+	<content contentuid="LHB_IB_Urchin" version="1">Après avoir survécu à une enfance difficile, vous savez tirer le meilleur parti des situation même désespérer. Utiliser votre intelligence de la rue renforce votre esprit pour le voyage à venir. Vos expériences vous ont conféré la maîtrise de la Discrétion et un avantage aux test d'Intuition.</content>
+	<content contentuid="LHB_IB_Acolyte_BackgroundDescription" version="1">Vos expériences vous ont accordé la maîtrise de la Religion.</content>
+	<content contentuid="LHB_IB_Charlatan_BackgroundDescription" version="1">Vos expériences vous ont conféré la maîtrise de la Tromperie.</content>
+	<content contentuid="LHB_IB_Criminal_BackgroundDescription" version="1">Vos expériences vous ont conféré la maîtrise de l'Escamotage.</content>
+	<content contentuid="LHB_IB_Entertainer_BackgroundDescription" version="1">Vos expériences vous ont conféré la maîtrise de la Representation.</content>
+	<content contentuid="LHB_IB_FolkHero_BackgroundDescription" version="1">Vos expériences vous ont conféré la maîtrise de la Persuasion.</content>
+	<content contentuid="LHB_IB_GuildArtisan_BackgroundDescription" version="1">Vos expériences vous ont conféré la maîtrise de l'Histoire.</content>
+	<content contentuid="LHB_IB_HauntedOne_BackgroundDescription" version="1">Vos expériences vous ont conféré la maîtrise de l'Intimidation.</content>
+	<content contentuid="LHB_IB_Noble_BackgroundDescription" version="1">Vos expériences vous ont accordé la maîtrise de la oerception.</content>
+	<content contentuid="LHB_IB_Outlander_BackgroundDescription" version="1">Vos expériences vous ont conféré la maîtrise de la Survie.</content>
+	<content contentuid="LHB_IB_Sage_BackgroundDescription" version="1">Vos expériences vous ont accordé la maîtrise de i'Arcane.</content>
+	<content contentuid="LHB_IB_Soldier_BackgroundDescription" version="1">Vos expériences vous ont conféré la maîtrise de l'Athlétisme.</content>
+	<content contentuid="LHB_IB_Urchin_BackgroundDescription" version="1">Vos expériences vous ont conféré la maîtrise de la Discrétion.</content>
+	<content contentuid="LHB_IB_Acolyte_Name" version="1">Tranquillité</content>
+	<content contentuid="LHB_IB_Acolyte_Description" version="1">Les longs repos vous accordent Sanctuaire de manière permanente jusqu'à ce que vous attaquiez.</content>
+	<content contentuid="LHB_IB_Charlatan_Name" version="1">Camouflage</content>
+	<content contentuid="LHB_IB_Charlatan_Description" version="1">Vous pouvez lancer Déguisement à volonté.</content>
+	<content contentuid="LHB_IB_Criminal_Name" version="1">Polyvalence</content>
+	<content contentuid="LHB_IB_Criminal_Description" version="1">Vous gagnez la maîtrise des arbalètes à main.</content>
+	<content contentuid="LHB_IB_Entertainer_Name" version="1">Talent</content>
+	<content contentuid="LHB_IB_Entertainer_Description" version="1">Vous gagnez la maîtrise des instruments de musique.</content>
+	<content contentuid="LHB_IB_FolkHero_Name" version="1">Bravoure</content>
+	<content contentuid="LHB_IB_FolkHero_Description" version="1">Vous gagnez un avantage aux jets de sauvegarde contre la peur.</content>
+	<content contentuid="LHB_IB_GuildArtisan_Name" version="1">Ténacité</content>
+	<content contentuid="LHB_IB_GuildArtisan_Description" version="1">Vous gagnez 25 % de capacité de transport supplémentaire.</content>
+	<content contentuid="LHB_IB_HauntedOne_Name" version="1">Sadique</content>
+	<content contentuid="LHB_IB_HauntedOne_Description" version="1">Lorsque vous tuez un ennemi, tous les ennemis proches doivent réussir un jet de sauvegarde de Constitution ou subir un saignement pendant 2 tours. Une créature qui saigne subit 1d4 dégâts tranchants par tour et a un désavantage lors des jets de sauvegarde de Constitution.</content>
+	<content contentuid="LHB_IB_Noble_Name" version="1">Richesse</content>
+	<content contentuid="LHB_IB_Noble_Description" version="1">Lorsque vous obtenez un 1 pour un test de capacité, le dé est relancé une fois ; vous devez utiliser le nouveau jet, même s'il s'agit également d'un 1.</content>
+	<content contentuid="LHB_IB_Outlander_Name" version="1">Empressement</content>
+	<content contentuid="LHB_IB_Outlander_Description" version="1">Vous gagnez 1,5 mètres (5 pieds) de vitesse de déplacement supplémentaire.</content>
+	<content contentuid="LHB_IB_Sage_Name" version="1">Assiduité</content>
+	<content contentuid="LHB_IB_Sage_Description" version="1">Le coût pour écrire des sorts à partir de parchemins est réduit de moitié.</content>
+	<content contentuid="LHB_IB_Soldier_Name" version="1">Entraînement</content>
+	<content contentuid="LHB_IB_Soldier_Description" version="1">Lorsque vous obtenez un 1 pour un jet d'attaque, le dé est relancé une fois ; vous devez utiliser le nouveau jet, même s'il s'agit également d'un 1.</content>
+	<content contentuid="LHB_IB_Urchin_Name" version="1">Discernement</content>
+	<content contentuid="LHB_IB_Urchin_Description" version="1">Vous bénéficiez d’un avantage sur les tests de perceptions.</content>
+</contentList>

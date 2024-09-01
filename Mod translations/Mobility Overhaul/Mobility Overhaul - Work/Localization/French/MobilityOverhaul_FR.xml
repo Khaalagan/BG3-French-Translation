@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contentList>
+  <content contentuid="3048fe61f8834940b9a70e9d70b4a171" version="4">Votre &lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de mouvement&lt;/LSTag&gt; augmente de [1] et vous pouvez faire un &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Saut&lt;/LSTag&gt; un [2] supplémentaire lorsque vous ne portez pas d'armure ou n'utilisez pas de bouclier. </content>
+  <content contentuid="16361d1368cb41f89ebbfb32c5687157" version="4">Sautez de haut en bas et vis et versa. Interrompt la  &lt;LSTag Type="Status" Tooltip="SNEAKING"&gt;Furtivité&lt;/LSTag&gt; et peut &lt;LSTag Type="Status" Tooltip="GOB_LOSTBALANCE"&gt;Déséquilibrer&lt;/LSTag&gt;. Votre &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; détermine la distance à laquelle vous pouvez sauter. </content>
+  <content contentuid="f35bd55190ea40479db2eb7585d0fb90" version="4">Saut agile</content>
+  <content contentuid="88bf3dd679a34eaf8dd9625bedd6cacc" version="4">Sautez sans interrompre la &lt;LSTag Type="Status" Tooltip="SNEAKING"&gt;Furtivité&lt;/LSTag&gt; ou tout risque de devenir &lt;LSTag Type="Status" Tooltip="GOB_LOSTBALANCE"&gt;Déséquilibré&lt;/LSTag&gt;. La &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt; détermine la distance à laquelle vous pouvez sauter. </content>
+  <content contentuid="35458f32e3f84dbeab2d7566c12bdf2b" version="4">Vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur vos &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; contre le Poison, et vous avez la Résistance contre les dégâts de Poison. Le port d'une armure ne limite pas vos déplacements.</content>
+</contentList>
