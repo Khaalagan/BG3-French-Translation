@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contentList>
+
+  <content contentuid="ae87aed925fe4dd6852e8bd9846040e8" version="4">Arme de finesse</content>
+  <content contentuid="ebf2c2241b4a4cbdb762428142b41806" version="4">Utilise la Dextérité pour les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaques&lt;/LSTag&gt; avec un bonus de +[1]. Peut utiliser la Dextérité ou la Force pour les dégâts</content>
+  <content contentuid="595d90dcaee04c0cba92c03f35811a50" version="4">Arme courante</content>
+  <content contentuid="8d69221e650d4f31bed4a49423810262" version="4">Peut utiliser la Dextérité ou la Force pour les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaques&lt;/LSTag&gt;. Utilise la Force pour les dégâts.</content>
+  <content contentuid="c41edcf516a84561858aacd63806e8e6" version="4">Arbalète</content>
+  <content contentuid="915aafd500884889a058f22ed6c98743" version="4">Utilise la moitié de la Dextérité pour les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaques&lt;/LSTag&gt; avec un bonus de +[1]. Utilise la Dextérité pour les dégats.</content>
+  <content contentuid="f8f1d86ee5d74a3c9cd1a1a8ee0f2207" version="4">Armes de guerre</content>
+  <content contentuid="6e292f12247c4a1ab4b4ecb0ae451132" version="4">Utilise de la Force pour les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaques&lt;/LSTag&gt; avec un bonus de [1]. Utilise la Force pour les dégats.</content>
+  <content contentuid="d16d27a62ff842c780376a4f8a9ba790" version="4">Arme de Semi-finesse</content>
+  <content contentuid="7f398ca0a19e468b8d085f76e049a448" version="4">Utilise la Dextérité pour les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaques&lt;/LSTag&gt; avec un bonus de +1. Utilise la Force pour les dégats. Inflige [1] à chaque attaque réussie.</content>
+  <content contentuid="47fee8b079e34a10a176ed85304e2fa8" version="4">Utilise la Dextérité pour les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaques&lt;/LSTag&gt;. Utilise la Force pour les dégats. Inflige [1] à chaque attaque réussie.</content>
+  <content contentuid="23424cee114c4710a7638c45199c37c5" version="4">Arc court</content>
+  <content contentuid="b53ac79bc255430294e8c4ba576d670d" version="4">Utilise la Dextérité pour les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaques&lt;/LSTag&gt; avec un bonus de +1. Utilise la Dextérité pour les dégats.</content>
+  <content contentuid="93a862c31fc746e4ae633c36562eaf3e" version="4">Arc long</content>
+  <content contentuid="1280ad38c56748eaa9a458d93faf94cf" version="4">Utilise la Dextérité pour les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaques&lt;/LSTag&gt;. Utilise la Dextérité + la moitié de la Force pour les dégats.</content>
+  <content contentuid="df089ef6530e4302afb9010c4e746a03" version="4">Arbalète de poing</content>
+  <content contentuid="ef555fa309e7412d82cbd127c4415de8" version="4">Utilise la Dextérité pour les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaques&lt;/LSTag&gt; et les dégats.</content>
+  <content contentuid="1d6b8e920d48462589505edaf04827a6" version="4">Arbalète légère</content>
+  <content contentuid="049d900a58a94671bb89c995f0860325" version="4">Arbalète lourde</content>
+  <content contentuid="8b62edc7bfc443b4b0cda4efdd13960f" version="4">Utilise la Dextérité pour les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaques&lt;/LSTag&gt; et les dégats. A [1] aux Jets d'attaques mais inflige [2] à chaque attaque réussie.</content>
+</contentList>
