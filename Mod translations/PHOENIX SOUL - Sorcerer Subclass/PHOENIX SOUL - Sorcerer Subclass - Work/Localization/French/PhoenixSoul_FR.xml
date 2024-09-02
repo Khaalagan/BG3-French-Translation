@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
-    <content contentuid="h3709340e0d0e436bb1f60170245615b9fddc" version="2">Votre pouvoir puise dans la flamme immortelle qui alimente le légendaire phénix. Vous ou vos ancêtres avez peut-être rendu un grand service à un phénix, ou êtes-vous né en sa présence. Quelle qu’en soit la cause, un éclat du pouvoir du phénix habite en vous.</content>
+    <content contentuid="h3709340e0d0e436bb1f60170245615b9fddc" version="2">Votre pouvoir puise dans la flamme immortelle du légendaire phénix. Vous ou vos ancêtres avez peut-être rendu un grand service à un phénix, ou êtes-vous né en sa présence. Quelle qu’en soit la cause, un éclat du pouvoir du phénix vous habite.</content>
     <content contentuid="h8c6674e8a3674c3287aabc8f89b051daa56b" version="1">Âme du Phénix</content>
-    <content contentuid="hb40401f54d2c40b2b99ea739f15fcbaf3g43" version="1">Ce sorcier est imprégné d'un éclat du pouvoir d'un phénix, accordé grâce à une connexion avec la créature légendaire.</content>
+    <content contentuid="hb40401f54d2c40b2b99ea739f15fcbaf3g43" version="1">Ce sorcier est imprégné d'un éclat du pouvoir d'un phénix, accordé grâce à un lien avec la créature légendaire.</content>
 
     <!-- fiery spirit -->
     <content contentuid="hc09b6390b64b4bb0b4846fc278b61707aadb" version="1">Esprit ardent</content>
@@ -10,11 +10,11 @@
 
     <!-- ignite -->
     <content contentuid="hb098388b8b82418c9602ee56488a1208c25f" version="1">Enflammer</content>
-    <content contentuid="h5c336bd45ae642b4b51e5f1c6156c4a43247" version="1">Les flammes qui rugissent en vous vous permettent d'enflammer des choses d'un simple toucher. Les ennemis sont  &lt;LSTag Type="Status" Tooltip="BURNING_PHOENIXFIRE"&gt;Allumer&lt;/LSTag&gt;, et les armes s'&lt;LSTag Type="Status" Tooltip="BURNING_PHOENIXFIRE_WEAPON"&gt;enflamme&lt;/LSTag&gt; brillamment.</content>
+    <content contentuid="h5c336bd45ae642b4b51e5f1c6156c4a43247" version="1">Les flammes qui rugissent en vous vous permettent d'enflammer votre cible d'un simple toucher. Les ennemis sont &lt;LSTag Type="Status" Tooltip="BURNING_PHOENIXFIRE"&gt;Allumer&lt;/LSTag&gt;, et les armes s'&lt;LSTag Type="Status" Tooltip="BURNING_PHOENIXFIRE_WEAPON"&gt;Enflamme&lt;/LSTag&gt;.</content>
     <content contentuid="hfe5d55c343654664a107f6603a13275518fb" version="4">En flammes</content>
-    <content contentuid="h5ba4dc96321a4d669012842c15cb55bf3964" version="4">Brûlant vivement avec le Feu du phénix. Subit [1] par tour.</content>
-    <content contentuid="h614cc7428079438d92a3f53e24becf2508f2" version="4">Brûlant vivement avec le Feu du phénix. Les attaques utilisant cette arme infligent un [1] supplémentaire.</content>
-    <content contentuid="h1b7493be2e594d8aa2611465bf41c2922fg5" version="4">Contrairement à l'habituel  &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Brûlant&lt;/LSTag&gt;, les ennemis enflammés n'infligent pas de dégâts supplémentaires lors d'une attaque avec une arme.</content>
+    <content contentuid="h5ba4dc96321a4d669012842c15cb55bf3964" version="4">Brûle vivement par le Feu du phénix. Subit [1] par tour.</content>
+    <content contentuid="h614cc7428079438d92a3f53e24becf2508f2" version="4">Brûle vivement par le Feu du phénix. Les attaques de cette arme infligent un [1] supplémentaire.</content>
+    <content contentuid="h1b7493be2e594d8aa2611465bf41c2922fg5" version="4">Contrairement à l'habituel &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Brûlure&lt;/LSTag&gt;, les ennemis enflammés n'infligent pas de dégâts supplémentaires lors d'une attaque avec une arme.</content>
 
     <!-- heart of fire -->
     <content contentuid="h0744afccd78447e8bec231bcec0d1ba679gf" version="1">Coeur du Feu</content>
@@ -22,18 +22,18 @@
 
     <!-- phoenix spark -->
     <content contentuid="hbcd4177affce4571a95496a86c70dc922ee4" version="1">Étincelle du Phénix</content>
-    <content contentuid="hddc76205844343889fe8bd276e0bebd47g0b" version="3">Quand vous atteignez 0  &lt;LSTag Tooltip="HitPoints"&gt;Points de vie&lt;/LSTag&gt;, l'esprit du Phénix vous rappelle à la vie, vous faisant vous enflammer et regagner [1] au lieu de devenir  &lt;LSTag Tooltip="Downed"&gt;Agonisant&lt;/LSTag&gt;. Tous les ennemis dans [2] prennent [3].</content>
+    <content contentuid="hddc76205844343889fe8bd276e0bebd47g0b" version="3">Quand vous atteignez 0 &lt;LSTag Tooltip="HitPoints"&gt;Points de vie&lt;/LSTag&gt;, l'esprit du Phénix vous rappelle à la vie, vous faisant vous enflammer et regagner [1] au lieu de devenir &lt;LSTag Tooltip="Downed"&gt;Agonisant&lt;/LSTag&gt;. Tous les ennemis dans [2] prennent [3].</content>
     <content contentuid="h7ac1a9ffa4ff416d8e303621bd20462b4d15" version="3">Au milieu des flammes, vous renaîssez. Tous les ennemis dans [1] prennent [2].</content>
     
     <!-- nourishing flames -->
     <content contentuid="h502525f36b844dedbe3f786bcd489e67ac9a" version="1">Flammes nourrissantes</content>
-    <content contentuid="hbec528f27d9b427dbcdf48bcafbcd4826egg" version="3">Lorsque vous infligez des dégâts de Feu avec un sort de niveau 1 ou supérieur, les flammes vous apaisent et vous restaurent. Vous regagnez  &lt;LSTag Tooltip="HitPoints"&gt;Points de vie&lt;/LSTag&gt; égal au niveau de l'emplacement de sort plus votre modificateur de Charisme.</content>
+    <content contentuid="hbec528f27d9b427dbcdf48bcafbcd4826egg" version="3">Lorsque vous infligez des dégâts de Feu avec un sort de niveau 1 ou supérieur, les flammes vous apaisent et vous restaurent. Vous regagnez un nombre de &lt;LSTag Tooltip="HitPoints"&gt;Points de vie&lt;/LSTag&gt; égal au niveau du sort plus votre modificateur de Charisme.</content>
 
     <!-- rebirth -->
     <content contentuid="h6947b795a7c9481faf040ae4819a80510286" version="1">Œuf de Phénix</content>
     <content contentuid="h6034c88e09894f619b3189da4f44a2154808" version="1">Un œuf. Il est chaud au toucher.</content>
     <content contentuid="h283580b213c34178a5b2fdee26b3649034gf" version="1">Renaissance</content>
-    <content contentuid="h1742b8f7ec5043adb95aa3619a9edf9a5a2g" version="1">Faites le sacrifice ultime en vous transformant en un œuf fragile pendant 1 tour. Si vous survivez, vous renaîtrez et bénéficierez des avantages d'un  &lt;LSTag Tooltip="LongRest"&gt;Long repos&lt;/LSTag&gt;. Si l’œuf meurt, votre vie se termine avec lui.</content>
+    <content contentuid="h1742b8f7ec5043adb95aa3619a9edf9a5a2g" version="1">Faites le sacrifice ultime en vous transformant en un œuf fragile pendant 1 tour. Si vous survivez, vous renaîtrez et bénéficierez des avantages d'un  &lt;LSTag Tooltip="LongRest"&gt;Repos long&lt;/LSTag&gt;. Si l’œuf est détruit, votre vie se termine avec lui.</content>
     <content contentuid="hed8c7525f3ef4ac990662ce34556c8243g27" version="1">Œuf</content>
     <content contentuid="h05adb593c0b44012886e6b1dcc762230a5g2" version="1">Vous êtes actuellement un œuf. voulez-vous renaître ?</content>
     <content contentuid="h4899c8329c9143f7960799e5c41bed39bg6a" version="1">Renaître</content>
