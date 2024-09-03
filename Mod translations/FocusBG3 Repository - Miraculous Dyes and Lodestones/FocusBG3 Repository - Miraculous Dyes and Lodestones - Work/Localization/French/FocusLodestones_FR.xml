@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
 	<content contentuid="h4903028cg3313g480ag9ef9gfb89d7174d76" version="1">Pochette de magnétites</content>
-	<content contentuid="hf9dca9cdgf59cg4a29g988agb41daba02320" version="1">Cette pochette contient toujours des pierres qui peuvent invoquer et revoquer vos compagnons.</content>
+	<content contentuid="hf9dca9cdgf59cg4a29g988agb41daba02320" version="1">Cette pochette contient des pierres qui peuvent invoquer et revoquer vos compagnons.</content>
 	<content contentuid="h967fb663ga8b1g4decgad50ge3c0f81f9184" version="1">Une magie particulière est tissée dans ce velours capable d'invoquer des alliés à longue distance.</content>
 
 <!-- Dummy -->
 	<content contentuid="h03a0f6eag7066g473bg80a1g4e8004ee65d3" version="1">Invoquer [1]</content>
 	<content contentuid="hf6f0de61g2520g44d2g9fd6g79756035a87a" version="1">Invoque [1] à vos côtés. Vous devez être un avatar, avoir accès au camp et disposer d'une place disponible. Le recrutement ne fonctionne pas si vous ou [1] êtes au combat, frappés d'incapacité ou morts.</content>
 	<content contentuid="he76be815g8a42g4813g895fg58c452e33e78" version="1">Revoquer [1]</content>
-	<content contentuid="hcb3c7bcagc0e6g4e14ga8dag989b90df2391" version="1">Renvoie [1] au camp. Vous devez être un avatar, avoir accès au camp et contrôler [1]. Le renvoi ne fonctionne pas si vous ou [1] êtes au combat, frappés d'incapacité ou morts.</content>
-	<content contentuid="hbfe656f3g9881g4509g97c7g886a2386d298" version="1">Cette pierre vibre doucement mais résolument dans la paume de votre main, comme si elle était à l’aube d’un mouvement beaucoup plus important.</content>
+	<content contentuid="hcb3c7bcagc0e6g4e14ga8dag989b90df2391" version="1">Renvoie [1] au camp. Vous devez être un avatar, avoir accès au camp et contrôler [1]. Le renvoi ne fonctionne pas si vous ou [1] êtes au combat, en incapacité ou morts.</content>
+	<content contentuid="hbfe656f3g9881g4509g97c7g886a2386d298" version="1">Cette pierre vibre doucement mais résolument dans la paume de votre main, comme si elle était sur le point d'exploser.</content>
 <!---->
 	<content contentuid="h225fce08ge4edg451bg9fe4g4648ca103a3e" version="1">Invocation d'Astarion</content>
 	<content contentuid="h9f4c084bg4386g4e03ga9b2g9314c73b52c5" version="1">Description technique d'Astarion</content>
@@ -17,39 +17,39 @@
 
 	<content contentuid="hbd51dc8ag4da9g431cgb133g5bfe065f7c11" version="1">Invocation de Gayle</content>
 	<content contentuid="h17b0d355g089bg428cgab6cg1f0d2f1ff791" version="1">Description technique de Gayle</content>
-	<content contentuid="h8a802c9bg03c7g47edgad6egcd7410cae84b" version="1">Le violet profond de cette pierre est brisé par un éclat d’or qui respire la faveur divine.</content>
+	<content contentuid="h8a802c9bg03c7g47edgad6egcd7410cae84b" version="1">Le violet profond de cette pierre est contrebalancé par un éclat d’or qui suggère la faveur divine.</content>
 
-	<content contentuid="h9f0ff0d9gd88fg40a1g9773g52eb82a7f82c" version="1">Invocation de Halsin</content>
+	<content contentuid="h9f0ff0d9gd88fg40a1g9773g52eb82a7f82c" version="1">Invocation d'Halsin</content>
 	<content contentuid="h9b749d21g959cg4438gabb3g942a5a24765a" version="1">Description technique Halsin</content>
 	<content contentuid="h2c6cce44gab59g4c48ga6ffg229c6885a648" version="1">Verdoyante et tachetée de brun miel, l'apparence simpliste de cette pierre cache une profonde sagesse.</content>
 
 	<content contentuid="h9a752ca3gd116g4c5dg8055g32bf8ca2022f" version="1">Invocation de Jaheira</content>
 	<content contentuid="h309c4ac1g32ceg44f7gac33g3754b7a8b5a1" version="1">Description technique de Jaheira</content>
-	<content contentuid="h6cf90319g6d20g4ac7ga16ag14068a3265a0" version="1">Cette pierre de jade est brossée d'un bronzage qui abrite une expérience et une confiance éprouvée au combat.</content>
+	<content contentuid="h6cf90319g6d20g4ac7ga16ag14068a3265a0" version="1">Cette pierre de jade patinée abrite une expérience et une confiance éprouvée du combat.</content>
 
 	<content contentuid="hf9323076g0a20g4733g8194g95cabfb8cc02" version="1">Invocation de Karlach</content>
 	<content contentuid="h066bc342ga14fg4576ga55bg2480f103dbc5" version="1">Description technique de Karlach</content>
-	<content contentuid="h87b1a325g00cbg423fgb969ga9a8041ed5b7" version="1">À l’intérieur de cette pierre fumante se trouve un cœur qui brûle pour l’indépendance.</content>
+	<content contentuid="h87b1a325g00cbg423fgb969ga9a8041ed5b7" version="1">À l’intérieur de cette pierre fumante se trouve un cœur qui brûle pour la liberté.</content>
 
 	<content contentuid="hc9590f3cgd559g4f0cgbd48g2d19562ec125" version="1">Invocation de Lae'zel</content>
 	<content contentuid="h014e5773g13e5g4267g8e5eg91a2f5ef4aab" version="1">Description technique de Lae'zel</content>
-	<content contentuid="h06a3021egc8feg4eb6gb257ga35f78a546df" version="1">Des stries noires dansent à travers cette pierre jaune-vert, évoquant l'harmonie entre discipline et loyauté.</content>
+	<content contentuid="h06a3021egc8feg4eb6gb257ga35f78a546df" version="1">Des stries noires dansent à travers cette pierre jaune-vert, évoquant l'équilibre entre discipline, loyauté et vérité.</content>
 
 	<content contentuid="h4c99196dg6101g4785gb77ag842f82bc849e" version="1">Invocation de Minsc</content>
 	<content contentuid="h993b131eg02aeg4169g8334g1a66f46b90b9" version="1">Description technique Minsc</content>
-	<content contentuid="h6d17c6d2g78b9g4d40g8a1dgcb56b939efb0" version="1">L’orange et le blanc se superposent à un brun charismatique dans un esprit de camaraderie et de compassion inébranlables.</content>
+	<content contentuid="h6d17c6d2g78b9g4d40g8a1dgcb56b939efb0" version="1">L’orange et le blanc se superposent en un brun chaleureux qui suggère une compassion inébranlables.</content>
 
 	<content contentuid="h8b52e136gf45cg4564ga0b3gf02bf8b13ddf" version="1">Invocation de Minthara</content>
 	<content contentuid="hcd4b830ege9ebg4368gb0bdg69b1f33d0edc" version="1">Description technique de Minthara</content>
-	<content contentuid="hb9e991aag0c42g4a70g8685g32389ae999fe" version="1">L'autorité, la supériorité et la ténacité trouvent une représentation égale dans l'apparence pittoresque du bleu, de l'or et de l'argent de cette pierre.</content>
+	<content contentuid="hb9e991aag0c42g4a70g8685g32389ae999fe" version="1">L'autorité, la supériorité et la ténacité trouvent une représentation parfaite dans l'apparence pittoresque du bleu, de l'or et de l'argent de cette pierre.</content>
 
 	<content contentuid="hf05a5ed0gb3e8g4ae9g9c24gf72837d711d7" version="1">Invocation d'Ombrecœur </content>
 	<content contentuid="ha22beeadg5b52g4234g898fg80e8a8e50aec" version="1">Description technique d'Ombrecœur</content>
-	<content contentuid="h156302f6g227ag4f86gbfb9g35c13203decc" version="1">Le noir abyssal de cette pierre est mêlé d'un violet subtil, soulignant la fidélité au secret.</content>
+	<content contentuid="h156302f6g227ag4f86gbfb9g35c13203decc" version="1">Le noir abyssal de cette pierre est mêlé d'un violet subtil, soulignant le goût au secret.</content>
 
 	<content contentuid="he1001661ga254g4ed6gb2c4g9800d789308e" version="1">Invocation de Wyll</content>
 	<content contentuid="hb906c941g3d79g49e3g9076g0211fc2f4855" version="1">Description technique de Wyll</content>
-	<content contentuid="h795d066fg3ed8g4f95g88c4g1b8c4ec97d4a" version="1">Le vert surnaturel qui recouvre cette pierre travaille sans relâche à étouffer sa vertu.</content>
+	<content contentuid="h795d066fg3ed8g4f95g88c4g1b8c4ec97d4a" version="1">Le vert surnaturel qui recouvre cette pierre semble lutter sans relâche à étouffer quelque chose.</content>
 
 	<content contentuid="h0117072cg3255g4b99g916bg350b2377853b" version="1">Invocation générique_1</content>
 	<content contentuid="h5fb4b2cdgc6f3g497bg82f1g8da3fc9750d8" version="1">Description technique générique_1</content>
