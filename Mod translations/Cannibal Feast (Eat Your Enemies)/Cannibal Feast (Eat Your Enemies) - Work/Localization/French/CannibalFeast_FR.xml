@@ -1,23 +1,84 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
+	<content contentuid="h6400d8ffg6637g43f6ga2a3g664531976e11" version="1">ID fictif</content>
+	<content contentuid="h6377e1ecg0283g43c9ga551gf03e09bf8d18" version="1">Faim de chair</content>
+	<content contentuid="h3dcaba16ge5afg49f5g9598g9852f265d106" version="1">Vous avez une faim dévorante pour la chair des autres, crue ou cuite.</content>
+	<content contentuid="hecb7a744gcff7g4202ga8efgb375157cc842" version="1">Chair d'innocents</content>
+	<content contentuid="hf1f7baeeg8282g418bga903gf9cfd7898415" version="1">A le goût de l'espoir, des rêves et peut-être de quelques larmes.</content>
+	<content contentuid="h1f28be67g610dg44bfg9334g6bae9d333dc1" version="1">Alfira Caramelisée</content>
+	<content contentuid="hbe1735ccge6cag41b1g99a7g42df876ae0d6" version="1">Sa chair sucrée et grillée est comme du miel caramélisé.</content>
+	<content contentuid="hc3b39244gb1f9g43c1g864eg6bf7d75fc782" version="1">Ragoût savoureux d'Alfira</content>
+	<content contentuid="h5ba9d3c8g08a1g4b57g9a32gfd4f0d229324" version="1">Devinez qui est invité à dîner ?!</content>
 	<content contentuid="hb0c50133gc3d7g450dgadabg84cdefa82001" version="1">Rassasié</content>
-	<content contentuid="h46354bd3g980bg48b2g9713gebf2bcdce6cd" version="1">A récemment mangé la chair d'un autre</content>
-	<content contentuid="hc3efab42g68b6g49ddgbfb7g1d79656cbaad" version="1">Parties du corps</content>
-	<content contentuid="hffff8e50gcd5ag4d97gbc03gf783776542b4" version="3">Ne faites pas ça...</content>
-	<content contentuid="he23c201ag8f84g4eccg80eeg9db02220945f" version="1">Morceau de démon</content>
+	<content contentuid="h46354bd3g980bg48b2g9713gebf2bcdce6cd" version="1">A récemment mangé la chair d'un autre.</content>
+	<content contentuid="hc3efab42g68b6g49ddgbfb7g1d79656cbaad" version="1">Parties de corps</content>
+	<content contentuid="hffff8e50gcd5ag4d97gbc03gf783776542b4" version="3">A le goût de porc!</content>
+	<content contentuid="he23c201ag8f84g4eccg80eeg9db02220945f" version="1">Bouchées de Démon</content>
 	<content contentuid="h6cd88c47g0c8dg483dgaf2agd351dc2302cb" version="1">Un peu brûlé, légèrement épicé, un repas d'enfer !</content>
 	<content contentuid="h9b92747bgbf67g4766g8fd8g368991c96077" version="1">Chair de gobelin</content>
-	<content contentuid="h95fb1ddega228g4addg9849g3f2792b69222" version="1">Dur à mastiquer et avec un goût de pourri</content>
+	<content contentuid="h95fb1ddega228g4addg9849g3f2792b69222" version="1">Dur à mâcher, a le goût de pourri.</content>
 	<content contentuid="ha02f6271gac5cg4281gaef8g7c0e82add2bc" version="1">Restes monstrueux</content>
 	<content contentuid="h5272eaf1ge887g4f91g9ee3gc0de04efc320" version="1">Ce n'est certainement pas de la viande humaine, le goût ressemble un peu à celui du caramel salé.</content>
-	<content contentuid="h3efabfbfgdf4eg43e2ga300gbb4fd43e1163" version="1">Morceau de Myconide</content>
+	<content contentuid="h3efabfbfgdf4eg43e2ga300gbb4fd43e1163" version="1">Morceaux de champignons myconides</content>
 	<content contentuid="he6d3562eg8c28g435agbfb2ge6145f54bef5" version="1">Sa texture rappelle celle du poulet cru...</content>
 	<content contentuid="hfc0759bbgc0a6g4f21gb941g8d0eca75ec67" version="1">Chair d'ange</content>
-	<content contentuid="h697594dbg87dag4820gb758g7caac0549756" version="1">Ne plus parler</content>
-	<content contentuid="h4b2be933ga049g432fgbcd9g8752fa3df4ba" version="1">Fibres de fée</content>
-	<content contentuid="h968f7b1bg1b50g424cgaac0g9b92ff04f7ff" version="1">Odeur d'orchidée, goût de myrtille</content>
-	<content contentuid="ha5e1c59cg7bbdg4cc1gac75g1416d378582b" version="1">Bouts d'animaux</content>
-	<content contentuid="hee0c4bb4ge95eg4362g8d94gc6dac9df51ec" version="1">Le goût du porc !</content>
+	<content contentuid="h697594dbg87dag4820gb758g7caac0549756" version="1">Ne discutez pas plus.</content>
+	<content contentuid="h4b2be933ga049g432fgbcd9g8752fa3df4ba" version="1">"Muscle" de Fée</content>
+	<content contentuid="h968f7b1bg1b50g424cgaac0g9b92ff04f7ff" version="1">Sent l'orchidée, a le goût de myrtille.</content>
+	<content contentuid="ha5e1c59cg7bbdg4cc1gac75g1416d378582b" version="1">Restes d'animaux</content>
+	<content contentuid="hee0c4bb4ge95eg4362g8d94gc6dac9df51ec" version="1">Digne d'un roi !</content>
 	<content contentuid="hfa417fb1gfbe5g4334gae61g88e75b7a9a4f" version="1">Restes de mort</content>
-	<content contentuid="hf145d20dgc2ffg47aeg92c2ge5143847a247" version="1">Ne vous semble finalement pas si repoussant</content>
+	<content contentuid="hf145d20dgc2ffg47aeg92c2ge5143847a247" version="1">POURQUOI ENVISAGEZ-VOUS D'EN MANGER ??!</content>
+	<content contentuid="h3c210cb1g88fcg4bdcgac20gc6782e3fa4a0" version="1">Saucisse fraîche de "porc"</content>
+	<content contentuid="ha2357d8egdba8g44d7g8674g5cfd6dd2f92b" version="1">Pour ceux qui préfèrent les régimes de type "viande et pommes de terre".</content>
+	<content contentuid="habe5335cgbe4dg430eg9f9bg4c0e9b0dc555" version="1">Cartilage de Gobelin </content>
+	<content contentuid="hb9cc3015g4233g4257gafe6g6f65d49f414d" version="1">Juste... ne cherchez pas à savoir.</content>
+	<content contentuid="h999a802dg3363g44afgbee3gf6becbf68e15" version="1">Cuisses de poulet saisies</content>
+	<content contentuid="h1033615fg18d5g4282gbfe8g9f3afa60db76" version="1">Croustillantes à l'extérieur, juteuses à l'intérieur !</content>
+	<content contentuid="hf0902316g65c6g4fddg8c15g4bf7bc170b34" version="1">Viande de monstre</content>
+	<content contentuid="hd4d54c56g55b4g4a66gbaebgfa1a23f3486d" version="1">Un dîner copieux qui n'est pas forcément bon pour le cœur.</content>
+	<content contentuid="hff6a73f0g2d12g41e5g9b1eg80022e5a5318" version="1">Champignons en brochettes</content>
+	<content contentuid="hc61dca94gb30fg49efgbbacg7d647d49efcd" version="1">À embrocher avec une dague, une lance, une épée, etc...</content>
+	<content contentuid="hb09b3eeeg775eg4034g943bg69742d4e5a1f" version="1">Pâtes "cheveux d'ange"</content>
+	<content contentuid="h96eca920gad05g48b3g9786g8b8691b5e07c" version="1">Fabriqués avec de vrais cheveux d'ange !</content>
+	<content contentuid="heab8c1c2gfbe3g43a7gab93g45f087ce61c0" version="1">Saucisse pour le petit déjeuner</content>
+	<content contentuid="h511dff68g3351g4353gae89g915e9388c71a" version="1">Grâce à elles, même les endroit les plus sombres semblent aussi agréable qu'un lever de soleil.</content>
+	<content contentuid="h0585c480g7703g4845g8f53gf0719677cf1e" version="1">Viande en brochette</content>
+	<content contentuid="hcb470d52g1e40g4870gb1fbgca73b005f76c" version="1">Littéralement de la viande sur un bâton. Rien d'extraordinaire.</content>
+	<content contentuid="h00fb193dgf2ccg4958g9474g1974dba27c38" version="1">Rôti de cadavre</content>
+	<content contentuid="hcd3bec4cgd04bg4e85gb316g5525f5326fe3" version="1">Une fois de plus... POURQUOI MANGER ÇA ?!</content>
+	<content contentuid="hd9afedcfg09edg402eg99ddg916b5e4794fa" version="1">Ragoût de tout</content>
+	<content contentuid="ha94573a7g8bdag43a5g972aga1b25e8064b6" version="1">On y trouve un peu de tout, même des gens.</content>
+	<content contentuid="he610111ega4acg4c16ga45dgc6c44b809dd7" version="1">Gruau vert</content>
+	<content contentuid="h4cc054ceg1833g4374g8d62g4d5e6d29b848" version="1">Une bouillie verte et nauséabonde. Est-ce vraiment une bonne idée de manger ça ?</content>
+	<content contentuid="h53b5108ega2d5g4387g875cg751eb9b4adca" version="1">Ragoût épicé</content>
+	<content contentuid="h7f395520g345dg4630gbaf3gf695f0917d97" version="1">Les brûlures à la sortie sont pires qu'à l'entrée.</content>
+	<content contentuid="h1361d970g1c2bg4146g8827g47d7e4117dd3" version="1">Soupe à la "langue-de-mimique"</content>
+	<content contentuid="h3664fbb3g5af5g45bfg8a0cg92fcafd36d32" version="1">Il n'est pas toujours fait de Mimic. Ou peut-être que si, en supposant que le Mimic ne soit pas encore complètement mort.</content>
+	<content contentuid="h2e29bbc9ge002g43eaga26cg3b17f1d0fb06" version="1">Soupe aux champignons</content>
+	<content contentuid="h48c79803gfa6dg4b58g959bgef219672c477" version="1">Ces champignons ont crié lorsque vous les avez ramassés.</content>
+	<content contentuid="hab0a8b88gc38ag4f72ga27fg660ce0b667ab" version="1">Bouillon doré</content>
+	<content contentuid="hfee37a68gbac3g4d65ga44ag1805208eac8d" version="1">Fabriqué à partir du sang et des larmes des anges.</content>
+	<content contentuid="h06516427gb8d1g4ebdg8b1age3e7c6ac0cee" version="1">Ragoût de la nature</content>
+	<content contentuid="h55a0fb83g8c1cg42aeg9accg38ad70c194f2" version="1">Contient uniquement les baies les plus juteuses et les plus savoureuses... mais pas toutes les sortes de baies.</content>
+	<content contentuid="hff955b42gbfe2g43beg906fgaf33f2d085f1" version="1">Soupe de légumes</content>
+	<content contentuid="h1796a595gffb0g4d82ga609g25853683c337" version="1">Avec d'autres ingrédients pour ajouter de la saveur. Ne demandez pas lesquels.</content>
+	<content contentuid="h07b84ee1g3d83g4a76gbaf0g55561ca2fe5c" version="1">Bouillon d'os</content>
+	<content contentuid="h6bdde9e2g9841g461ag9bc3g4bf78319923a" version="1">Et encore une fois... POURQUOI MANGEZ-VOUS ÇA ?!</content>
+	<content contentuid="h23eec0b8gebe4g4a90ga96fge9a942f52f6f" version="1">Un esprit à part entière</content>
+	<content contentuid="hd06ba0a8g9cd0g4b86g9f01g84198d629880" version="1">Si vous pensez que vous pouvez la tuer et la contrôler, vous vous trompez.</content>
+	<content contentuid="hd3cb5fe3g2ef6g4600g9d1fg53e309ad860e" version="1">Le fantôme d'Alfira</content>
+	<content contentuid="ha683774dga9fdg45f8g8ad1g9e90e0410d44" version="1">VOUS SAVEZ CE QUE VOUS AVEZ FAIT !</content>
+	<content contentuid="hd3cb5fe3g2ef6g4600g9d1fg53e309ad860f" version="1">Alfira</content>
+	<content contentuid="ha683774dga9fdg45f8g8ad1g9e90e0410d45" version="1">Une âme si vivante !</content>
+	<content contentuid="haf661bf7g866dg479dga36aga18bf1f38265" version="1">Coup de fouet à la santé</content>
+	<content contentuid="h1857d403g232dg4388gb95fg6b513065d0e6" version="1">Meurtrier !</content>
+	<content contentuid="h8ec61f97g8bfdg4651g855ega7ff01eeb5b9" version="1">Espèce de monstre !</content>
+	<content contentuid="hc0fd78c6gcb1eg47a5gb8f3ga5cafb201807" version="1">Comment as-tu pu me faire ça ?</content>
+	<content contentuid="h019c7280g07a1g49efgb8d3gedce181d5445" version="1">Je ne te laisserai jamais tranquille !</content>
+	<content contentuid="h581400c8g8949g48c0g9d34g494324efeb3d" version="1">Je vais rendre ta vie misérable !</content>
+	<content contentuid="h79c9221ag37f0g48ffg9afeg77367caafbcb" version="1">Bonne compagnie</content>
+	<content contentuid="h0168b092ga9e4g4e8cg99d4g2e016b0b2c6b" version="1">Alfira a décidé de vous accompagner dans certaines de vos aventures. Peut-être écrira-t-elle une chanson (probablement horrible) sur vous !</content>
+	<content contentuid="h5b7ed250gefe7g419bg84b5gf0b40e4fc635" version="1">Luth d'Alfira</content>
+	<content contentuid="h44acc985g355cg40e4g8359g28e866dc4b23" version="1">En ayant cet instrument dans vos affaires, vous vous sentez plus proche d'elle... pour le meilleur comme pour le pire.</content>
 </contentList>
