@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hf3039b1612egb5aea1822a40bg619c03g8g7" version="1">Interception</content>
+	<content contentuid="h43091541gbbfd0g01ab7049afdbcb9157f61" version="1">Lorsqu'un ennemi touche un allié dans un rayon de [1], vous diminuez les dégâts occasionnés de 1d10 + votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Modificateur de maîtrise&lt;/LSTag&gt;. Vous devez être en mesure de voir l'attaquant.</content>
+
+	<content contentuid="h3697336fga8aeg46f1g99b8gdd7b1cfceb36" version="1">Combat en aveugle</content>
+	<content contentuid="hc6c02d48gec71g4ffcg9631gfb8922986d3e" version="1">Vous pouvez voir à travers les ténèbres magiques. Vous bénéficiez également d'une vision dans le noir jusqu'à [1].</content>
+
+	<content contentuid="h2b9a35d0gabf6g4981ga8a7g49a9e32ad74a" version="1">Combat sans armes</content>
+	<content contentuid="h3969ef15033ba0b1b994f6ae90b25faa3426" version="1">Lorsque vous n'avez pas d'autres armes ou de bouclier équipés, vos coups portés à mains nues infligent [1]. Cependant, ils infligent [2] si vous utilisez un bouclier ou si vous avez d'autres armes équipées.</content>
+
+	<content contentuid="h5b7g6ee71783c63efa6fd039a3fc55a7fcfe" version="1">Combat à l'arme de jet</content>
+	<content contentuid="hag66bb3612b9108dg7gg6gb2gc9a4e96g40g" version="1">Vos lancers infligent 2 points de dégats supplémentaires.</content>
+
+	<content contentuid="h3ebfda9age152g4809g8af3g903724030d2d" version="1">Combat à l'armes polyvalente</content>
+	<content contentuid="hf57d1484geddcg4ca2g9239gf9251a467ba3" version="1">Lorsque vous ne maniez qu'une seule arme polyvalente de mêlée, vous gagnez +2 aux jets d'attaque effectués avec cette arme.</content>
+
+	<content contentuid="ha7519cf4gb58bg4a99g885agceb6c2183f55" version="1">Combat défensif</content>
+	<content contentuid="hd50ff860g51fcg42bag9c9dga816ac134be9" version="1">Lorsque vous maniez un bouclier, vous pouvez utiliser votre action bonus et votre réaction pour adopter une position défensive, réduisant tous les dégâts reçus, sauf psychiques, de 3 points de dégâts jusqu'au début de votre prochain tour.</content>
+
+	<content contentuid="hc62bc782g91fag473dga43ag1b3df8beb2ef" version="1">Position défensive</content>
+	<content contentuid="hffabad09gd4f3g47begb707gdabe12ba4875" version="1">En adoptant une position défensive, vous pouvez réduire de 3 points les dégâts de tous les types reçus, à l'exception des dégâts psychiques.</content>
+
+	<content contentuid="h41a768f5gc1d3g4fa0g902aga1bd71fd86c6" version="1">Initiation à la lutte - (MFS)</content>
+	<content contentuid="hffabad09gd4f3g47begb707gdabe12ba4875" version="1">Sélectionnez un style de combat dans la liste des styles de combat de la classe du guerrier.</content>
+</contentList>
