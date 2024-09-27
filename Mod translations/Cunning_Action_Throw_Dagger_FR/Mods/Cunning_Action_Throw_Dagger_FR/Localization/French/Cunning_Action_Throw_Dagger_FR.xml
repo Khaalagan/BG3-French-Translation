@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h081323cagf999gbe6fgc2f4g62ab9a69c764" version="1">Lancer de couteaux</content>
+  <content contentuid="h19913a5cgfcefgcae2g7b07gdc453f59246d" version="1">Lancez une dague à partir du monde ou de votre inventaire.</content>
+  <content contentuid="hb355c9fbg2203gf7f4g13f3gde354bf24959" version="1">Ruse : Lancer de couteaux</content>
+  <content contentuid="h190cd73ag85b1g7accg4d74g470307c70966" version="1">Lancez une dague à partir du monde ou de votre inventaire.</content>
+  <content contentuid="h5f5ebb64g1c9egfe94gc41dg7033da0094e9" version="2">Votre &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt; est utilisé pour le jet d'attaque.</content>
+  <content contentuid="h5fbd269egdbdeg977dgd417g099bdace8c17" version="2">Votre &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt; est utilisé pour le jet d'attaque.</content>
+</contentList>
