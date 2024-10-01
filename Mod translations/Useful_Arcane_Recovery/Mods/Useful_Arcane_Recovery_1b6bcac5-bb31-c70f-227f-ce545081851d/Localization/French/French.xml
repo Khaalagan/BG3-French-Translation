@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h8c58db86g3541gef59gd9a3g15b3cc72e30f" version="1">Restauration magique: Niveau 4</content>
+  <content contentuid="he8ffa860g5683g6de4g2c1fg593784ef1eab" version="1">Restauration magique: Niveau 5</content>
+  <content contentuid="ha686d813g716eg066bg6812g259e4facfb86" version="1">Restauration magique</content>
+  <content contentuid="h0578f9e6g3419gbf17g4fadge8633b6c3612" version="1">Vous récuperez vos &lt;LSTag Tooltip="SpellSlot"&gt;emplacement de sort&lt;/LSTag&gt;. Vous ne pouvez pas restaurer les emplacements de sorts supérieurs au 5ème niveau.</content>
+</contentList>

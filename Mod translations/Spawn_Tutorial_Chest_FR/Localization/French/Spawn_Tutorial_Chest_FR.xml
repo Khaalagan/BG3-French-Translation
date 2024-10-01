@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hd5695f18ge6d7g4c42gbfcag9021d7352179" version="1">Coffre éphémère</content>
+	<content contentuid="h108df19dg8820g4cdbga8feg0082f8d9b960" version="1">Crée un coffre éphémère contenant le contenu du coffre du tutoriel. Il ne dure que peu de temps, mais son contenu reste -&lt;i&gt;si vous les retirez.&lt;/i&gt;</content>
+	<content contentuid="h3dbb05a1gd19ag4433gabd8gfdd43b45e6cc" version="1">Coffre éphémère</content>
+	<content contentuid="h558684bagf0dfg4cbfgb121gf7c59235bc5c" version="1">Quel que soit le plan abyssal, éthéré ou astral d'où provient ce coffre, il ne fera pas long feu ici.</content>
+	<content contentuid="h2a48aee1g00aag41b2g9134g10ef2ae8d9db" version="1">Coffre à armes</content>
+	<content contentuid="hfc8d1a91gd4cbg490cgb3aegd5f7bfa2f505" version="1">Un coffre robuste pour les aventuriers endurcis.</content>
+	<content contentuid="h40373f36g3dd2g42c4ga3a2gb588579ebf2e" version="1">Coffre d'armure</content>
+	<content contentuid="h30a36b39gfa19g4788g92b3g4fa9d8c51c91" version="1">Un coffre solide pour les aventuriers intépides.</content>
+	<content contentuid="hfba7d8ecg5afeg49dag9a90g553b823301d3" version="1">Coffre à teinture</content>
+	<content contentuid="hc6d2227bg618cg4916gb315g08390cec2402" version="1">Un petit coffre sophistiqué pour stocker les teintures.</content>
+	<content contentuid="h18b5705eg2006g43fdg9ec6g335937c315dd" version="1">Coffre d'alchimie</content>
+	<content contentuid="hf0835b39g10c7g4123g86e5ge9291243c8fd" version="1">Un coffre relié en cuir utilisé pour stocker les potions, les enduits, les élixirs et les grenades.</content>
+	<content contentuid="h467dfb54gf629g4989g9044gcf8583dfc0a0" version="1">Coffre de duplication</content>
+	<content contentuid="h29ad2413gf39eg4f67ga3e8ga36df132a59c" version="1">Un étrange coffre blanc et doré qui donne l'impression de pouvoir intéragir avec la trame elle-même.</content>
+	<content contentuid="h04689e3agf7e1g457cgafdfgfec48531ed23" version="1">Livre de parchemins</content>
+	<content contentuid="he27a8deag06e1g4073g91b9g2785e043ba93" version="1">Il suffit de tenir un parchemin à proximité de ce livre pour qu'il soit attiré comme un aimant et qu'il s'y accroche. Si lire en plein combat peut parfois être stressant, le temps lui-même semble ralentir lorsque vous l'ouvrez.</content>
+	<content contentuid="hcedce6e4gb028g4053ga14dg437d8ea3f74c" version="1">Carquois</content>
+	<content contentuid="h3bfdc095gf0e7g4778g9be0g17cbe1ecb2dc" version="1">Quelque chose a décoloré et entaché le cuir de ce carquois. Il doit être d'origine magique et cela lui donne des propriétés inattendues.</content>
+	<content contentuid="he8d0e17cge367g4969gb9d0g135dcc49d9ff" version="1">Temporaire</content>
+	<content contentuid="hdd71027agcedbg4cc0g8272ga1745ee6607b" version="1">Dure jusqu'à ce que le coffre invoqué disparaisse.</content>
+	<content contentuid="h73524768g1cdcg46edg8d4cgd5372435d340" version="1">En apesanteur</content>
+	<content contentuid="h41b9d4d6g8c6dg40cagb280g23debc56b2e5" version="1">L'objet n'a pas de poids jusqu'à ce qu'il soit retiré du coffre éphémère.</content>
+	<content contentuid="h814360b4g1f2bg4ed8gb68bg18ae4c52ef39" version="1">Soigne vos alliés et augmente leur maximum de points de vie de [1] à [2] selon votre niveau.</content>
+	<content contentuid="h30c9dbdegce34g4f64ga539ge097dfeca9d7" version="1">SYR_DYE_TAG</content>
+	<content contentuid="ha23a8e6dg9a3eg40e2g9539g6bd364368060" version="1">SYR_WEAPON_TAG</content>
+	<content contentuid="h22a99dc6g774fg4496ga948gdacea0a078db" version="1">SYR_ARMOR_TAG</content>
+</contentList>

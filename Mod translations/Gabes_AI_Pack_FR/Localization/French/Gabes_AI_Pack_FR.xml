@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h0edc5e33g1dd9g4eddgad14gdbae26db8331" version="1">Réinitialisation du temps de recharge et des emplacements des sorts</content>
+	<content contentuid="h1138b4f3g1c20g404cg91aagea24117cf461" version="1">Réinitialise les temps de recharge et les emplacements de sorts à la fin du combat. Utilisez-le pour réduire le nombre de repos long nécessaires. N'oubliez cependant pas d'en faire tout de même pour les intrigues !</content>
+	<content contentuid="h77f402c2g5cdeg4159gb9acgcc218418b839" version="1">IA de Gabe</content>
+	<content contentuid="hdcfae34fgf09dg46bcgb288g0049835e791b" version="1">Bois-moi</content>
+	<content contentuid="hdb551602gc0abg47b3g9051ge83cc53eb09c" version="1">IA de Gabe (Marionnettiste)</content>
+	<content contentuid="hdb551602gc0abg47b3g9051ge83cc53eb09d" version="1">IA de Gabe (Retirer)</content>
+	<content contentuid="h5eb3c189g22deg4a86gaf68g70825136ce41" version="1">Nécessaire pour activer l'IA des compagnons ou des invocations</content>
+	<content contentuid="h5eb3c189g22deg4a86gaf68g70825136ce42" version="1">Retirer l'IA de Gabe de votre cible</content>
+	<content contentuid="h7b94fcdeg8a1cg4c2ega745g27345d8d79fd" version="1">Agit de son propre chef</content>
+	<content contentuid="h2321f128ga4ddg4a22g9f5cgf45557cf45f5" version="1">Appliquer le type d'IA sélectionné à la cible</content>
+	<content contentuid="hc88ae412gc363g4cb1g80c5g94835ad4f311" version="1">IA de Gabe (Mêlée)</content>
+	<content contentuid="hc88ae412gc363g4cb1g80c5g94835ad4f312" version="1">IA de Gabe (Lanceur de sorts)</content>
+	<content contentuid="hc88ae412gc363g4cb1g80c5g94835ad4f313" version="1">IA de Gabe (Sournois)</content>
+	<content contentuid="hc88ae412gc363g4cb1g80c5g94835ad4f314" version="1">IA de Gabe (À distance)</content>
+	<content contentuid="hc88ae412gc363g4cb1g80c5g94835ad4f315" version="1">IA de Gabe (Bête)</content>
+	<content contentuid="hc88ae412gc363g4cb1g80c5g94835ad4f316" version="1">IA de Gabe (Moine)</content>
+	<content contentuid="hc88ae412gc363g4cb1g80c5g94835ad4f317" version="1">IA de Gabe (Quatre éléments)</content>
+	<content contentuid="hc88ae412gc363g4cb1g80c5g94835ad4f318" version="1">IA de Gabe (Automatique)</content>
+	<content contentuid="h850b7274g5590g4134ga8bag0277a43f0878" version="1">Utilise l'IA spécifiée par Larian pour toutes les invocations de groupe dans un rayon de 20 m.</content>
+	<content contentuid="h850b7274g5590g4134ga8bag0277a43f0879" version="1">Utilisation de l'IA spécifiée par Larian</content>
+</contentList>
