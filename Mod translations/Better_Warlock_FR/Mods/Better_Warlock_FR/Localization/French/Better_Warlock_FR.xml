@@ -1,0 +1,415 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h6f110220ga529gfbb3g659fg8873fd8ddbe9" version="1">Buveur de vie</content>
+  <content contentuid="h82d258e2g7434g5b25g1fc8g0a5c16ab25ca" version="4">Les attaques effectuées avec votre &lt;LSTag Type="Status" Tooltip="PACT_BLADE"&gt;Arme de pacte&lt;/LSTag&gt; infligent des dégats supplémentaires de 1d6 [1], [2], ou [3] et regagne également [4].</content>
+  <content contentuid="h16349446g4079g068fgb400g7dee59213cac" version="1">Buveur de vie</content>
+  <content contentuid="hc2c721b7g722dg624fg203eg5800456f899b" version="2">Leçons du premier dévot</content>
+  <content contentuid="h9ed5481fg9cdbg8097g3850g96abc240734e" version="4">Vous avez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de l'&lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt;, de la &lt;LSTag Tooltip="Medicine"&gt;Médecine&lt;/LSTag&gt;, et de la &lt;LSTag Tooltip="Religion"&gt;Religion&lt;/LSTag&gt;.</content>
+  <content contentuid="h32476791gc898gea0dg8694g27b2a4997be5" version="1">Fléau cible jusqu'à 3 créatures. Elles subissent une pénalité de 1d4 aux &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; et aux &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Bénédiction cible jusqu'à 3 créatures. Elles reçoivent un bonus de 1d4 aux &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; et aux &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt;.</content>
+  <content contentuid="h4a673ddage5b5g1b54gb598g7af1206fc330" version="1">Guerrier occulte</content>
+  <content contentuid="h07d46cccg9f65g3da1gfff2g01651353b396" version="2">Vous avez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de l'armure intermediaire et du bouclier.</content>
+  <content contentuid="hfe17ba0egd140g23fbg2ee4g1e575780f56e" version="1">Invocation : Fléau</content>
+  <content contentuid="h0871ea58gd64bgcb96gdb10g86105ab0d55c" version="2">Jusqu'à [2] créatures reçoivent une pénalité de -[1] à leurs &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; et a leurs &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt;.</content>
+  <content contentuid="h8276d96ag1110g283ag7155g32388a93d14b" version="1">Invocation: Bénédiction</content>
+  <content contentuid="h3cea123eg72dcg827cge5fdg2d1fb802b09e" version="1">Bénit jusqu'à [2] créatures. Elles bénéficient d'un bonus de +[1] aux &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; et aux &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt;.</content>
+  <content contentuid="h1a430a8bg07e1g8fe1g02a8g41c6cc8858c9" version="1">Esprit occulte</content>
+  <content contentuid="h122d4244gaef9g4335g4a7eg49dd881b71a8" version="1">Vous avez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; aux &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; de Constitution que vous faites pour maintenir la &lt;LSTag Tooltip="Concentration"&gt;Concentration&lt;/LStag&gt;</content>
+  <content contentuid="hea8f9c36g327fg0525gce52gcb069b07f5f8" version="2">Leçons des premiers Hermites</content>
+  <content contentuid="h6b533359g72d3gb9b1gdd5eg535d54382c53" version="2">Vous avez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; du &lt;LSTag Tooltip="AnimalHandling"&gt;Dressage&lt;/LSTag&gt;, de la &lt;LSTag Tooltip="Nature"&gt;Nature&lt;/LSTag&gt; et de la &lt;LSTag Tooltip="Survival"&gt;Survie&lt;/LSTag&gt;.</content>
+  <content contentuid="h6a5a5a74g7fb6g0817ga618ge640fdcb20f7" version="2">Leçons des premiers Orateurs</content>
+  <content contentuid="h1edc4e5cg3482g5757g7f02gfa23306d6525" version="2">Vous avez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de l'&lt;LSTag Tooltip="Insight"&gt;Perspicacité&lt;/LSTag&gt;, de la &lt;LSTag Tooltip="Performance"&gt;Représentation&lt;/LSTag&gt; et de la &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt;.</content>
+  <content contentuid="h44167b0fg7c7dg04e3g3851g072c3f15812f" version="1">Un avec les ombres</content>
+  <content contentuid="ha610d9d7g3b68gdb9fg10d5gc58e4dcb6098" version="1">L'entité affectée est invisible. Elle a un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur ses &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; et imposes un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les Jets d'attaque ennemies. &lt;br&gt;&lt;Br&gt;L'invisibilité prend fin prématurément si l'entité invisible attaque, lance un autre sort, entreprend une action ou subit des dégâts.</content>
+  <content contentuid="h6f01b8e5g2f65g3137g4560gf6b83e954153" version="1">Pacte du Grimoire, points de sort mineur</content>
+  <content contentuid="h309e3cb7g5e7egd036gd448g9f82226bb5a7" version="1">Ces points vous permettent de sélectionner les sorts mineurs du Pacte du Grimoire</content>
+  <content contentuid="h40c533c7g7a1fgdc7bg1de2g6815375a26d8" version="1">Pacte du Grimoire, points de sort rituel</content>
+  <content contentuid="h46fc6093ged1ag6ccagaeefg417f99cb80b3" version="1">Ces points vous permettent de sélectionner les sorts rituels du Pacte du Grimoire</content>
+  <content contentuid="h9ed8adf0g5b87g4d1agb559gd10307aef49c" version="1">Pacte du Grimoire</content>
+  <content contentuid="hbbdf51f2g8740g18bdg2c9eg40a191845675" version="2">Votre protecteur vous accorde un grimoire appelé "Le Livre des Ombres", qui vous permet d'apprendre trois &lt;LSTag Tooltip="Cantrip"&gt;sorts mineurs&lt;/LSTag&gt; et deux &lt;LSTag Tooltip="RitualSpell"&gt;sorts rituels&lt;/LSTag&gt; de Niveau 1 de votre choix.</content>
+  <content contentuid="h10089d8dgd259g5436gb4f1ga89233968cd1" version="1">Le Livre des Ombres - Rituels</content>
+  <content contentuid="h05e2e054g40d0gc7bdgb07dgc313bc34ddc4" version="1">Votre protecteur vous a permis d'apprendre deux &lt;LSTag Tooltip="RitualSpell"&gt;sorts rituels&lt;/LSTag&gt; de Niveau 1 de votre choix.</content>
+  <content contentuid="h1cea8902g3352g766bg7a3cg82ff64ea8575" version="1">Le Livre des Ombres</content>
+  <content contentuid="ha454b240g0c75gb0a7g58c7gd39142f67695" version="1">Votre protecteur vous a permis d'apprendre trois &lt;LSTag Tooltip="Cantrip"&gt;sorts mineurs&lt;/LSTag&gt; et deux &lt;LSTag Tooltip="RitualSpell"&gt;sorts rituels&lt;/LSTag&gt; de Niveau 1 de votre choix.</content>
+  <content contentuid="hf48a6977gb0b6g87b3g9d80g1b8ebe15d430" version="1">Grande Foulée</content>
+  <content contentuid="ha7a1899ag7803ged3dg6922ga34dfebd327d" version="3">Apprendre le sort &lt;LSTag Type="Spell" Tooltip="Target_Longstrider"&gt;Grande Foulée&lt;/LSTag&gt;.</content>
+  <content contentuid="hf9ecd53dg0e60g813dg520eg3738472fcef3" version="1">Le Livre des Ombres - Sort mineur</content>
+  <content contentuid="hf91a62e1g2de7gf4f5ge7edg68265310996b" version="1">Votre protecteur vous a permis d'apprendre trois &lt;LSTag Tooltip="Cantrip"&gt;sorts mineurs&lt;/LSTag&gt; de votre choix.</content>
+  <content contentuid="hbce50c14g69d7gc629gfca3g8309abf9b8d5" version="1">Bond amélioré</content>
+  <content contentuid="hf470b259g2338g90a2gd9a4g7aacb0ab41e7" version="2">Apprendre le sort &lt;LSTag Type="Spell" Tooltip="Target_Jump"&gt;Bond amélioré&lt;/LSTag&gt;.</content>
+  <content contentuid="hc9997f15g211dg3e53g68cag0e01d73f72c5" version="2">Leçons des premiers Protégés</content>
+  <content contentuid="h2c1cb7b2gb8fbga4aag04fagd9aacd7d3b25" version="2">Vous avez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de trois compétences de votre choix.</content>
+  <content contentuid="h6330851egbc73gf9f8gebc1g1b6e182a68f8" version="1">Leçons des premiers Chercheur</content>
+  <content contentuid="h40717184g8892g084bg750agc53029046fc7" version="1">Vous avez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de l'&lt;LSTag Tooltip="Arcana"&gt;Arcane&lt;/LSTag&gt;, de l'&lt;LSTag Tooltip="History"&gt;Histoire&lt;/LSTag&gt; et de la &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;.</content>
+  <content contentuid="h6f8b72d1g4e48gf152g58c9g72f15419fa7c" version="1">Leçons des premiers Scélérats</content>
+  <content contentuid="haa0cbe87g6bcfg741egc2c8g29f2786acf67" version="1">Vous avez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de la &lt;LSTag Tooltip="Deception"&gt;Supercherie&lt;/LSTag&gt;, de l'&lt;LSTag Tooltip="SleightOfHand"&gt;Escamotage&lt;/LSTag&gt; et de la &lt;LSTag Tooltip="Stealth"&gt;Discrétion&lt;/LSTag&gt;.</content>
+  <content contentuid="hf1e816b6g8225gb5fcgea85ga98c34b33c3a" version="1">Changement d'apparence</content>
+  <content contentuid="h1e02d555g6daegf6b3ge226gba2dc245d7a5" version="1">Apprendre le sort &lt;LSTag Type="Spell" Tooltip="Shout_DisguiseSelf"&gt;Changement d'apparence&lt;/LSTag&gt;.</content>
+  <content contentuid="hfbcf0c08g36d3g3e12g05f2gcaa2e9d8bdad" version="1">Feuille morte</content>
+  <content contentuid="h126853d4g5d75g3397gc701g9350dea5de47" version="1">Apprendre le sort &lt;LSTag Type="Spell" Tooltip="Shout_FeatherFall"&gt;Feuille morte&lt;/LSTag&gt;.</content>
+  <content contentuid="h3694641bg2b5ag75e9gda9fg79b312b6bcbe" version="1">Appel de familier</content>
+  <content contentuid="hd3bc7f5fg258cg6967g0da5gf6fd49dec1dc" version="1">Apprendre le sort &lt;LSTag Type="Spell" Tooltip="Target_FindFamiliar"&gt;Appel de familier&lt;/LSTag&gt;.</content>
+  <content contentuid="hf3343bd6g4c92g4542g1917g5b53bf72a276" version="1">Communication avec les animaux</content>
+  <content contentuid="hd8c5adfag3dfag7302gb7cfg63add6f48717" version="1">Apprendre le sort &lt;LSTag Type="Spell" Tooltip="Shout_SpeakWithAnimals"&gt;Communication avec les animaux&lt;/LSTag&gt;.</content>
+  <content contentuid="h0c18abaeg55d1gd3f7g2f9bge3ff4cf3c1f9" version="1">Aspersion acide</content>
+  <content contentuid="h69a9f014g2880g1d71g34aeg7851e9c18ba1" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Projectile_AcidSplash"&gt;Aspersion acide&lt;/LSTag&gt;.</content>
+  <content contentuid="h287c2ceag3974ge7bbg6f00g5c311dcb7a0e" version="1">Protection contre les armes</content>
+  <content contentuid="hb1ef75bagba72g40d8g1ae0g163eb7b8b6d8" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Shout_BladeWard"&gt;Protection contre les armes&lt;/LSTag&gt;.</content>
+  <content contentuid="h9100374agc5c1gc00dgb850g5ea556abe03e" version="1">Froid glacial</content>
+  <content contentuid="h9033f8b8gf74bga4efg6a6egeaf3e1746370" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Target_ChillTouch"&gt;Froid glacial&lt;/LSTag&gt;.</content>
+  <content contentuid="hdd4e2a91g21dfgcd56g707fg94af91c7e1f5" version="1">Lumières dansantes</content>
+  <content contentuid="h712945bbg365dgf823g9a2cg46548188024f" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Target_DancingLights"&gt;Lumières dansantes&lt;/LSTag&gt;.</content>
+  <content contentuid="h34fc1253g320fg75f1gc375g2025f17d8ed1" version="1">Décharge occulte</content>
+  <content contentuid="h792f9a7aga559gddb8gefb1g9c173c108562" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Projectile_EldritchBlast"&gt;Décharge occulte&lt;/LSTag&gt;.</content>
+  <content contentuid="h417d8655g6191g10cegfcabg60038d5784b0" version="1">Trait de feu</content>
+  <content contentuid="h71bdebc1g4107gae92g7178gbc37c509a165" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Projectile_FireBolt"&gt;Trait de feu&lt;/LSTag&gt;.</content>
+  <content contentuid="h09011468g0ce7g5f7dg6786g91fed0ae9ff2" version="1">Amis</content>
+  <content contentuid="hd46a0d90g27d5gd9abg6ec1g57694004e31f" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Target_Friends"&gt;Amis&lt;/LSTag&gt;.</content>
+  <content contentuid="h1dd3669fg4620g090cgc42dgb8d86d71ca25" version="1">Assistance</content>
+  <content contentuid="h70af443eg68fag9f04gdf3dg932a54c916aa" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Target_Guidance"&gt;Assistance&lt;/LSTag&gt;.</content>
+  <content contentuid="h052d79ecga3a7g6259g1b7ege992964fd8b0" version="1">Lumière</content>
+  <content contentuid="h7e4546b6g44d4g87c6g5141gdd137808460e" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Target_Light"&gt;Lumière&lt;/LSTag&gt;.</content>
+  <content contentuid="h76d7da89gc9fbg3e4dg8cdcge19f3af05ce1" version="1">Main du mage</content>
+  <content contentuid="ha04d364fgdbf1g50e5g5bf9gb2baf9d52cd6" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Target_MageHand"&gt;Main du mage&lt;/LSTag&gt;.</content>
+  <content contentuid="h1531c32eg4eaeg16d8gc4e0g161770eb0136" version="1">Illusion mineure</content>
+  <content contentuid="h5eec3269g45c2gb248ga0f4g6fd75763b51d" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Target_MinorIllusion"&gt;Illusion mineure&lt;/LSTag&gt;.</content>
+  <content contentuid="ha1962956g025ag3aedg1158gb967166a6fff" version="1">Bouffée de poison</content>
+  <content contentuid="h9d2a1297gc6cbg3037g4e66g1b2e02d3904c" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Projectile_PoisonSpray"&gt;Bouffée de poison&lt;/LSTag&gt;.</content>
+  <content contentuid="hbf690c43g2542g3970g8dd9g524ae2bfbc6c" version="1">Production de flamme</content>
+  <content contentuid="h3380f42cg3806g98b5g64ffgf34e914fa2a8" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Shout_ProduceFlame"&gt;Production de flamme&lt;/LSTag&gt;.</content>
+  <content contentuid="h1de6d842g50f4g7ab9g1514g13475f8c04ff" version="1">Rayon de givre</content>
+  <content contentuid="hb9bcbd92ga04egf6eegc92dgb076634a2ecb" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Projectile_RayOfFrost"&gt;Rayon de givre&lt;/LSTag&gt;.</content>
+  <content contentuid="h431e9562g33e7g28d5gc751gbaaea6136db6" version="1">Résistance</content>
+  <content contentuid="heefbeaacg4228g53f3g6c99g06471b5f9801" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Target_Resistance"&gt;Résistance&lt;/LSTag&gt;.</content>
+  <content contentuid="h6a0d6191g143cg8c60gb91cgcd7923eac05a" version="1">Flamme sacrée</content>
+  <content contentuid="h70b645dcg85dag4d0dgdcbeg4542fd6f35ec" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Target_SacredFlame"&gt;Flamme sacrée&lt;/LSTag&gt;.</content>
+  <content contentuid="hb5ff6cc9g259agf4f6g3cc2g3d2cc02e3d63" version="1">Gourdin magique</content>
+  <content contentuid="he7653c48g0a5eg4141g6377g43f3d2de4dc9" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Shout_Shillelagh"&gt;Gourdin magique&lt;/LSTag&gt;.</content>
+  <content contentuid="h4a95ce36gb0e7g69dcg53b2gcd6d0d081045" version="1">Poigne électrique</content>
+  <content contentuid="hf7ec996ag19d8g10a1g2ecfg5e3daa269ff4" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Target_ShockingGrasp"&gt;Poigne électrique&lt;/LSTag&gt;.</content>
+  <content contentuid="hdfd5c68dge63bga969g013age2a074e80b4e" version="1">Thaumaturgie</content>
+  <content contentuid="hd9aa46f6g06a7g3493gb845g9d2b14e31799" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Shout_Thaumaturgy"&gt;Thaumaturgie&lt;/LSTag&gt;.</content>
+  <content contentuid="h4821a79bgc9a7g7590gad12gcfafcd69ef70" version="1">Fouet épineux</content>
+  <content contentuid="ha7429e5agd32egbb32g2036g7339f0be529c" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Target_ThornWhip"&gt;Fouet épineux&lt;/LSTag&gt;.</content>
+  <content contentuid="h5d7bc228gf22ag6ac4g3e2fgbd427103b4e6" version="1">Coup au but</content>
+  <content contentuid="h71a3ad79g9660ga08bgc0ccg1e2ded8a7e67" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Target_TrueStrike"&gt;Coup au but&lt;/LSTag&gt;.</content>
+  <content contentuid="ha199be6fg1a1agfdefgfd21g98ec8ef19ea0" version="1">Moquerie cruelle</content>
+  <content contentuid="hbbd031d0g7ae8g642bg8517g82a06f92a854" version="1">Apprendre le sort mineur &lt;LSTag Type="Spell" Tooltip="Target_ViciousMockery"&gt;Moquerie cruelle&lt;/LSTag&gt;.</content>
+  <content contentuid="h55db131bg377bg5b6eg8634g1b9beac3e363" version="1">Lance occulte</content>
+  <content contentuid="ha25726adg5b77gb662ga8a1gc474b2ca222c" version="1">La portée de votre &lt;LSTag Type="Spell" Tooltip="Projectile_EldritchBlast"&gt;Décharge occulte&lt;/LSTag&gt; est doublé.</content>
+  <content contentuid="hcdd42293g97a8ga78fg9a92g597d235f582e" version="1">Masque aux multiples visages</content>
+  <content contentuid="h9de94e6ag2fcdgceddg52a8gdbabfa5edfe6" version="1">Vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="Shout_DisguiseSelf"&gt;Changement d'apparence&lt;/LSTag&gt; à volonté, sans dépenser d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Tout en étant déguisé, votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Modificateur de maîtrise&lt;/LSTag&gt; est doublé pour les &lt;LSTag Tooltip="AbilityCheck"&gt;Tests&lt;/LSTag&gt; de Supercherie.</content>
+  <content contentuid="hac05cf13ge21cg8c31g3e1cg0e54a58a06a2" version="1">Saut d'outre-monde</content>
+  <content contentuid="hdff61701g527bg568bgb057g836d5c413292" version="2">Vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="Target_Jump"&gt;Bond amélioré&lt;/LSTag&gt; et &lt;LSTag Type="Spell" Tooltip="Shout_FeatherFall"&gt;Feuille morte&lt;/LSTag&gt; à volonté, sans dépenser d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt;.</content>
+  <content contentuid="h474a80f0g7584g1919g195fgd7e33bb4aec9" version="1">Un avec des ombres</content>
+  <content contentuid="hbd54b138gdce3g135eg8c0cg8f98b12ebf23" version="1">Disparaître dans l'obscurité et devenir &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt;.</content>
+  <content contentuid="h85cfb555g0664g4364g9ef3gaaa69720d8c9" version="1">%%% EMPTY</content>
+  <content contentuid="h719c90eeg8b6dg0bbag4d71gdf27338dcbe8" version="1">Pacte renforcé</content>
+  <content contentuid="h111d1470g48e1g5670g89b3g9834fba6c53f" version="3">Satisfait de vos services, votre protecteur de l'autre monde a ajouté de nouveaux avantages aux termes de votre pacte.&lt;br&gt;&lt;br&gt;Le Pacte de la Lame bénéficient d'une &lt;LSTag Type="Passive" Tooltip="ExtraAttack"&gt;Attaque supplémentaire&lt;/LSTag&gt; avec leur arme de pacte.&lt;br&gt;&lt;br&gt;Le Pacte des Chaînes bénéficie également d'une Attaque supplémentaire pour le &lt;LSTag Type="Spell" Tooltip="Target_FindFamiliar"&gt;Familier&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Le Pacte du Grimoire peut lancer &lt;LSTag Type="Spell" Tooltip="Target_CallLightning"&gt;Appeler la foudre&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_Haste"&gt;Hâte&lt;/LSTag&gt;, et &lt;LSTag Type="Spell" Tooltip="Target_Slow"&gt;Lenteur&lt;/LSTag&gt; une fois par repos long.</content>
+  <content contentuid="h619afd98g2efage844ga685gabb1ec0c4650" version="1">Vigueur fiélonne</content>
+  <content contentuid="hf95dc19dgf560g8977g2a2bg10e2c6cf90ba" version="2">Vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="Shout_FalseLife_FiendishVigor"&gt;Simulacre de vie&lt;/LSTag&gt; sur vous-même à volonté comme un sort de niveau 1 sans dépenser d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt;.</content>
+  <content contentuid="h84069c51ga16dge52cg1f19g36f965aa3723" version="1">Servitude indéfectible</content>
+  <content contentuid="hd2810f83g3f81g5fddg00ceg5d7db36201fd" version="3">Vous inscrivez des sorts supplémentaires dans votre Livre des Ombres.&lt;br&gt;&lt;br&gt;Vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="Target_AnimateDead"&gt;Animation des morts&lt;/LSTag&gt; une fois par repos long. Vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="Target_SpeakWithDead"&gt;Communication avec les morts&lt;/LSTag&gt; à volonté, sans dépenser d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt;.</content>
+  <content contentuid="heb64abc5g3fdeg668ag3b8eg76e817f0b496" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Nécessite le &lt;LSTag Type="Passive" Tooltip="PactOfTheTome"&gt;Pacte du Grimoire&lt;/LSTag&gt;.</content>
+  <content contentuid="hd6568114gd242g311fgdddfgbc14b8942769" version="1">Ascendance</content>
+  <content contentuid="h4e638f67g4b4eg86f4g2b2dgec60ce2e59c7" version="1">Vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="Target_Fly"&gt;Vol&lt;/LSTag&gt; à volonté, sans dépenser d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt;.</content>
+  <content contentuid="h92f88297gf7d9gd03dgc2fcge06f933bc1f4" version="1">Vol</content>
+  <content contentuid="h974c1b77g67b5gdaeege527ge1a03cb38439" version="1">Accorder la capacité de &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Voler&lt;/LSTag&gt; sur vous-même ou sur un allié.</content>
+  <content contentuid="h1b5e82a8ga108g16fcg5e6egdb78768e99cf" version="1">Magie rusée</content>
+  <content contentuid="h4e198f82g01a6g79bag99f3gd3c5806f817e" version="1">Reconstituez la moitié de vos &lt;LSTag Tooltip="WarlockSpellSlot"&gt;Emplacement de sort d'occultiste&lt;/LSTag&gt; hors combat.</content>
+  <content contentuid="h07b4a92bg534bgd3ecg5156gc88de9b8a8e9" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Nécessite le &lt;LSTag Type="Passive" Tooltip="PactOfTheBlade"&gt;Pacte de la Lame&lt;/LSTag&gt;.</content>
+  <content contentuid="h4f4ba2b3ga87ag50adgfa22gc28aeb60a63b" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Nécessite le &lt;LSTag Type="Passive" Tooltip="PactOfTheChain"&gt;Pacte des Chaînes&lt;/LSTag&gt;.</content>
+  <content contentuid="h4b4cbf2dg841dg5231g5a79ge32ef6c4cc2a" version="1">Châtiment occulte</content>
+  <content contentuid="h146f4392g179dgc33bg203bga437658ddb49" version="1">Une fois par tour, lorsque vous touchez une créature avec votre &lt;LSTag Type="Status" Tooltip="PACT_BLADE"&gt;Arme de pacte&lt;/LSTag&gt;, vous pouvez dépenser un &lt;LSTag Tooltip="WarlockSpellSlot"&gt;Emplacement de sort d'occultiste&lt;/LSTag&gt; infliger des dégâts supplémentaires de [1] à la cible, plus [1] par niveau d'Emplacement de sort, et vous pouvez mettre la cible &lt;LSTag Type="Status" Tooltip="PRONE"&gt;À terre&lt;/LSTag&gt; s'elle est énorme (E) ou plus petit.</content>
+  <content contentuid="h60acc099g81abg1a67ged6ag7024bdc4c868" version="1">Point de Châtiment occulte</content>
+  <content contentuid="hcf6aef8ag4efcg5c66gbdd4gd50cc9ca77c0" version="1">Point vous permettant d'utiliser le Châtiment occulte</content>
+  <content contentuid="h0e47c18ag502eg9880g043eg819c5ec11ad0" version="1">Châtiment occulte</content>
+  <content contentuid="h8a84cbd2g7294g2cddgefa7g5eba04515e1c" version="2">Dépenser un &lt;LSTag Tooltip="WarlockSpellSlot"&gt;Emplacement de sort d'occultiste&lt;/LSTag&gt; pour infliger des dégats supplémentaires de [1] à la cible, plus un autre [1] par niveau d'Emplacement de sort.</content>
+  <content contentuid="h6f4cfe60g9c6fg8a5bg1770ga14804d772aa" version="1">inflige [1] supplémentaire aux monstres et aux morts-vivants.</content>
+  <content contentuid="h871cc982gdcddg88cfg5a9agf11b793e5c1e" version="1">Châtiment occulte</content>
+  <content contentuid="heecb986fg6459gff89g0fa8gdfd8ff58cd09" version="1">Dépenser un &lt;LSTag Tooltip="WarlockSpellSlot"&gt;Emplacement de sort d'occultiste&lt;/LSTag&gt; pour infliger des dégats supplémentaires de [1] à la cible, plus un autre [1] par niveau d'Emplacement de sort.</content>
+  <content contentuid="h3355e009g14deg478ag6594g71cd0e806482" version="1">Chatiment occulte : Réaction</content>
+  <content contentuid="h8d2071e6g9febgb9ddgbc4cg2f14b6e3570b" version="1">Chatiment occulte : Réaction</content>
+  <content contentuid="h23703d06g8e70gd4aag4d1dg63b663d8b812" version="1">Dépenser un &lt;LSTag Tooltip="WarlockSpellSlot"&gt;Emplacement de sort d'occultiste&lt;/LSTag&gt; pour infliger des dégats supplémentaires de [1] à la cible, plus un autre [1] par niveau d'Emplacement de sort.</content>
+  <content contentuid="h6a9d6ee8gc57cgf8c0gf47agcc5d38cee76b" version="1">Chatiment occulte : Réaction</content>
+  <content contentuid="he8022d9bg1e69gf60cge458g0ef71847dd4e" version="1">Châtiment divin : Réaction</content>
+  <content contentuid="h48c830f1g9c7cg3900gec0bg0f5dab61f498" version="1">Châtiment divin</content>
+  <content contentuid="he4164489g01d1g60ebg992dg0a8a67fe36ff" version="1">Votre arme inflige [1] supplémentaire, augmenté de [2] lorsque vous attaquez des démons ou des morts-vivants.</content>
+  <content contentuid="hfdb86cdegb3bbg27dbgb937g3c7d640689cb" version="1">Cette réaction ne se déclenchera pas sur un &lt;LSTag Tooltip="CriticalHit"&gt;Coup critique&lt;/LSTag&gt;.</content>
+  <content contentuid="hdb8a3d13ga2afg363dgd00fg75dedb148cb4" version="2">Don des protecteurs</content>
+  <content contentuid="had255b10gb807gbbaagb133gecb606d8c065" version="2">Vous inscrivez un sort supplémentaire dans votre Livre des Ombres.&lt;br&gt;&lt;br&gt;Vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="Target_DeathWard"&gt;Protection contre la mort&lt;/LSTag&gt; une fois par repos long.</content>
+  <content contentuid="hd8e07467g37a8g29c4g00e7ge9be61f44397" version="1">Maître occulte</content>
+  <content contentuid="h66b9b613gdd6cgb60bg5f7bga28b4c853897" version="1">Vous pouvez utiliser &lt;LSTag Type="Spell" Tooltip="Shout_OREO_MagicalCunning"&gt;Magie rusée&lt;/LSTag&gt; un temps supplémentaire.</content>
+  <content contentuid="h62a2454bgd148gdccdga9fbga48e05a8a48a" version="1">Point de Magie rusée</content>
+  <content contentuid="hacd20b14g22f9g237bg5147g2ad8159a6c10" version="1">Point vous permettant d'utiliser Magie rusée</content>
+  <content contentuid="h51f89ff0gdd06g6a95g796egd9f83c71e550" version="1">Chaînes de Carceri</content>
+  <content contentuid="he3fca8eagf181g848ag4976g6937b28024fc" version="1">Vous inscrivez un sort supplémentaire dans votre Livre des Ombres.&lt;br&gt;&lt;br&gt;Vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="Target_HoldMonster"&gt;Immobilisation de monstre&lt;/LSTag&gt; une fois par repos long.</content>
+  <content contentuid="h4c590b56g75e0g906bg4027g2d7b9715b6ef" version="1">%%% EMPTY</content>
+  <content contentuid="h651f6492ge0e5g102eg68b7gd20f4be82527" version="1">Pacte de la Lame</content>
+  <content contentuid="hd1de36a1ged8ag7ea7gcc63gf2ed5063bc9d" version="1">Invoquez une arme dans votre main. Elle utilise le &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Modificateur de caractéristique d'incantation&lt;/LSTag&gt; pour l'attaque, et ses dégâts sont magiques.</content>
+  <content contentuid="h0b32f925g38e4gc7cbg4f33g3525be2a015e" version="1">Vous avez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de l'arme. Vous ne pouvez en avoir qu'une à la fois. L'arme disparaît si vous vous en éloignez de plus de [1] pendant plus de 10 tours.</content>
+  <content contentuid="hc0a4b13eg9012gb50fga5cdga6837c264df7" version="1">Lier l'arme de pacte</content>
+  <content contentuid="h1124b88ag5692g67eegf7d5g137a4cffd12b" version="1">Lier votre arme principale. Ses dégâts deviennent magiques, vous ne pouvez pas la lâcher ou la lancer, et vous en obtenez la &lt;LSTag Tooltip="WeaponProficiency"&gt;Maîtrise&lt;/LSTag&gt; si vous ne l'avez pas déjà.</content>
+  <content contentuid="h3d73443cgb0fcg2a2cgadc1g44b0d3c0ae5b" version="1">Vous ne pouvez avoir qu'une seule arme de pacte à la fois. &lt;br&gt;&lt;br&gt;L'arme revient à son état d'origine si vous vous en éloignez de plus de [1] pendant plus de 10 tours.</content>
+  <content contentuid="h92e6bd55g7dc2g28degea93gff0263e464f8" version="1">Protection occulte</content>
+  <content contentuid="h804c5bd4g7830g46a1gda1fg6b6c069d531b" version="2">Après avoir touché une créature avec &lt;LSTag Type="Spell" Tooltip="OREO_EldritchSmite"&gt;Châtiment occulte&lt;/LSTag&gt;, votre modificateur de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; est ajouté à votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'armure&lt;/LSTag&gt;.</content>
+  <content contentuid="hed7a3e39ge3acg3aa7gd1beg5b1364c96d9b" version="1">Protection occulte</content>
+  <content contentuid="h4ae49fa9g0bc9g68d4gbdc5g30e82fc7f842" version="1">Votre modificateur de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; est ajouté à votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'armure&lt;/LSTag&gt;.</content>
+  <content contentuid="hde4deae4g9786gd76cg0750g768cab89a590" version="1">Pacte des Chaînes</content>
+  <content contentuid="h239e4ab5gdbaag2e2eg1d2dg808151817dfc" version="1">Gagnez le service d'un familier, un esprit féerique qui prend la forme de votre choix. Il peut s'agir d'un animal, d'un diablotin ou d'un quasit.</content>
+  <content contentuid="hadd9fc60g415bg871bgfb7egacf1b46245cb" version="1">Appel de familier</content>
+  <content contentuid="h4ddd507agac2cgd066gda8cg1482e7be5d47" version="1">Invoquez un familier, un esprit féerique qui prend la forme de l'animal de votre choix.</content>
+  <content contentuid="hd916e0b7ga019g5cfegb0b5g6187b322a631" version="1">Appel de familier: Chat</content>
+  <content contentuid="h074b65d3g28b8g2efcg0496ga7c15d91ffee" version="1">Invoque un familier félin qui peut faire un &lt;LSTag Type="Spell" Tooltip="Shout_Distract_Cat_Summon"&gt;Miaulement&lt;/LSTag&gt; pour distraire vos ennemis.</content>
+  <content contentuid="hffa0ac5egd72dg3b4fg1bb9gb1965acee010" version="1">Appel de familier: Crabe</content>
+  <content contentuid="h2590f4e3g3dc6gaebcgb063g82b3d455aae7" version="1">Invoque un familier crabe qui peut ralentir les ennemis avec sa &lt;LSTag Type="Spell" Tooltip="Target_CripplingPinch_Crab_Summon"&gt;Pince&lt;/LSTag&gt;.</content>
+  <content contentuid="hb0339e23g5981g9ebfgd380g3b76ba1cecaa" version="1">Appel de familier: Grenouille</content>
+  <content contentuid="hadff7cd5g2e2fg8393gc571g50a4e51d6747" version="1">Invoquez un familier grenouille qui peut répandre ses &lt;LSTag Type="Spell" Tooltip="Target_Bufotoxin_Frog_Summon"&gt;Bufotoxines&lt;/LSTag&gt; aux ennemis.</content>
+  <content contentuid="hf613528bg8402g3d26g3dfeg6befd78b4ccc" version="1">Appel de familier: Rat</content>
+  <content contentuid="hf70882a0gd34dgf0eegc8e4g4be3ba4021af" version="1">Invoquer un rat familier avec une &lt;LSTag Type="Spell" Tooltip="Target_Bite_Rat_Summon"&gt;Morsure infectieuse&lt;/LSTag&gt;.</content>
+  <content contentuid="h1ad09c37gc2d7g7ce8g4c07g6ff13c2ff28c" version="1">Appel de familier: Corbeau</content>
+  <content contentuid="hb8bb8578g9045gb517g826eg8189e6d097b3" version="1">Invoque un familier corbeau qui peut &lt;LSTag Type="Spell" Tooltip="Target_RendVision_RavenFamiliar_Summon"&gt;aveugler&lt;/LSTag&gt; les ennemis avec son bec.</content>
+  <content contentuid="hc1fc157fga24fgc79bg4ecegb5dc7c86faff" version="1">Appel de familier: araignée</content>
+  <content contentuid="h0a0d2439g6d9dgfc36gd5f7g3744d720eb1a" version="1">Invoquer une araignée empoisonée qui peut &lt;LSTag Type="Spell" Tooltip="Target_Bite_TinySpider_Familiar"&gt;mordre&lt;/LSTag&gt;.</content>
+  <content contentuid="h5d8a7abbg7c1eg2b7dg8db7g1f605f5ba769" version="1">Appel de familier: Diablotin</content>
+  <content contentuid="hed52a188g0039gfd93g509bgdce786685243" version="1">Invoque un familier ayant la forme d'un diablotin qui peut voler, devenir Invisible, et utiliser son &lt;LSTag Type="Spell" Tooltip="Target_Sting_Imp_Summon"&gt;Dard&lt;/LSTag&gt; contre les enemies.</content>
+  <content contentuid="h60b430a0gbf22gb998g52dcgaa8035015c1e" version="1">Appel de familier: Quasit</content>
+  <content contentuid="h6f5f2423gd741g34b0ga5c7g637164388770" version="1">Invoque un familier ayant la forme d'un quasit qui peut devenir Invisible et utiliser &lt;LSTag Type="Spell" Tooltip="Target_Scare_Quasit_Summon"&gt;Frayeur&lt;/LSTag&gt; cintre les enemies.</content>
+  <content contentuid="heafb3cbegc47eg159agf893g2ac3e688cb73" version="5">Chat invoqué</content>
+  <content contentuid="hc00c2d28gd99eg50b0geaa5gc4479c9f36af" version="5">Chat invoqué</content>
+  <content contentuid="h5f8d5377g7fc3g0a9ege2f9g2efa51f7fc56" version="7">Chat invoqué</content>
+  <content contentuid="hdfc84dcdg42d8gcf80gddbagbd9047919c3b" version="4">Chat invoqué</content>
+  <content contentuid="h42b21aacgb00agb338ga550ga20ad6b056d4" version="1">Protection du maître des Chaînes</content>
+  <content contentuid="h68fe8e7eg8bffg78c7g40b9g9af489256387" version="3">Le nombre maximum de points de vie de votre &lt;LSTag Type="Spell" Tooltip="Target_OREO_FindFamiliarChain"&gt;familier&lt;/LSTag&gt; est augmenté d'un montant égal à deux fois votre niveau d'occultiste.</content>
+  <content contentuid="h5d2c1141g9fcdgbe17g5c09gabe06744a2f0" version="1">Protection du maître des Chaînes</content>
+  <content contentuid="h4e1f0c96gb49eg1193ge6b2g9950fff11050" version="3">Le maximum de points de vie est augmenté d'un montant égal à deux fois le niveau d'Occultiste du maître.</content>
+  <content contentuid="hff8b9331g2b60ge392g6988gcccae30a8973" version="1">Protection du maître des Chaînes</content>
+  <content contentuid="h5df5b096ga4b8gab2bgf59dgdfe1ede28bf1" version="1">Obtenez des &lt;LSTag Tooltip="TemporaryHitPoints"&gt;Points de vie temporaires&lt;/LSTag&gt; égaux à deux fois votre niveau de maîtrise.</content>
+  <content contentuid="h1a8c87aeg8e6ag9acfg55edgb7803df2ca80" version="1">Domination du maître des Chaînes</content>
+  <content contentuid="h2e838207gbd76gaabdgf20eg853dc3e9437e" version="2">Le &lt;LSTag Tooltip="ProficiencyBonus"&gt;Modificateur de maîtrise&lt;/LSTag&gt; du maître est ajouté à votre &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'armure&lt;/LSTag&gt; et vos jets de dégats.</content>
+  <content contentuid="h19d99af0g1333g7ce6ga510gada23ee5db8c" version="1">Domination du maître des Chaînes</content>
+  <content contentuid="h26b4a3b4g6076g3238gaa8cg47a83aa129d5" version="2">Votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Modificateur de maîtrise&lt;/LSTag&gt; est ajouté à la &lt;LSTag Tooltip="ArmourClass"&gt;Classe d'armure&lt;/LSTag&gt; de votre &lt;LSTag Type="Spell" Tooltip="Target_OREO_FindFamiliarChain"&gt;Familier&lt;/LSTag&gt; ainsi quà ses jets de dégats.</content>
+  <content contentuid="h72b1f764g67cbg6188g5cbeg23f3d53cd0fc" version="3">Crabe invoqué</content>
+  <content contentuid="hfc1eef0agd6a7ged67gef20ge4d0c067a8a3" version="2">Crabe invoqué</content>
+  <content contentuid="h7a628810gf936g545dga59bgc52613aa5b26" version="3">Crabe invoqué</content>
+  <content contentuid="hcea22023ga4d6gdb2eg8fffg5050f320f8f7" version="3">Crabe invoqué</content>
+  <content contentuid="h03d73252gaf9bg37bcg0a08gae91150ad72a" version="1">Point de Leçons des premiers Protégés</content>
+  <content contentuid="h5ce2e44ege1a3gffefg4c1eg8b12d47443b9" version="1">Ces point vous permettent de sélectionner les compétence des Leçons des premiers Protégés.</content>
+  <content contentuid="hdd32a73eg2abag55e3g037ag2ecda7fbdc30" version="1">Leçons des premiers Protégés</content>
+  <content contentuid="h00800aeag0e1bgac03ge6dfgec9ecec7c520" version="2">Les connaissances anciennes vous permettent d'acquérir la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de trois compétences de votre choix.</content>
+  <content contentuid="he4387752gdf56g5122gfa16gc26a524084f2" version="1">Acrobaties</content>
+  <content contentuid="hfec75a5egc54egb5b9g0221gc58fbd0c4cb0" version="1">Obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de l'&lt;LSTag Tooltip="Acrobatics"&gt;Acrobaties&lt;/LSTag&gt;.</content>
+  <content contentuid="h4f7ccfe3g59ebgdf72g4740g15c078f4eca8" version="2">Dressage</content>
+  <content contentuid="h5093d407g920cgb3d5gccfagc8e628a4b181" version="2">Obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; du &lt;LSTag Tooltip="AnimalHandling"&gt;Dressage&lt;/LSTag&gt;.</content>
+  <content contentuid="h9ee8d148ga9b9g39d2gb875g098f6a42c717" version="1">Arcane</content>
+  <content contentuid="he604b83cgd876gbc9agc491g5577b8ba14f2" version="1">Obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de l'&lt;LSTag Tooltip="Arcana"&gt;Arcane&lt;/LSTag&gt;.</content>
+  <content contentuid="h510c63a8g903fga9c6g9e3bgfaff11f9f9ef" version="1">Athlétisme</content>
+  <content contentuid="h574321f1gb629g5898g5d69g572466555a3e" version="1">Obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de l'&lt;LSTag Tooltip="Athletics"&gt;Athlétisme&lt;/LSTag&gt;.</content>
+  <content contentuid="hed67c77cg2a9egfca3g8075g63d2c12a6808" version="1">Supercherie</content>
+  <content contentuid="h3bdc04f6g5c7ag1e36g4032gece33d300e2f" version="1">Obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de la &lt;LSTag Tooltip="Deception"&gt;Supercherie&lt;/LSTag&gt;.</content>
+  <content contentuid="h6b98584dg9bc3g7d03g3de1g2df02a52a317" version="1">Histoire</content>
+  <content contentuid="h36afdd2agfd9eg1250g13f4g87769face8ff" version="1">Obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de l'&lt;LSTag Tooltip="History"&gt;Histoire&lt;/LSTag&gt;.</content>
+  <content contentuid="h54e55340g7072g4dd5gd1c3g698f4a44fe66" version="1">Perspicacité</content>
+  <content contentuid="hd0aa329agbadage801g6360g3b9434a8e3a6" version="1">Obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de la &lt;LSTag Tooltip="Insight"&gt;Perspicacité&lt;/LSTag&gt;.</content>
+  <content contentuid="h9b38971aga8b7g0a60g20a0g2507b261992b" version="1">Intimidation</content>
+  <content contentuid="hcce92d48g378fg9877g7d54g549884970f96" version="1">Obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de la &lt;LSTag Tooltip="Intimidation"&gt;Intimidation&lt;/LSTag&gt;.</content>
+  <content contentuid="h227c130dgef0dgac46g0399g5aa6f30eabe5" version="1">Investigation</content>
+  <content contentuid="hf3c10700g9a7cgeb73g49aeg5bf52a368b57" version="2">Obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de la &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt;.</content>
+  <content contentuid="hcdc7ae90gfc9cg5d85g4491g275572801104" version="1">Medicine</content>
+  <content contentuid="h8faa879eg3627gdb38g664fg6e18637a266e" version="2">Obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de la &lt;LSTag Tooltip="Medicine"&gt;Médecine&lt;/LSTag&gt;.</content>
+  <content contentuid="hae494280gbb65g4114g23e7g509159d61dd1" version="1">Nature</content>
+  <content contentuid="hbebd7845gcacfg7bc8g439dg3943745be14d" version="2">Obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de la &lt;LSTag Tooltip="Nature"&gt;Nature&lt;/LSTag&gt;.</content>
+  <content contentuid="h74b9d658gba35g1e85g826ag114196b2c6c8" version="1">Perception</content>
+  <content contentuid="h9dcee10fg1b9eg4592gab9ag567cb2227ec8" version="2">Obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de la &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;.</content>
+  <content contentuid="h747c5e84g318bgbfa3gf370g0bdafeeed51d" version="1">Représentation</content>
+  <content contentuid="hcdac9051g66c7g78ddg01a2gc0af70649ba4" version="2">Obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de la &lt;LSTag Tooltip="Performance"&gt;Représentation&lt;/LSTag&gt;.</content>
+  <content contentuid="h0ca0681agef35gc677g56e1g2f2592f8a156" version="1">Persuasion</content>
+  <content contentuid="h660c4346g49bcgd116g2990g60e46b2e93df" version="2">Obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de la &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt;.</content>
+  <content contentuid="h7c8a720cg2834gfa81g2839ge800892b8d5b" version="1">Religion</content>
+  <content contentuid="h2bd96792g61e9g98e9g226dge5f5b7638e8b" version="2">Obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de la &lt;LSTag Tooltip="Religion"&gt;Religion&lt;/LSTag&gt;.</content>
+  <content contentuid="he2c1c146ge1bbgcb9bg9aa1g5d7f9253308a" version="1">Escamotage</content>
+  <content contentuid="h2785c262g0603gcc83g5fcbgea8afc9ce634" version="2">Obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de l'&lt;LSTag Tooltip="SleightOfHand"&gt;Escamotage&lt;/LSTag&gt;.</content>
+  <content contentuid="hb8a1fd0dg89c8g8fc2g20aeg6978c9362bc2" version="1">Discrétion</content>
+  <content contentuid="h7e9fd828g3139gdeb1gf337g394a1cb5dcd2" version="2">Obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de la &lt;LSTag Tooltip="Stealth"&gt;Discrétion&lt;/LSTag&gt;.</content>
+  <content contentuid="hfafdaeebg4058gc004g56b6g7a2f14a3840d" version="1">Survie</content>
+  <content contentuid="h9475fb1bgbccdg16e4g1b93g153482bfa380" version="2">Obtenez la &lt;LSTag Tooltip="Proficiency"&gt;Maîtrise&lt;/LSTag&gt; de la &lt;LSTag Tooltip="Survival"&gt;Survie&lt;/LSTag&gt;.</content>
+  <content contentuid="hd27a89eag1d44g8399g4f47g751e27b45fd2" version="2">Grenouille invoqué</content>
+  <content contentuid="h83364813g7f97g7b10g200fg80c73c718799" version="2">Grenouille invoqué</content>
+  <content contentuid="h4e51cc1egbaccgb406g239fga94ff15faad8" version="3">Grenouille invoqué</content>
+  <content contentuid="h5b52c86agfe5ega478gf652g88b7e702cd02" version="3">Grenouille invoqué</content>
+  <content contentuid="h5828f708g1ec4ge563gb883g035b5f2e3258" version="1">Rat invoqué</content>
+  <content contentuid="h8f8dfee6ge034g3520g6fc5gbf05c6a7706b" version="1">Rat invoqué</content>
+  <content contentuid="hd5e7f11dg9bdfg5646geb5ega425652977a0" version="2">Rat invoqué</content>
+  <content contentuid="hb48e2e7eg8a56g7dd7g9203gb329501f8d15" version="2">Rat invoqué</content>
+  <content contentuid="h230958dege09dg5912g9a1dg1838be813755" version="1">Diy</content>
+  <content contentuid="h01470692g1d7fg06fdg9e27g8989c4f43247" version="1">Diy</content>
+  <content contentuid="h1c96f57ag5de6g89b9gde72gd577e7d56edc" version="2">Diy</content>
+  <content contentuid="h3aef2cc1gc733g0322g7492g57980a1f4694" version="2">Diy</content>
+  <content contentuid="h524c73eeg7732g9804gb947gd72ec03d7f13" version="1">Araigné invoqué</content>
+  <content contentuid="h70463280g029agfdcbgc11dg9281542c5095" version="1">Araigné invoqué</content>
+  <content contentuid="h0fa4f35agdca2gb279g5d29g14966c70c90d" version="2">Araigné invoqué</content>
+  <content contentuid="hc477eb31g5fe8g5a39gc5e1gf2592fee9987" version="2">Araigné invoqué</content>
+  <content contentuid="he2f926f1gb414g92edgcf7eg587c3ac4ce07" version="1">Diablotin invoqué</content>
+  <content contentuid="he1759a8fgf97dgc00eg756cg5215f4f4109b" version="1">Diablotin invoqué</content>
+  <content contentuid="h260c9490g8445gc002g80d9ge328383deeba" version="2">Diablotin invoqué</content>
+  <content contentuid="h9175d637g7cd8g5a76g6d0eg22d9741943f2" version="2">Diablotin invoqué</content>
+  <content contentuid="h44d52007gddacg1971g8638gd56586f1f857" version="1">Quasit invoqué</content>
+  <content contentuid="hc9edb7d4g1eb3g553cg492eg66e0144929ad" version="1">Quasit invoqué</content>
+  <content contentuid="h909e5c08gf4c5g87cdg44b1g04ce91f57600" version="2">Quasit invoqué</content>
+  <content contentuid="h0b11b834gcc13g91e0gc022ga2b56e0b2f5e" version="2">Quasit invoqué</content>
+  <content contentuid="hdd99ff63g32dbg5e96g63d4ge777ef197888" version="1">Enseignements du maître des Chaînes</content>
+  <content contentuid="hb5c78392ge61dg4c0ag36c1g22058b1e8cea" version="3">Les attaques à mains nues de votre &lt;LSTag Type="Spell" Tooltip="Target_OREO_FindFamiliarChain"&gt;Familier&lt;/LSTag&gt; ingligent des [1], [2] ou [3] supplémentaires d'un montant égal à votre modificateur de &lt;LSTag="Charisma"&gt;Charisme&lt;/LSTag&gt;.</content>
+  <content contentuid="h25b8da49g6cf2g240bg1361g443ed46a4c9c" version="2">Pourriture du maître des Chaînes</content>
+  <content contentuid="hd17c1c48g55f9gab43g4dffg6caa6c9f1735" version="2">Vos attaques à mains nues infligent une valeur supplémentaire de [1] égale à celle du modificateur de &lt;LSTag="Charisma"&gt;Charisme&lt;/LSTag&gt; du maître.</content>
+  <content contentuid="hc60cf92bg1f40g979ag75e5ge7a5df79554b" version="1">Don du maître des Chaînes</content>
+  <content contentuid="he87bcf5cg96b5gc157g5435g7d8da4a68410" version="1">Votre &lt;LSTag Type="Spell" Tooltip="Target_OREO_FindFamiliarChain"&gt;Familier&lt;/LSTag&gt; acquiert de nouvelles capacités puissantes.</content>
+  <content contentuid="h380db199gbb24gf203ga912g5112826168c5" version="4">Diablotin invoqué</content>
+  <content contentuid="h49423e70g1ba2gafc7ga9fdg56c8cfcae18e" version="3">Quasit invoqué</content>
+  <content contentuid="h2c684c14ged14g22fcg2056g488b88c6cb39" version="3">Chat invoqué</content>
+  <content contentuid="h1b174461g3382g2781g4854g4eb270737c6e" version="3">Crabe invoqué</content>
+  <content contentuid="h8b9794dagb1f8g0febg419fg8561c2739f38" version="3">Grenouille invoqué</content>
+  <content contentuid="hd84d2e50g45c7g2453g7aacg045beee64e7b" version="3">Rat invoqué</content>
+  <content contentuid="habed4cc3g6f2ag4269gdd61ga809443d3e38" version="3">Diy</content>
+  <content contentuid="h7a916ebagc862g5cfbge06eg268db2da1a5a" version="2">Araigné invoqué</content>
+  <content contentuid="hcd09ceefgd89ag4009g4efbg505af331ea17" version="2">Miaulement désarmement</content>
+  <content contentuid="h8952a072gd15ag7ccbg9fcdgc63265861b7c" version="2">Attirez l'attention des créatures proches de vous. Votre charme d'un autre monde les &lt;LSTag Type="Status" Tooltip="OREO_DISTRACTINGMEOW_STATUS"&gt;Distraits&lt;/LSTag&gt;.</content>
+  <content contentuid="h3915bfe3g8895gc9dbgca1fg7fc0c2c5e4f4" version="1">Distraits</content>
+  <content contentuid="h8c357154g4a6cgb89eg2b3egbbf5f981c259" version="2">Les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; à l'encontre de cette entité ont un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;.</content>
+  <content contentuid="haa79c7acg23f5g2af7g4a91g8c3211fbf202" version="1">Coup de pince ralantissante</content>
+  <content contentuid="h7d1f880eg30bdg71adg602fg41549e89076a" version="1">Attaquer les pieds d'une créature et inflige &lt;LSTag Type="Status" Tooltip="CRAB_PINCHED"&gt;Pincé&lt;/LSTag&gt;.</content>
+  <content contentuid="h7323b99dgc52dg95a0gd83eg7eb262f93283" version="1">Pincé</content>
+  <content contentuid="he26273edg7731g8a75g1d22g80477eb3f5ad" version="1">Prend [1] au début de chaque tour et la &lt;LSTag Tooltip="MovementSpeed"&gt;vitesse de déplacement&lt;/LSTag&gt; est réduite de [2].</content>
+  <content contentuid="hafca52fdge142g9a19g57c4g3bcf084ab0b1" version="1">Bufotoxine puissante</content>
+  <content contentuid="h03b8bda5g99b1g18eagc09dga7b27e1cd5f1" version="1">Toucher une créature et éventuellement imposer un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur ses &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; de Dextérité.</content>
+  <content contentuid="h534fe6dcgcdf5g7ed1g9c62g7d878e0ee6c1" version="1">Morsure maligne</content>
+  <content contentuid="he6f16f1eg627agebeeg6853gd8b0c8477ab7" version="1">Mordre une créature et l'&lt;LSTag Type="Status" Tooltip="RAT_INFECTED"&gt;Infecte&lt;/LSTag&gt;.</content>
+  <content contentuid="h60dd5850gc967g7f05g4b83g24091de75473" version="1">Fatalité</content>
+  <content contentuid="h228b1fcbgb032g6881g6a69g6e5cf4bfe689" version="2">Lancez une de vos plumes sur une cible et marquez-la éventuellement comme &lt;LSTag Type="Status" Tooltip="OMEN_RAVEN"&gt;Maudit&lt;/LSTag&gt;.</content>
+  <content contentuid="he6d306aagf664g6536g6dd9g1e16e654c125" version="1">Terrifier</content>
+  <content contentuid="h99642058g2342gdb64ga916g1e35c21c2ca9" version="1">Lancer un coup de fouet à une créature pour l'&lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Effrayer&lt;/LSTag&gt; ainsi que les créatures voisines.</content>
+  <content contentuid="h4a2b1896ga9f4gccc3g0979gcfcb394b9f87" version="1">bufotoxine</content>
+  <content contentuid="h4c7858f5gd09bgaaddg9869g25481566dc77" version="1">Toucher une créature et lui impose éventuellement un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur ses &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt; de Dextérité.</content>
+  <content contentuid="h2c232c44gc762gf363g8880gbbbee1b39ed4" version="1">Grenouille invoqué</content>
+  <content contentuid="h15a8a1cfge9e4g34aag791eg303bea34c7ae" version="1">Lame dévorante</content>
+  <content contentuid="hf0bcd264ga833ga92bg7c4ag06bc44a7941d" version="2">Vous pouvez effectuer deux attaques supplémentaires après avoir attaqué avec votre arme de pacte.</content>
+  <content contentuid="hb3259b87gba59gf016g9b65ga78cc57b3200" version="1">Ponction</content>
+  <content contentuid="h4557a023gb0fbg9f45gf7eegbe34138ba9c2" version="1">Griffes venimeuses</content>
+  <content contentuid="ha809fb92ge3c5g86dag1ba9g46caac91decd" version="2">Déchirer avec des griffes mortelles et éventuellement &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Empoisonné&lt;/LSTag&gt; une créature.</content>
+  <content contentuid="he5219f75g3132ga6bfg6ec5ga3ab47af0f54" version="1">Point de foulée féerique</content>
+  <content contentuid="h07cb56ddg0057gdd02g4654g4ed9914311fa" version="1">Point vous permettant d'utiliser des Foulée brumeuse</content>
+  <content contentuid="h4eacd118g0841ge956g1b72g8dd92685f31b" version="1">Foulée féerique</content>
+  <content contentuid="hcd7d0ffcg85c8g3576g1000gef6ff2c15165" version="3">Vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;Foulée brumeuse&lt;/LSTag&gt; sans dépenser d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt;. Vous pouvez utiliser cette fonction un nombre de fois égal à votre modificateur de &lt;LSTag="Charisma"&gt;Charisme&lt;/LSTag&gt; par &lt;LSTag Tooltip="LongRest"&gt;repos long&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;En outre, chaque fois que vous lancez &lt;LSTag Type="Spell" Tooltip="Target_OREO_FeyStep"&gt;Foulée brumeuse&lt;/LSTag&gt;, vous avez accès à des effets supplémentaires. Ces effets supplémentaires sont encore renforcés lorsque le niveau 6 est atteint.</content>
+  <content contentuid="h7f8a0f54g8a88gb58age230gb3850c19fd6d" version="2">Foulée brumeuse</content>
+  <content contentuid="h3b66f1ebgdf86g8ed3gffceg7b9eb35abedc" version="1">Entouré d'un brouillard argenté, vous vous téléportez dans un espace inoccupé que vous pouvez voir.</content>
+  <content contentuid="h55384eb5geb8egc428g55d7g6d47373448e8" version="1">Simulacre de vie</content>
+  <content contentuid="ha9bc4af3gd21egda1cg9b8fge3169c38afc2" version="1">Obtenez [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;Points de vie temporaires&lt;/LSTag&gt;.</content>
+  <content contentuid="h8b07f7e0g2329g0bf6g7d07g1e61720ba886" version="1">Invocation: Simulacre de vie</content>
+  <content contentuid="h39b53de0ged38gf761ga749gd5ecb43dffe4" version="1">Foulée féerique</content>
+  <content contentuid="hc145f340gc2c5gf79egc5ebg01f09c150487" version="1">Vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="Target_OREO_FeyStep"&gt;Foulée brumeuse&lt;/LSTag&gt; sans dépenser d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt;. Vous pouvez utiliser cette fonction un nombre de fois égal à votre modificateur de &lt;LSTag="Charisma"&gt;Charisme&lt;/LSTag&gt; par &lt;LSTag Tooltip="LongRest"&gt;repos long&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;En outre, chaque fois que vous lancez &lt;LSTag Type="Spell" Tooltip="Target_OREO_FeyStep"&gt;Foulée brumeuse&lt;/LSTag&gt;, vous avez accès à des effets supplémentaires.</content>
+  <content contentuid="ha4a69297gc77bg8370gf21eg9431f0538281" version="1">Vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;Foulée brumeuse&lt;/LSTag&gt; sans dépenser d'&lt;LSTag Tooltip="SpellSlot"&gt;Emplacement de sort&lt;/LSTag&gt;. Vous pouvez utiliser cette fonction un nombre de fois égal à votre modificateur de &lt;LSTag="Charisma"&gt;Charisme&lt;/LSTag&gt; par &lt;LSTag Tooltip="LongRest"&gt;repos long&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;En outre, chaque fois que vous lancez &lt;LSTag Type="Spell" Tooltip="Target_OREO_FeyStep"&gt;Foulée brumeuse&lt;/LSTag&gt;, vous avez accès à des effets supplémentaires.</content>
+  <content contentuid="h7f12f3f6g3cb2g5b65g87e7g6c86bd62ba54" version="1">Foulée féerique</content>
+  <content contentuid="hc8660f50g3c8fg6727gb8c3gb20aecfd284b" version="1">Point bonus de Foulée</content>
+  <content contentuid="hf1622cbdg6ea8gc516gcde2g147153d5dfed" version="1">Point vous permettant d'utiliser des effets bonus de Foulée brumeuse</content>
+  <content contentuid="h3abcd011gf702gfbcdg9d92gaef75ecc648b" version="1">Foulée féerique</content>
+  <content contentuid="h01f72cb4g96c2ge357g6551ge96bb7390f67" version="1">Foulée féerique</content>
+  <content contentuid="hbf0865a0g4d51g149cg64d2g9a4f74932e81" version="1">Pas provocateur</content>
+  <content contentuid="hf901a9efg1fa7g377agae21gb2f06aa71208" version="1">Oblige les ennemis situés dans un rayon de [1] à n'attaquer que vous, ce qui leur fait subir un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; contre d'autres objectifs. </content>
+  <content contentuid="h8db9866bgbe4fg10d0gae0egec3a5edf9841" version="1">Ravivée</content>
+  <content contentuid="h310c3c6fgf3e5g0d51gf21cg7d6768c3fe0a" version="1">Accordé [1] en ravivant la magie féerique.</content>
+  <content contentuid="hd39b857cg39eag3fd0gd7eegbc971ffc8de8" version="1">Pas ravivant</content>
+  <content contentuid="h5033757ag3fcfg4e60g8b17gf6119d113292" version="2">Accorde à une créature [1] la magie féerique.</content>
+  <content contentuid="hbc429873g0690g313dg08a5g1fd7d9196fd8" version="1">Escapade brumeuse</content>
+  <content contentuid="hb6db3c7egb77fg24e9gd999g5e8fd171ba40" version="3">Lorsque subit des dégâts, devient &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt;. Lors de votre prochain tour, vous pouvez lancer &lt;LSTag Type="Spell" Tooltip="Target_MistyStep"&gt;Foulée brumeuse&lt;/LSTag&gt; sans frais, bien que cela brise votre invisibilité.</content>
+  <content contentuid="hcefede32g6306g573cgfa1bg17878ed5cef2" version="1">Foulée féerique</content>
+  <content contentuid="heba6f786g773ag7c9eg1350gb9f6a1c6493b" version="1">Foulée de disparition</content>
+  <content contentuid="hfdc9d6acg14e9g5d13g8179g4cd2bef04db2" version="2">Se couvrir de magie féerique et devenir &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt; jusqu'au début de votre prochain tour.</content>
+  <content contentuid="h78075bd3g7796gf240g08e7gd1c06b857904" version="1">Pas effroyable</content>
+  <content contentuid="h31a29bd5gb958gb647g6a38g2dfb8150614f" version="1">Invoque la magie féerique pour infliger des dégâts aux ennemis dans un rayon de [1].</content>
+  <content contentuid="hc423d2f6gaff1g8afag8d74gdee68f4d6ec9" version="1">%%% EMPTY</content>
+  <content contentuid="hb9509aa7gc9f8gd9e6g58bcga5772c0fd518" version="1">Points de Défense envoûtante</content>
+  <content contentuid="h1b54748bg05a6g9434g1fbeg07c3e0789f22" version="1">Point vous permettant d'utiliser Défense envoûtante</content>
+  <content contentuid="h0e192099g1f22gff5cg1346gc146c3118c68" version="2">Défense envoûtante</content>
+  <content contentuid="h56a86610g1a92g7c5agb695g20455a212878" version="2">Lors d'une &lt;LSTag Tooltip="AttackRoll"&gt;attaque&lt;/LSTag&gt;, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts que vous subissez. Votre attaquant doit faire un  &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; de Sagesse. En cas d'échec, l'attaquant subit une diminution de [1] égale à deux fois votre niveau d'Occultiste.</content>
+  <content contentuid="h5d5138bdgc2abg8588g235bg36001b2b5100" version="1">Défense envoûtante</content>
+  <content contentuid="h7ddb4a75gc767g9ec7g9901gcee646bd59ff" version="2">Vous avez construit des barrières stoïques dans votre cœur et votre esprit, et vous ne pouvez plus être &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmé&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; Lors d'une &lt;LSTag Tooltip="AttackRoll"&gt;attaque&lt;/LSTag&gt;, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts que vous subissez. Votre attaquant doit faire un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; de Sagesse. En cas de sauvegarde ratée, l'attaquant subit des dégâts psychiques égaux à deux fois votre niveau d'Occultiste.</content>
+  <content contentuid="h52f7db06g2236ga37eg01a7g35ab5aff0764" version="1">Chance du Ténébreux</content>
+  <content contentuid="hdda56624g8107gb94bg7facgfaa84475dc97" version="4">Faites appel à votre protecteur pour changer votre destin et ajoutez 1d10 à un &lt;LSTag Tooltip="AbilityCheck"&gt;Test de compétence&lt;/LSTag&gt; ou un&lt;LSTag Tooltip="SavingThrow"&gt;Jet de dégâts&lt;/LSTag&gt;. Vous pouvez utiliser cette fonction un nombre de fois égal à votre modificateur de &lt;LSTag="Charisma"&gt;Charisme&lt;/LSTag&gt; par &lt;LSTag Tooltip="LongRest"&gt;repos long&lt;/LSTag&gt;.</content>
+  <content contentuid="h7a3de1e0g9d4ege245g1158g4788c9d0c86c" version="1">Défense envoûtante</content>
+  <content contentuid="h4b01e3b3g030eg4640gb7eag1ec4b3ec26ab" version="2">Lors d'une &lt;LSTag Tooltip="AttackRoll"&gt;attaque&lt;/LSTag&gt;, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts que vous subissez. Votre attaquant prend [1].</content>
+  <content contentuid="hdb4ce304gcc0dgd22eg6e12gcd7275f79e22" version="1">Résistance de fiélon</content>
+  <content contentuid="h936c592ag9745g10e7gb330g14cb05185f51" version="1">Choisissez un type de dégâts, autre que ceux de Force, et devenez-y &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt;. Vous pouvez choisir un nouveau type de dégâts à chaque &lt;LSTag Tooltip="ShortRest"&gt;repos court&lt;/LSTag&gt;.</content>
+  <content contentuid="hd8e68ce1g7c22g674cg18f6g809876e4ee0f" version="1">Vous ne pouvez avoir que [1] type de Résistance à la fois.</content>
+  <content contentuid="h659028bagd288gfc83gc12bged27af2a1a7b" version="1">Chance du Ténébreux</content>
+  <content contentuid="h75aa6760gf795gdacdga99fgd7bbf0fe0a61" version="1">Résistance de fiélon</content>
+  <content contentuid="h09a486b4g003eg5e46gfb77gc19e4ebc2b3e" version="2">Choisissez un type de dégâts, autre que ceux de Force, et devenez-y &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt;. Vous pouvez choisir un nouveau type de dégâts à chaque &lt;LSTag Tooltip="ShortRest"&gt;repos court&lt;/LSTag&gt;.</content>
+  <content contentuid="h6785de6fgb615g9f22gdc38gd66c95c1b26b" version="1">Vous ne pouvez avoir que [1] type de Résistance à la fois.</content>
+  <content contentuid="he7d8133eg44f2ge106gcd2ag17149e06fb00" version="1">Point de Chance du Ténébreux</content>
+  <content contentuid="hde4ad232gbdefge48eg9aa6g639bd217e343" version="1">Point vous permettant d'utiliser Chance du Ténébreux</content>
+  <content contentuid="h9ee4392dgb807g4eb3ge200g5747bcf80c48" version="1">Chance du Ténébreux</content>
+  <content contentuid="h98eec982gb16ega971gf9cfg81821b76c087" version="1">Ajoutez un bonus de +[1] à vos &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegarde&lt;/LSTag&gt;.</content>
+  <content contentuid="hb55470bfgaf1fg8edeg284egbf503fd60983" version="1">Chance du Ténébreux</content>
+  <content contentuid="hd9895d28gce14g70efg6fe1g86533d26dc5f" version="1">Débordement psychique</content>
+  <content contentuid="h252c023bga92cg9dd8g255bg3aeb54bbb088" version="1">Provoquer une éruption d'énergie psychique.</content>
+  <content contentuid="heb3ca236gbcf0g34e2gd640g5a9c71ff4e16" version="1">Débordement psychique</content>
+  <content contentuid="h29d488c8g0e79gd497gf37fgd6a2fdcb277c" version="2">Lorsque vous lancez un sort d'Enchantement ou d'Illusion de niveau 1 ou plus, vous provoquez une petite explosion à proximité. Tous les ennemis dans un rayon de [2] subissent [1].</content>
+  <content contentuid="ha3de697dgdb44geb7eg92e2gd0464283efe9" version="1">Débordement psychique</content>
+  <content contentuid="h8bd30b9cg306cg2258g6c2agc83c3d4432b6" version="2">Lorsque vous lancez un sort d'Enchantement ou d'Illusion de niveau 1 ou plus, vous provoquez une petite explosion à proximité. Tous les ennemis dans un rayon de [2] subissent [1].</content>
+  <content contentuid="h0734cf46g9141g5928g35b1g200433a27cba" version="1">Esprit éveillé</content>
+  <content contentuid="h063b12ffg622aga041g4d3fg9ede914f7090" version="1">Obtenez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; aux &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; contre un ennemi. L'ennemi souffre d'un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; à ses &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; contre vous.</content>
+  <content contentuid="h7fbd1bb5ge97cge018g651ag2f4a83bb0212" version="1">Esprit éveillé</content>
+  <content contentuid="h5c745423gee4cg8351g320fgf52bbcc80ca9" version="2">Votre connaissance de la magie des Âge vous permet d'envahir l'esprit d'une créature et de la forcer à faire un &lt;LSTag Tooltip="SavingThrow"&gt;jet de sauvegarde&lt;/LSTag&gt; de Sagesse. En cas d'échec, la créature subit un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur tous ses &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; contre vous, et vous gagnez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;sur tous ses Jets d'attaque contre elle.</content>
+  <content contentuid="hf0de6e30gb461gaaffg754eg2958e5d38f81" version="2">Esprit éveillé</content>
+  <content contentuid="h52c26c86g4f25g13dfgafeag914d20d2a433" version="2">Le lanceur de sorts a un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur ses &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; contre l'entité concernée. L'entité affectée a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur ses &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; contre le lanceur de sorts.</content>
+  <content contentuid="h630086c5gbfc3g53efg6142g8540256a9624" version="1">Maléfice Occulte</content>
+  <content contentuid="ha86140fcg1341g3feag2357gfcb6d93fe3f5" version="2">Lorsque vous &lt;LSTag Type="Spell" Tooltip="Target_Hex"&gt;Appliquez Maléfice&lt;/LSTag&gt; une créature, l'entité affectée a également un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegardes&lt;/LSTag&gt; de la capacité choisie.</content>
+  <content contentuid="hf61e3334g4048g4117g14c4g8546913bde46" version="1">Maléfice Occulte : Intelligence</content>
+  <content contentuid="h6ea6432aga85fg8804g4bd5g45db2e59b40a" version="2">La créature a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur ses &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegardes&lt;/LSTag&gt; d'Intelligence .</content>
+  <content contentuid="hba5fd655g75b1gdf7agec6bg16ad52338ba1" version="1">Maléfice Occulte : Force</content>
+  <content contentuid="h42218493g6355gb1f5g1e4ag3acc19d3d2c4" version="1">La créature a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur ses &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegardes&lt;/LSTag&gt; de Force.</content>
+  <content contentuid="hd23fa829ge42egaedcg72c4g5314621b5cc9" version="1">Maléfice Occulte : Dextérité</content>
+  <content contentuid="he763e049g7171g71feg0560g5c5411156944" version="1">La créature a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur ses &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegardes&lt;/LSTag&gt; de Dextérité.</content>
+  <content contentuid="hbc0b4ecagee80g4d0eg65e2gff86812b048d" version="1">Maléfice Occulte : Constitution</content>
+  <content contentuid="h1f023ddcg44d4g81f1ga296g19d6926de112" version="2">La créature a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur ses Constitution &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegardes&lt;/LSTag&gt;.</content>
+  <content contentuid="had153ec2g4892gde6bg24e9g54831bbe5c43" version="1">Maléfice Occulte : Sagesse</content>
+  <content contentuid="h0ec97ad2g0ef7g996eg2d4ag4f9f1e4790bf" version="2">La créature a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur ses &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegardes&lt;/LSTag&gt; de Sagesse.</content>
+  <content contentuid="hff02767cg1f40g7d5cg45dfg8cddf8d8da75" version="1">Maléfice Occulte : Charisme</content>
+  <content contentuid="h10069a57g1ea5gaa5ag7c54gb95a2ef7df42" version="2">La créature a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur ses &lt;LSTag Tooltip="SavingThrow"&gt;jets de sauvegardes&lt;/LSTag&gt; de Charisme.</content>
+  <content contentuid="hde252a85g12a1ge96cg55a0gc84747cbdf54" version="1">Carapace chitineuse</content>
+  <content contentuid="h7ff763dagd62bg1802ga235ga036d9309f4c" version="1">Réduit tous les dégâts reçus de [1].</content>
+  <content contentuid="hc815108dg9f08g5c73g7f66gbc071e9e5cf1" version="1">Décharge déchirante</content>
+  <content contentuid="hbd4d2d8dge065g2ee2g03c7gcf80d6286a3a" version="2">Lorsque vous lancez &lt;LSTag Type="Spell" Tooltip="Projectile_OREO_ImpFamiliar_EldritchBlast"&gt;Décharge occulte&lt;/LSTag&gt;, vous ajoutez votre &lt;LSTag Tooltip="AbilityModifier"&gt;Modificateur&lt;/LSTag&gt; de &lt;LSTag Tooltip="Charisma"&gt;Charisme&lt;/LSTag&gt; aux dégâts qu'elle inflige.</content>
+  <content contentuid="h5dea16ecgd2f7gc545g4d26g380285e5cd1e" version="1">Débandade</content>
+  <content contentuid="h8328422bg64c1ge77dg99d1gdeaad2ccae89" version="1">Votre &lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de déplacement&lt;/LSTag&gt; augmente de [1] et vous ne déclenchez pas d'&lt;LSTag Tooltip="OpportunityAttack"&gt;Attaques d'opportunité&lt;/LSTag&gt;.</content>
+  <content contentuid="h58e18fe6gb0bbg1108gefeeg89bc7b9946ba" version="1">Morsure toxique</content>
+  <content contentuid="h32bc6c34geaa9g5f58gbc19g6f15c1ea6b70" version="1">Mordre une cible et éventuellement l'&lt;LSTag Type="Status" Tooltip="POISONED"&gt;Empoisonne&lt;/LSTag&gt;.</content>
+  <content contentuid="hab495afcg5beegc758g292ag86073ee5a6c7" version="1">Virulence</content>
+  <content contentuid="h6305478dgbfacg4d2bg6d96gd990fd6e4995" version="1">Les attaques que vous faites ignore la &lt;LSTag Tooltip="Resistant"&gt;Résistance&lt;/LSTag&gt; au poison.</content>
+  <content contentuid="h57b46afegdb68gc04bgd6c6gb19f92d426ad" version="2">Angoisse du maître des Chaînes</content>
+  <content contentuid="hd59a56dcg836eg5592g3fc0g91d44f9c7471" version="1">Les attaques à mains nues infligent une valeur supplémentaire de [1] égale à celle du modificateur de &lt;LSTag="Charisma"&gt;Charisme&lt;/LSTag&gt; de votre maître.</content>
+  <content contentuid="hd654ea33g6c9dg94f8g0d86g6cd0a9651088" version="1">Eclat du maître des Chaînes</content>
+  <content contentuid="hd90df721g4466gb911gb8d1g038d2ddd436a" version="1">Les attaques à mains nues infligent une valeur supplémentaire de [1] égale à celle du modificateur de &lt;LSTag="Charisma"&gt;Charisme&lt;/LSTag&gt; de votre maître.</content>
+  <content contentuid="he169d8e7g3778g2035g9900g4daeb7632807" version="1">Buveur de vie - Nécrotique</content>
+  <content contentuid="h982ef64age406g8e45g4c97g7d1a760454db" version="1">Les attaques effectuées avec votre &lt;LSTag Type="Status" Tooltip="PACT_BLADE"&gt;Arme de pacte&lt;/LSTag&gt; infligent des dégats supplémentaires de [1] et regagne également [2].</content>
+  <content contentuid="h113ee89cg6f65g6567gde0cg9725c286d370" version="1">Buveur de vie - Psychique</content>
+  <content contentuid="hd5c37b44g6ea8g70c6g535ege5000e671d2a" version="1">Les attaques effectuées avec votre &lt;LSTag Type="Status" Tooltip="PACT_BLADE"&gt;Arme de pacte&lt;/LSTag&gt; infligent des dégats supplémentaires de [1] et regagne également [2].</content>
+  <content contentuid="hcc7fdb7eg055egc9c6gf1e9gb90198ace599" version="1">Buveur de vie - Radiant</content>
+  <content contentuid="h96efbbffg512agfa02g98c6g1c05170d4939" version="1">Les attaques effectuées avec votre &lt;LSTag Type="Status" Tooltip="PACT_BLADE"&gt;Arme de pacte&lt;/LSTag&gt; infligent des dégats supplémentaires de [1] et regagne également [2].</content>
+  <content contentuid="he91d6fe5g1695g003fgaa17g3c7da25ea97f" version="1">Pacte de la Lame</content>
+  <content contentuid="h86084e21g9e2fg9d1eg7391g362432814ce1" version="2">Vous pouvez &lt;LSTag Type="Spell" Tooltip="Shout_PactOfTheBlade"&gt;Invoquer&lt;/LSTag&gt; une arme de pacte, ou &lt;LSTag Type="Spell" Tooltip="Shout_PactOfTheBlade_Bind"&gt;Lier&lt;/LSTag&gt; celle que vous maniez, ce qui la rend magique. Vous pouvez lui faire infliger des [1], des [2], ou bien des [3] au lieu de son type de dégâts habituels.</content>
+  <content contentuid="h8d8684faga2ffg4e51geaacg1f14bf6d0065" version="1">Les armes de pacte utilisent le &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Modificateur de caractéristique d'incantation&lt;/LSTag&gt; au lieu de la &lt;LSTag Tooltip="Strength"&gt;Force&lt;/LSTag&gt; ou de la &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt;.</content>
+  <content contentuid="h752c646ag0189g8ad7gaf8fg293a8ad37f5f" version="2">Arme de pacte - Nécrotique</content>
+  <content contentuid="h1f110e1eg6455g428bg28e7g941472b1b378" version="1">Les attaques effectuées avec votre &lt;LSTag Type="Status" Tooltip="PACT_BLADE"&gt;Arme de pacte&lt;/LSTag&gt; infligent [1].</content>
+  <content contentuid="h32a7449eg1024g6567gc19bgd82ced53d97b" version="1">Arme de pacte - Psychique</content>
+  <content contentuid="hb38d191ag6e59gbfa4g0cb1gfeedb456923a" version="1">Les attaques effectuées avec votre &lt;LSTag Type="Status" Tooltip="PACT_BLADE"&gt;Arme de pacte&lt;/LSTag&gt; infligent [1].</content>
+  <content contentuid="h2543ddd8g09a0g222bgfb0eg77a7dabfd23d" version="1">Arme de pacte - Radiant</content>
+  <content contentuid="h41a4e2a3g854dg3e92g65e4g0d12f94a3b47" version="1">Les attaques effectuées avec votre &lt;LSTag Type="Status" Tooltip="PACT_BLADE"&gt;Arme de pacte&lt;/LSTag&gt; infligent [1].</content>
+  <content contentuid="h5ced0ddfga7a5g6dbeg5832ga306bc0086f8" version="1">Ne peut être utilisé en même temps qu'&lt;LSTag Type="Passive" Tooltip="OREO_PactBladePsychic_Passive"&gt;Arme de pacte - Psychique&lt;/LSTag&gt; ou d'&lt;LSTag Type="Passive" Tooltip="OREO_PactBladeRadiant_Passive"&gt;Arme de pacte - Radiant&lt;/LSTag&gt;.</content>
+  <content contentuid="hdb98acf0g4eedg9aa3g6a16g9e760bd581db" version="1">Ne peut être utilisé en même temps que &lt;LSTag Type="Passive" Tooltip="OREO_LifedrinkerPsychic_Passive"&gt;Buveur de vie - Psychique&lt;/LSTag&gt; ou de &lt;LSTag Type="Passive" Tooltip="OREO_LifedrinkerRadiant_Passive"&gt;Buveur de vie - Radiant&lt;/LSTag&gt;.</content>
+  <content contentuid="h9b71f690g2f4egf0eeg859fg3980b891e146" version="1">Ne peut être utilisé en même temps qu'&lt;LSTag Type="Passive" Tooltip="OREO_PactBladeNecrotic_Passive"&gt;Arme de pacte - Nécrotique&lt;/LSTag&gt; ou d'&lt;LSTag Type="Passive" Tooltip="OREO_PactBladeRadiant_Passive"&gt;Arme de pacte - Radiant&lt;/LSTag&gt;.</content>
+  <content contentuid="hc2cae6e5gab86g3b88gfeb2ge36f31c0e984" version="1">Ne peut être utilisé en même temps qu'&lt;LSTag Type="Passive" Tooltip="OREO_PactBladeNecrotic_Passive"&gt;Arme de pacte - Nécrotique&lt;/LSTag&gt; ou d'&lt;LSTag Type="Passive" Tooltip="OREO_PactBladePsychic_Passive"&gt;Arme de pacte - Psychique&lt;/LSTag&gt;.</content>
+  <content contentuid="hc20b977ag0c42g8652ga42dg1544d5b48293" version="1">Ne peut être utilisé en même temps que &lt;LSTag Type="Passive" Tooltip="OREO_LifedrinkerNecrotic_Passive"&gt;Buveur de vie - Nécrotique&lt;/LSTag&gt; ou de &lt;LSTag Type="Passive" Tooltip="OREO_LifedrinkerRadiant_Passive"&gt;Buveur de vie - Radiant&lt;/LSTag&gt;.</content>
+  <content contentuid="h8b238ad0g5fceg8c04g44d0gc2d4fcd2e77d" version="1">Ne peut être utilisé en même temps que &lt;LSTag Type="Passive" Tooltip="OREO_LifedrinkerNecrotic_Passive"&gt;Buveur de vie - Nécrotique&lt;/LSTag&gt; ou de &lt;LSTag Type="Passive" Tooltip="OREO_LifedrinkerPsychic_Passive"&gt;Buveur de vie - Psychique&lt;/LSTag&gt;.</content>
+  <content contentuid="h13cd6177g9d4bg217bgf14cgc809602ba20e" version="1">La lame maudite</content>
+  <content contentuid="h97a3d4a4gd2f5g0fdbg3cbag1400f37a3f63" version="1">Vous avez conclu un pacte avec une entité mystérieuse de la Grisombre, une force qui se manifeste par des armes magiques sensibles taillées dans des étoffes de l'ombre elle même.</content>
+  <content contentuid="h96218325g2f42g08bdgfc30ga76fe56e90c6" version="1">Guerre des esprits</content>
+  <content contentuid="hc7851093g196cgf574gb073g6afb5be7d23d" version="1">L'influence de votre protecteur vous a permis d'acquérir l'entraînement nécessaire pour vous armer efficacement au combat. Vous pouvez adopter un style de combat particulier comme spécialité.</content>
+</contentList>

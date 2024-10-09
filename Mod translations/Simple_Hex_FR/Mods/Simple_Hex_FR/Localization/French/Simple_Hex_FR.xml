@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h0e1e28fcgde11g2dfagff28g480743845c98" version="1">Maléfice(Force)</content>
+  <content contentuid="hf45c4aafga1c8ga1b5g9690geb15640efe82" version="1">Infligez [1] supplémentaire lorsque vous attaquez la cible et appliquez un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; aux &lt;LSTag Tooltip="AbilityCheck"&gt;Tests de compétences&lt;/LSTag&gt; de Force.</content>
+  <content contentuid="h8a9fba35gc46cgb49fg41adg6054fe11f986" version="1">Maléfice (Force)</content>
+  <content contentuid="h7c3ffea7g9458g317bg5dfag07159b086d43" version="1">Infligez [1] supplémentaire lorsque vous attaquez la cible et appliquez un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; aux &lt;LSTag Tooltip="AbilityCheck"&gt;Tests de compétences&lt;/LSTag&gt; de Force.</content>
+  <content contentuid="h973f5664g9ba8g0a74gdcf3g9e9264603d48" version="1">Si la cible meurt avant la fin du sort, vous pouvez réapliquer Maléfice à une nouvelle créature sans dépenser d'&lt;LSTag Tooltip="SpellSlot"&gt;emplacement de sort&lt;/LSTag&gt;.</content>
+  <content contentuid="h0c6308dbgd01eg212dg2aa4g81040182f90c" version="1">Maléfice</content>
+  <content contentuid="h37f23755g60c5g6f33gc4b9g9ceb3c2f0853" version="1">Attaquer la cible de votre sort Maléfice lui inflige [1] supplémentaire.</content>
+  <content contentuid="h999599fcg8f12g714fgac08g1f1a3cbe570d" version="1">Maléfice</content>
+  <content contentuid="hd403c623g9bf2gd735g3e4cg9dc86d725a28" version="1">Lorsque cette créature attaque la cible de son sort Maléfice, elle lui inflige [1] supplémentaire.</content>
+  <content contentuid="hb15a8716gb601gda1eg2ef0g6715c4280103" version="1">Maléfice (Force)</content>
+  <content contentuid="hfa12bc50gefa4g6449g9e41ge345f56e0bc5" version="1">Infligez [1] supplémentaire lorsque vous attaquez la cible et appliquez un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; aux &lt;LSTag Tooltip="AbilityCheck"&gt;Tests de compétences&lt;/LSTag&gt; de Force.</content>
+  <content contentuid="hea779203gf980gd8ecg113cgb44644171bc2" version="1">Infligez [1] supplémentaire lorsque vous attaquez la cible et appliquez un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; aux &lt;LSTag Tooltip="AbilityCheck"&gt;Tests de compétences&lt;/LSTag&gt; de Force.</content>
+  <content contentuid="h5fa586cfg13c7gcc05g9451g12e4e2c7fc9c" version="1">Infligez [1] supplémentaire lorsque vous attaquez la cible et appliquez un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; aux &lt;LSTag Tooltip="AbilityCheck"&gt;Tests de compétences&lt;/LSTag&gt; de Force.</content>
+</contentList>

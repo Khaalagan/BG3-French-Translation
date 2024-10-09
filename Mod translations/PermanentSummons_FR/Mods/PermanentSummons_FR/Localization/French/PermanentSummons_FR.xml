@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h28582b55gea15gf4afg1664gd2e9480eee44" version="1">Animation des morts</content>
+  <content contentuid="h23a81bbbgfe51g283ag5d48gb64b8c31d087" version="1">Créer un serviteur mort-vivant à partir d'un cadavre.</content>
+  <content contentuid="h2512b457gb233gf2b8g04d6gbb1a51b5b477" version="1">Animation des morts : Squelette</content>
+  <content contentuid="ha998c169gf449g73aag01f4ge81cf9eb7b2a" version="1">Créez un squelette spécialisé dans le combat à distance.</content>
+  <content contentuid="h1a972972g15a2g62cdgb8adg4fcc52296f0b" version="1">Animation des morts : Zombie</content>
+  <content contentuid="h8f08b394g9ae6gdb86g633cg958682b169d3" version="1">Créez un zombie spécialisé dans le combat de mêlée.</content>
+  <content contentuid="h76079e09g8e29ga678gd28eg993dae4bc8f1" version="1">Sphère enflammée</content>
+  <content contentuid="h801b97f9g4502gf88bg4ee9g0f96cc7593cb" version="1">Invoque une sphère enflammée qui endommage les ennemis et les objets proches. Vous pouvez déplacer la sphère. Elle émet une lumière vive.</content>
+  <content contentuid="h7536b125g587egf807g2bb6g54afc67b9d88" version="1">Appel de familier</content>
+  <content contentuid="h34b5f25dgf340g1eb4gbaebge4efaccfc31f" version="1">Invoquez un familier, un esprit féerique qui prend la forme d'un animal de votre choix.</content>
+  <content contentuid="h0bd25001ge74dg7c6dg066fgd80bf27774ab" version="1">Appel de familier : Chat</content>
+  <content contentuid="h7307fd5cga932gb626g5b5dg576b6e8d2091" version="1">Invoque un familier félin qui peut &lt;LSTag Type="Spell" Tooltip="Shout_Distract_Cat_Summon"&gt;Miauler&lt;/LSTag&gt; pour distraire les ennemis.</content>
+  <content contentuid="h47bf1bf4gbad9g6309g7b3bga9cd8053e8af" version="1">Appel de familier : Crabe</content>
+  <content contentuid="ha1f4ec0fg7712gea4bg3018gca46b040086c" version="1">Invoque un familier crustacé qui peut ralentir les ennemis avec sa &lt;LSTag Type="Spell" Tooltip="Target_CripplingPinch_Crab_Summon"&gt;Pince&lt;/LSTag&gt;.</content>
+  <content contentuid="hedf0fc82g43a2g1ea8g6962gffd039200608" version="1">Appel de familier : Grenouille</content>
+  <content contentuid="hb8abe572gb0a0g7157g584cg41d15e3a700f" version="1">Invoquez un familier amphibien qui peut répandre sa &lt;LSTag Type="Spell" Tooltip="Target_Bufotoxin_Frog_Summon"&gt;Bufotoxine&lt;/LSTag&gt; aux ennemis.</content>
+  <content contentuid="h5ffd3976g52dfg8a95g5c8fge093ba761d39" version="1">Appel de familier : Rat</content>
+  <content contentuid="he980c08ag8927gb606g5ee6g8a2f4c9bb422" version="1">Invoquer un familier rongeur avec une &lt;LSTag Type="Spell" Tooltip="Target_Bite_Rat_Summon"&gt;Morsure infectieuse&lt;/LSTag&gt;.</content>
+  <content contentuid="hebdd60c9g561cg502eg7a89gba8bc155da2f" version="1">Appel de familier : Corbeau</content>
+  <content contentuid="hc03fc959g7489g7997ged81g6329e8752533" version="1">Invoque un familier corvidé qui peut &lt;LSTag Type="Spell" Tooltip="Target_RendVision_RavenFamiliar_Summon"&gt;Aveugler&lt;/LSTag&gt; les ennemis avec son bec.</content>
+  <content contentuid="h5b1b120agecf1g02e1ge3f2g2a9484de1111" version="1">Appel de familier : Araignée</content>
+  <content contentuid="h674b3492gdaf6g3646g6b77ge55b9eadc121" version="1">Invoquer un familier arthropode avec une &lt;LSTag Type="Spell" Tooltip="Target_Bite_TinySpider_Familiar"&gt;Morsure&lt;/LSTag&gt;  empoisonnée.</content>
+  <content contentuid="hef38b572g41bbg3056g9639g8942007db8b8" version="1">Invoque un familier crustacé qui peut ralentir les ennemis avec sa &lt;LSTag Type="Spell" Tooltip="Target_CripplingPinch_Crab_Summon"&gt;Pince&lt;/LSTag&gt;.</content>
+  <content contentuid="hb6fba00cg9cc0gc7c4g8605g21e1e28b6f23" version="1">Appel de familier : Crabe</content>
+  <content contentuid="h03f3181dg6213g16adgcbc9g411fe29ef8aa" version="1">Invoquez un familier amphibien qui peut répandre sa &lt;LSTag Type="Spell" Tooltip="Target_Bufotoxin_Frog_Summon"&gt;Bufotoxine&lt;/LSTag&gt; aux ennemis.</content>
+  <content contentuid="h8f35f57fg24d3g0930g9ec7g2967010a1772" version="1">Appel de familier : Grenouille</content>
+  <content contentuid="h54370dc6g0cd2gb00fg5a6bg50c399ec7818" version="1">Invoquer un familier rongeur avec une &lt;LSTag Type="Spell" Tooltip="Target_Bite_Rat_Summon"&gt;Morsure infectieuse&lt;/LSTag&gt;.</content>
+  <content contentuid="h4452cb0cgf35egd962gb8e9g26b849ceb193" version="1">Appel de familier : Rat</content>
+  <content contentuid="h55a03b3cgd5d0gb749g764dgba85403c715a" version="1">Invoque un familier corvidé qui peut &lt;LSTag Type="Spell" Tooltip="Target_RendVision_RavenFamiliar_Summon"&gt;Aveugler&lt;/LSTag&gt; les ennemis avec son bec.</content>
+  <content contentuid="hfc13e8a2g6512gaa13g7d00gc90af5efcb9c" version="1">Appel de familier : Corbeau</content>
+  <content contentuid="h932652dcg27fag8e81ga14fg1b247089885c" version="1">Invoquer un familier arthropode avec une &lt;LSTag Type="Spell" Tooltip="Target_Bite_TinySpider_Familiar"&gt;Morsure&lt;/LSTag&gt;  empoisonnée.</content>
+  <content contentuid="h9270af1fga88dg6ee0g4865g66980a4e2c79" version="1">Appel de familier : Araignée</content>
+  <content contentuid="h9010c2fcgc297g4483g8f04gd24f4d32c663" version="1">Appel de familier : Diablotin</content>
+  <content contentuid="hf1ddb489g2caeg5377g6588gfd08a0fb83e3" version="1">Invoque un familier ayant la forme d'un diablotin qui peut voler, devenir Invisible et utiliser son &lt;LSTag Type="Spell" Tooltip="Target_Sting_Imp_Summon"&gt;dard&lt;/LSTag&gt; sur les ennemis.</content>
+  <content contentuid="ha2c181e2g7031g97c9gc744g041b55264580" version="1">Appel de familier : Quasit</content>
+  <content contentuid="hc2cb98e3ga1e1g36fdg6384gd2a9291942bc" version="1">Invoque un familier ayant la forme d'un quasit qui peut devenir Invisible et peut &lt;LSTag Type="Spell" Tooltip="Target_Scare_Quasit_Summon"&gt;Effrayer&lt;/LSTag&gt; les ennemis.</content>
+  <content contentuid="hcb8c820fg759agd318gd83eg3f4d3b3605ee" version="1">Invocation de compagnon</content>
+  <content contentuid="hafed8cdegf038g83bag79e6g76ce46334b37" version="1">Obtenez un compagnon animal qui vous accompagne dans vos aventures et se bat à vos côtés.</content>
+  <content contentuid="h36c51cc3gbdafg05d7gbe47g5aaaef430fb9" version="1">Compagnon ours</content>
+  <content contentuid="h00e48631g78c7g3974gfee6gdbf48f08ec18" version="1">Invoquez un ours noir capable d'encaisser de lourdes attaques et d'attirer l'attention de l'ennemi avec son &lt;LSTag Type="Spell" Tooltip="Shout_GoadingRoar_Bear_Summon"&gt;Rugissement provocateur&lt;/LSTag&gt;.</content>
+  <content contentuid="he9163f2egd42dg975ag0421ga4203fc5c617" version="1">Compagnon sanglier</content>
+  <content contentuid="h01feee45ga873gcffegda61g390e0d0aa624" version="1">Invoquez un sanglier qui peut traverser le champ de bataille et faire tomber les ennemis avec sa &lt;LSTag Type="Spell" Tooltip="Rush_Rush_Boar_Summon"&gt;Charge&lt;/LSTag&gt;.</content>
+  <content contentuid="h2a95726ag1b29g3771gd450g61c7b7001658" version="1">Compagnon : Araignée-loup</content>
+  <content contentuid="hf50ccb67g2e65g1af2g71b7g785378cceb45" version="1">Invoque une araignée-loup qui peut &lt;LSTag Type="Spell" Tooltip="Target_Web_Spider_Summon"&gt;Entoiler&lt;/LSTag&gt; et empoisonner les ennemis avec sa &lt;LSTag Type="Spell" Tooltip="Target_Bite_GiantSpider_Summon"&gt;Morsure&lt;/LSTag&gt;.</content>
+  <content contentuid="h9db2efa6g1370g9b6fgf863g6973e3034081" version="1">Compagnon : Corbeau sanguinaire</content>
+  <content contentuid="hb1d5f92fg67ecga5d8ga61egabd52d179a6e" version="1">Invoquez un grand corbeau qui peut voler et &lt;LSTag Type="Spell" Tooltip="Target_RendVision_Raven_Summon"&gt;Aveugler&lt;/LSTag&gt; les ennemis.</content>
+  <content contentuid="h7a082cf9g4021gffc2g84e7gfd21a0abf56a" version="1">Compagnon : Loup</content>
+  <content contentuid="h76f12bcegd4b6g0ef3ga716g529a96b83666" version="1">Invoquez un loup qui peut infliger des blessures dévastatrices et assommer les ennemis avec sa &lt;LSTag Type="Spell" Tooltip="Target_Bite_Wolf_Summon"&gt;Morsure agressive&lt;/LSTag&gt;.</content>
+  <content contentuid="hcefc5cc5g5e83ge227gacdcg8421f47cdb24" version="1">Invoquer Quasit</content>
+  <content contentuid="h22e0b9d2g1197ga740gaa81ge3002ed1cc6f" version="1">Animation des morts : Squelette</content>
+  <content contentuid="h788cf2a5g5aa0ga349g5e4dg6f493431f74d" version="1">Créez un squelette spécialisé dans le combat à distance.</content>
+  <content contentuid="h984285bcgedc2g1e3bgb0a7g63d482d8bc98" version="1">Animation des morts : Zombie</content>
+  <content contentuid="h8684e6ecg3292g151cg22d7g9fe38b8b2677" version="1">Créez un zombie spécialisé dans le combat de mêlée.</content>
+  <content contentuid="h05132bd9ga9dfgb0d5gdc4cg22f63700dc72" version="1">Créez 3 squelettes spécialisés dans le combat à distance.</content>
+  <content contentuid="h46bc9aeag7cc1g4b95gf07fgd8af6f3cca0d" version="1">Animation des morts : Escouade de squelettes</content>
+  <content contentuid="h75c26960g7fc3ga7e7gb8d0ga0152b25cbf2" version="1">Créez 3 zombies spécialisés dans le combat de mêlée.</content>
+  <content contentuid="h8ca34304g77e1g8ac4ge8f7g3aa51e605b10" version="1">Animation des morts : Bataillon de zombies</content>
+  <content contentuid="hf956dcb4g2016g0551ga149g4015dc09ef27" version="1">Créez une goule spécialisée dans le combat de mêlée.</content>
+  <content contentuid="h95f41fa0g86b4ga7e5ga63cg19f95088ac39" version="1">Animation des morts : Goule</content>
+  <content contentuid="hd30e989fg2395gb9ccgbeb3g0589ee566e85" version="1">Créez une goule volante spécialisée dans le combat à distance.</content>
+  <content contentuid="hf5106478g17e8gb0c9g7c04g0a050aaedb8e" version="1">Animation des morts : Goule volante</content>
+  <content contentuid="hecc98ab8ge170g5065ge0ceg71b2348f29e1" version="1">Créez 3 goules spécialisées dans le combat de mêlée.</content>
+  <content contentuid="hc224531bga11agabacg0b0fg5a0f2bccc011" version="1">Animation des morts : Meute de goules</content>
+  <content contentuid="h7e37a89eg121cg2e57gf099ga97476b4feeb" version="1">Créez 3 goules volantes spécialisées dans le combat à distance.</content>
+  <content contentuid="hc2bd65cdg5462g0a2cg134cg2a04538325d2" version="1">Animation des morts : Volée de goules volantes</content>
+  <content contentuid="h35038618g7a3bgb58fg6f96g66659e2a9bf0" version="1">Œil arcanique</content>
+  <content contentuid="h87aa2050g8080gc61cg1fe5gc7fb0151c104" version="1">Créez un œil invisible et magique capable de repérer le chemin à suivre à votre place.</content>
+  <content contentuid="hcd75a20bgd9dage315gf9ffgb90534cc3a9f" version="1">Invocation d'élémentaire</content>
+  <content contentuid="hc59c693fg8946gf00bg8514ge57daebea49f" version="1">Faites plier la barrière entre les Plans jusqu'à ce qu'il en ressorte un allié élémentaire qui vous suivra et se battra pour vous.</content>
+  <content contentuid="h7fd164b5g99efg52ddg1b01g31a8255444cb" version="1">Invocation d'élémentaire : Élémentaire de l'air</content>
+  <content contentuid="h176d7c62gf3a9g18abg5d81g6b9fa42a87b2" version="1">L'élémentaire d'air peut utiliser &lt;LSTag Type="Spell" Tooltip="Shout_Whirlwind_Elemental_Air"&gt;Bourrasque primordiale&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Projectile_AirBlast_Elemental_Air"&gt;Violent souffle d'air&lt;/LSTag&gt; et peut &lt;LSTag Type="Status" Tooltip="SHOCKED"&gt;Électrocuter&lt;/LSTag&gt; les ennemis.</content>
+  <content contentuid="hdfd1ac0eg310egbd44g5b63g4021a6cb5c1b" version="1">Invocation d'élémentaire : Élémentaire de la terre</content>
+  <content contentuid="hf0ef76f7g0543g8ca6gcb64gc1820d72dac3" version="1">L'élémentaire de terre peut utiliser &lt;LSTag Type="Spell" Tooltip="Shout_SeismicStrike_Elemental_Earth"&gt;Attaque sismique&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_Slam_Elemental_Earth"&gt;Glissement de terrain&lt;/LSTag&gt; et peut créent des surfaces de boue lorsqu'il frappe les ennemis.</content>
+  <content contentuid="h9070577eg6c5fg3430gc6dbgb3c1462b1c32" version="1">Invocation d'élémentaire : Élémentaire du feu</content>
+  <content contentuid="h620dcd89g0ff3g7f18g8fa1g07d869b9b5cd" version="1">L'élémentaire de feu peut utiliser &lt;LSTag Type="Spell" Tooltip="Target_SmolderingTouch_Elemental_Fire"&gt;Toucher de flamme&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Projectile_EruptingCinder_Elemental_Fire"&gt;Éruption de cendres&lt;/LSTag&gt;, et peut infliger &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Brûlure&lt;/LSTag&gt; aux ennemis.</content>
+  <content contentuid="hd9a24033g2dddg75beg7c49g48794df47e05" version="1">Invocation d'élémentaire : Élémentaire de l'eau</content>
+  <content contentuid="h824f9e70gff8ag4496g4114g8e59f9d86653" version="1">L'élémentaire d'eau peut utiliser &lt;LSTag Type="Spell" Tooltip="Zone_WintersBreath_Elemental_Water"&gt;Souffle hivernale&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_Slam_Elemental_Water"&gt;Grand coup&lt;/LSTag&gt; et peut, avec ses poings, infliger des dégâts de froid aux ennemis.</content>
+  <content contentuid="h0cbd9647g1f69g218bg9e62gd9cb68d7669f" version="1">Invocation d'élémentaire : Myrmidon de l'air</content>
+  <content contentuid="h83e9e80cg797fg88c4g94cdg7aa25f919620" version="1">Le myrmidon peut lancer &lt;LSTag Type="Spell" Tooltip="Target_Invisibility"&gt;Invisibilité&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_LightningStrike_Myrmidon_Air"&gt;Fléau d'armes électrifié&lt;/LSTag&gt; et &lt;LSTag Type="Spell" Tooltip="Target_RagingVortex_Myrmidon_Air"&gt;Vortex déchaîné&lt;/LSTag&gt;.</content>
+  <content contentuid="h36c3fd7cg5af9g9fdbg4d8eg32010aa37f62" version="1">Invocation d'élémentaire : Myrmidon de la terre</content>
+  <content contentuid="h63fd0556g86eege596g25d0g6ccec3a3aaec" version="1">Le myrmidon peut lancer &lt;LSTag Type="Spell" Tooltip="Shout_MetalCoating_Myrmidon_Earth"&gt;De la boue au métal&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_MudSlap_Myrmidon_Earth"&gt;Fronde de boue&lt;/LSTag&gt; et &lt;LSTag Type="Spell" Tooltip="Target_Burrow_Myrmidon_Earth"&gt;Galerie&lt;/LSTag&gt;.</content>
+  <content contentuid="hb697659egf75fg4ea0gfd66g3d8cb1213fef" version="1">Invocation d'élémentaire : Myrmidon du feu</content>
+  <content contentuid="h72a48fc6g352fgc203g3791g28c396448fcc" version="1">Le myrmidon peut lancer &lt;LSTag Type="Spell" Tooltip="Target_FieryStrike_Myrmidon_Fire"&gt;Frappe ardente&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_BurningRage_Myrmidon_Fire"&gt;Immolation du Myrmidon&lt;/LSTag&gt; et &lt;LSTag Type="Spell" Tooltip="Zone_RangedSwipe_Myrmidon_Fire"&gt;Frappe des cendres&lt;/LSTag&gt;.</content>
+  <content contentuid="h10be6cc1gca04gb526g31c7g5d662df17c07" version="1">Invocation d'élémentaire : Myrmidon de l'eau</content>
+  <content contentuid="hac67bb08g1407g792eg3fa9gd120dc9d753a" version="1">Le myrmidon peut lancer &lt;LSTag Type="Spell" Tooltip="Target_FreezingStrike_Myrmidon_Water"&gt;Frappe de Hiemal&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_HealingMist_Myrmidon_Water"&gt;Vapeurs curatives&lt;/LSTag&gt; et &lt;LSTag Type="Spell" Tooltip="Projectile_ExplosiveIcicle_Myrmidon_Water"&gt;Tridents explosifs&lt;/LSTag&gt;.</content>
+  <content contentuid="ha797f76dg3bd6g842agb1d2gf1561f68f50e" version="1">Invocation d'élémentaires mineurs</content>
+  <content contentuid="h6bf63846g8527geed6ga8e4g43d32bd4fbe9" version="1">Invoque un élémentaire mineur pour combattre à vos côtés.</content>
+  <content contentuid="h5792da56gbf9eg3f20g42f7gcaa53fccd01c" version="1">Invocation d'élémentaires mineurs : Azer</content>
+  <content contentuid="h7c837cdfge8e4g259cg207eg67ebee19ce0d" version="1">Invoque un azer du Plan du feu. Il inflige des dégâts contendants et de feu avec son marteau de guerre et peut utiliser &lt;LSTag Type="Spell" Tooltip="Shout_Overheat_Azer"&gt;Surchauffe&lt;/LSTag&gt;.</content>
+  <content contentuid="h9b9bbbf4ga665g7688ga9f3g89f007a8fc13" version="1">Invocation d'élémentaires mineurs : Méphites gelés</content>
+  <content contentuid="hd180a6d0ga30ag8607g15f5ga684a85f2113" version="1">Invoque deux méphites de glace à partir du Chaos élémentaire. Ils peuvent lancer &lt;LSTag Type="Spell" Tooltip="Projectile_ChromaticOrb_Cold"&gt;Orbe chromatique : Froid&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Zone_IceMephit_IceBreath"&gt;Souffle gelée&lt;/LSTag&gt; et &lt;LSTag Type="Spell" Tooltip="Shout_DeathBurst_Chosen_IceMephit"&gt;Explose&lt;/LSTag&gt; lorsqu'ils meurent.</content>
+  <content contentuid="hf6b90ff3g73fega1f3ge641g4ec5c56ea99a" version="1">Invocation d'élémentaires mineurs : Méphites boueux</content>
+  <content contentuid="h254164a3g462ag611dg7d68g76dd6b93d64a" version="1">Invoque deux méphites de boue à partir du Chaos élémentaire. Ils peuvent lancer &lt;LSTag Type="Spell" Tooltip="Zone_Mephit_MudBreath"&gt;Souffle boueux&lt;/LSTag&gt; et &lt;LSTag Type="Spell" Tooltip="Shout_DeathBurst_Chosen_MudMephit"&gt;Explode&lt;/LSTag&gt; lorsqu'ils meurent.</content>
+  <content contentuid="h92d0a897gbb41g91a7g6d48gdccb6f1c2ae6" version="1">Invocation de Nous</content>
+  <content contentuid="hb3662de9gd271gc33agb168g5c0dfefb4b09" version="1">Invoquez Nous pour combattre à vos côtés.</content>
+  <content contentuid="hbf3fea84g955fg73e0g5499g44af6a6cef0d" version="1">Invocation d'êtres sylvestres</content>
+  <content contentuid="h005e0373gb052ge8e7g5447gdd7015b58eae" version="1">Invoquez une dryade pour combattre à vos côtés. Elle peut utiliser &lt;LSTag Type="Passive" Tooltip="NaturesStep_Dryad"&gt;Pas de la nature&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_Entangle"&gt;Enchevêtrement&lt;/LSTag&gt; et &lt;LSTag Type="Spell" Tooltip="Target_Summon_WoodWoad_Dryad"&gt;Invoquer&lt;/LSTag&gt; une guède de bois.</content>
+  <content contentuid="he231a4e4ged45g8eb5g11b7g381c06acfc25" version="1">Appel de familier : Boo</content>
+  <content contentuid="h009fc80bg64fcg3ffdgc651g226d0cba1713" version="1">Appelez votre adorable, parfois violent et surtout fidèle compagnon, Boo.</content>
+  <content contentuid="haa63b1d6g4bd8gaeaagd18dg2111d2a3becc" version="1">Appel de familier : Gratouille</content>
+  <content contentuid="h3c392f12g496fge2b9g10aeg363be9482d53" version="1">Faites venir le meilleur des compagnon. La truffe de Gratouille permet de découvrir de nombreuses choses cachées dans le monde.</content>
+  <content contentuid="h93330759g002bgcfc5g7164g089c134d50dc" version="1">Ailes noires</content>
+  <content contentuid="h18c6fabfge2c0g1142g8195g932a5822cc9b" version="1">Invoquer deux &lt;LSTag Type="Status" Tooltip="SWARM_RAVEN"&gt;corbeaux&lt;/LSTag&gt; vous épaulant durant vos explorations. Vous ne pouvez pas les contrôler directement.</content>
+  <content contentuid="h4c314ad1g59fcgd191g7374gec62923310e7" version="1">Création de mort-vivant</content>
+  <content contentuid="h52510355g6a57g5cc2g0613g9cf934ab9870" version="1">Réveillez un cadavre en le transformant en une odieuse momie qui se battra à vos côtés.</content>
+  <content contentuid="hd88a923dge2ffg7fbeg07b9g680e8fea67f6" version="1">Allié planaire</content>
+  <content contentuid="hc7d8f6b5g9839g3482g3ff2gdf9d16301c5c" version="1">Demandez de l'aide à l'une de ces entités d'un autre monde.</content>
+  <content contentuid="hae03af8dg38cfge6c2ga3b3g1c04a39bbac2" version="1">Invoquez un puissant djinn pour combattre à vos côtés. Il peut lancer &lt;LSTag Type="Spell" Tooltip="Target_Whirlwind_Djinni"&gt;Coup de vent des damassines&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Zone_Thunderwave_Djinni"&gt;Vague tonnante&lt;/LSTag&gt; et &lt;LSTag Type="Spell" Tooltip="Zone_Inhale_Djinni"&gt;Inhalation enivrante&lt;/LSTag&gt;.</content>
+  <content contentuid="h84c18133g06d6ga8cfgdb59gfa6cbfdee520" version="1">Allié planaire : Djinn</content>
+  <content contentuid="h72d577c9g9f1ag89fdgc535g18a4356736d3" version="1">Invoquez un Déva pour combattre à vos côtés. Il peut lancer &lt;LSTag Type="Spell" Tooltip="Target_Wrathful_Smite_Deva"&gt;Châtiment courroucé&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Teleportation_Revivify"&gt;Retour à la vie&lt;/LSTag&gt; et &lt;LSTag Type="Spell" Tooltip="Target_ConcussiveSmash"&gt;Attaque commotionnante&lt;/LSTag&gt;.</content>
+  <content contentuid="h70618122gcc62g0dc4g3126g24e0f86ac48b" version="1">Allié planaire : Déva</content>
+  <content contentuid="ha23465cag3d28g04b6g1c39gb8df67a5567d" version="1">Invoquez un Cambion diabolique pour qu'il se batte à vos côtés. Il peut lancer &lt;LSTag Type="Spell" Tooltip="Target_FiendishCharm_Cambion"&gt;Charme fiélon&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_DrainingKiss_Cambion"&gt;Baiser affaiblissant&lt;/LSTag&gt; et &lt;LSTag Type="Spell" Tooltip="Projectile_FireRay_Cambion"&gt;Rayons de feu&lt;/LSTag&gt;.</content>
+  <content contentuid="hf0b364b4g0bb4g8a77gcd50g78b6f239e470" version="1">Allié planaire : Cambion</content>
+  <content contentuid="h1af9810dgd026ga67egd66cg04c903db4f48" version="1">Arme spirituelle</content>
+  <content contentuid="h8a5aba52gbc06g9de8g514eg18b92374805b" version="1">Invoquez une arme spectrale flottante qui attaque les ennemis.</content>
+  <content contentuid="h60170392g7bc7g5b3fg4082g383bb20f065b" version="1">Arme spirituelle : Hache à deux mains</content>
+  <content contentuid="he0e2b0e9g918dg3824g3502gb130755adf09" version="1">Créez une hache à deux mains flottante et spectrale.</content>
+  <content contentuid="h22c3a79ag1445ged11g8ccdg4a83f66d5850" version="1">Arme spirituelle : Épée à deux mains</content>
+  <content contentuid="h07465d58g1a56gb97bg30d0gd3c81361ade8" version="1">Créez une épée à deux mains flottante et spectrale.</content>
+  <content contentuid="h3e379ecdg2ccdg69fag747ag9bafbb65c07d" version="1">Arme spirituelle : Hallebarde</content>
+  <content contentuid="hf2947eb8ge823gdb55ge46fgd35fa1b115b8" version="1">Créez une hallebarde flottante et spectrale.</content>
+  <content contentuid="haa2681f1g6f3bg5556ge67cgb97bc54dc447" version="1">Arme spirituelle : Maillet</content>
+  <content contentuid="hb836ee22g89f7ga267g3eafgc03b12be3714" version="1">Créez un maillet flottant et spectral.</content>
+  <content contentuid="h499a7c73g4b24gbe52gf518g573dfe2c0425" version="1">Arme spirituelle : Lance</content>
+  <content contentuid="h6dff00d9g6219gbbe3g29e3g93eac34ac318" version="1">Créer une lance flottante et spectrale.</content>
+  <content contentuid="h89628bf8g3590gbe28gc234g8c176be29a9c" version="1">Arme spirituelle : Trident</content>
+  <content contentuid="hf652c8a6gda8agf28egaef7gde47298506fe" version="1">Créer un trident flottant et spectral.</content>
+  <content contentuid="h791e2665g42b5gf806ga4ceg77ad8cc51dc1" version="1">Robustesse de la non-vie</content>
+  <content contentuid="h3aa07e84gd117g00ddg0b9bgd101fbd11886" version="1">Si le coup mortel n'était pas un coup critique ou avec des dégâts radiants, ce mort-vivant revient à la vie avec 1 point de vie.</content>
+  <content contentuid="h9bc0c51ag013fgb7dag2c69g5dd579ae5486" version="1">Mort-vivant</content>
+  <content contentuid="h563dcffagd91eg469fg3cb1g72351fa7e11b" version="1">Cette créature ne vit plus et n'a donc plus besoin de respirer, de manger, de boire ou de dormir.</content>
+  <content contentuid="hcd9cddf6g268cg54cagbe55g076a8e16db76" version="1">Serviteurs morts-vivants : Invocations puissantes</content>
+  <content contentuid="h07dfb61fg0885g5976g13f5g4f5769776e5a" version="1">Les créatures créées avec &lt;LSTag Type="Spell" Tooltip="Target_AnimateDead"&gt;Animation des morts&lt;/LSTag&gt; ont des points de vie supplémentaires égaux à votre niveau du lanceur de sorts et votre &lt;LSTag Tooltip="ProficiencyBonus"&gt;Modificateur de maîtrise&lt;/LSTag&gt; est ajouté à leurs dégâts.</content>
+  <content contentuid="he4e04056gfbbbg5579g51eeg64b725efdc29" version="1">Contrôle d'un mort-vivant</content>
+  <content contentuid="h168fcbc5gc58cg1261g8160g97fd53812179" version="1">Ce mort-vivant est sous le contrôle d'un paladin. Il suivra le paladin et attaquera ses ennemis.</content>
+  <content contentuid="h6b6bef84geab7gc13eg9a97gbeb77f8e1530" version="1">L'élu du chirurgien</content>
+  <content contentuid="h22a85652g17bdg84c7g5d50ga2d9afd8cfa4" version="1">Transporter l'outil demandé par le chirurgien pour réaliser son intervention.</content>
+  <content contentuid="ha8fa5140g157bg7a63gc6fag9e24d73e1822" version="1">%%% EMPTY</content>
+  <content contentuid="hb3c636f2g7640g63aagc675g4e854292861b" version="1">UndeadThrall_BetterSummonOverride</content>
+  <content contentuid="h6565b327ga32eg5f1bg8217g193a12f7fdf8" version="1">UndeadThrall_BetterSummonOverride</content>
+  <content contentuid="h745d1bb5gabfdge5a4g8efbgf5adc10847c1" version="1">UndeadFortitudeOverride</content>
+  <content contentuid="hb5abde6cg80ebg9d10g6294gf83e61ab30d4" version="1">UndeadFortitudeOverride</content>
+  <content contentuid="h94026ab0g9b2dg1133g350bg956121794ff1" version="1">Renforts ursidés</content>
+  <content contentuid="hf28dbef7ga9adg1a4dg50a4g5d7d97b77907" version="1">Invoquez un ours pour qu'il se batte à vos côtés.</content>
+  <content contentuid="hafeb586fg43f5g6732gfa4dg65a74445c1bb" version="1">Ailes noires</content>
+  <content contentuid="h11648e9fg43e6g136cgc463g1e12f0346040" version="1">Des corbeaux malveillants qui agiront de leur propre volonté.</content>
+  <content contentuid="hf8d69059g9769g105fgaef9g3c4c7f573557" version="1">Esclave mort-vivant</content>
+  <content contentuid="h360bdc4fgdbdcgb60eg0777g6f634f3f7def" version="1">Une créature créée avec l'Animation des morts. Elle dispose de points de vie supplémentaires basés sur le niveau du lanceur de sorts et d'un modificateur de maîtrise sur les jets de dégâts.</content>
+  <content contentuid="h77818055g9d4eg5e51gb76dg9e0a4b4c34ca" version="1">Contrôlé</content>
+  <content contentuid="hbfc3ef86gde0cgbe79g6b3cg7a1a4c4bf82e" version="1">Ce mort-vivant est sous le contrôle d'un paladin. Il suivra le paladin et attaquera ses ennemis.</content>
+  <content contentuid="h191e81d9ge674g6fd7g6975g19e575a7f9a1" version="1">Horde rongeuse</content>
+  <content contentuid="he6294f81g04fbg4fe6gb30fg2008a753936c" version="1">Des Goules voraces qui se battent à vos côtés.</content>
+  <content contentuid="hf1eb5514g8651g803agf039g425643b92c68" version="1">%%% EMPTY</content>
+  <content contentuid="h99fe5e7agac82g8b3fg90e0g8779f249b2ae" version="1">%%% EMPTY</content>
+  <content contentuid="h7a985b84g2e12g697fg3a47g803d4399940f" version="1">%%% EMPTY</content>
+  <content contentuid="h49f50c1cgfce8g196dg53c0g329f79d445fc" version="1">Gardien de la foi</content>
+  <content contentuid="h0ecc9e6fg5099g5f88g39bfg626b4766bf1c" version="1">Gardien de la foi</content>
+  <content contentuid="hf2892073g2cedgcab3g4a01gbc91e98f6ab8" version="1">Gardien de la foi</content>
+  <content contentuid="h50f3d668g82eeg3035gae4dgebddaad1e490" version="1">Animation des morts</content>
+  <content contentuid="h6e2a9e1bg44f2ge2b0g917bg77d071a679a0" version="1">Animez un tas d'os ou un cadavre pour qu'il vous serve.</content>
+  <content contentuid="hc2358383g7883ga617gf8d4g488c838d58fd" version="1">Animer par les spores</content>
+  <content contentuid="hc82949a2g268bgc046gb85bg50faaccea5de" version="1">Libérez des spores sur un cadavre pour l'animer et en faire un serviteur de spores sous votre commandement.</content>
+  <content contentuid="h8cba2266g95c0g44e0g3a92g0bd8effcc236" version="1">Infestation fongique</content>
+  <content contentuid="h203dadd7g6185g36ceg095dgdfd26b50b9ad" version="1">Lorsqu'un ennemi meurt, transformez son cadavre en un zombie couvert de moisissures.</content>
+  <content contentuid="h6ecbaa79g208ag4dfeg8feeg60beceaa2dfd" version="1">%%% EMPTY</content>
+  <content contentuid="hcd21b72eg752dg8341gf49dg8df0c03c4613" version="1">Serviteur des spores</content>
+  <content contentuid="h131f83aeg6a3ege588ga67bg3fb725dc934b" version="1">Les spores animatrices d'un souverain myconide ont pris possession du corps de cette créature morte, qu'elles déplacent selon la volonté du souverain.</content>
+  <content contentuid="h79e862a1gc483g9888gd8eeg62e277980dcf" version="1">Aura enflammée</content>
+  <content contentuid="hf74916c3g027bgc617g78f5g51ece126031b" version="1">La créature se trouve à moins de [1] d'une sphère enflammée et prend [2] à la fin de son tour. En cas de sauvegarde réussie, elle subit la moitié des dégâts.</content>
+  <content contentuid="h7b43f7eage5deg31efgaad3g8ff0da0f8bfe" version="1">Sphère enflammée</content>
+  <content contentuid="h45d0a9f5g8e34g014bg6778g32f999d450a4" version="1">Les ennemis et les objets situés à moins de [2] de la sphère à la fin de leur tour prennent [1]. En cas de sauvegarde réussie, ils subissent la moitié des dégâts.</content>
+  <content contentuid="he33da467gbec4ga6d0g4c19g567a0b045fd3" version="1">%%% EMPTY</content>
+  <content contentuid="h38de2245g24fagff66g78f1gde13bdb186d1" version="1">%%% EMPTY</content>
+  <content contentuid="h34e2aa46g600fg7710g71b4g30299bcee76d" version="1">Immobile</content>
+  <content contentuid="h8a17747fgb947g7c3egbcebg2d55b176043c" version="1">La sphère enflammée ne peut pas se déplacer à moins d'utiliser l'action bonus de son lanceur de sorts.</content>
+  <content contentuid="h7fc43abfgeecag5c7agb82cgc74d4ddae3b7" version="1">Gardien de la foi</content>
+  <content contentuid="h784f2b37g1480gdc12g06e2gda537d9bc345" version="1">Appelez un gardien divin qui inflige &lt;LSTag Type="Spell" Tooltip="Target_MainHandAttack_GuardianOfFaith"&gt;Frappe de gardien&lt;/LSTag&gt; aux ennemis proches. Chaque fois qu'il inflige des dégâts, le gardien perd un montant égal de &lt;LSTag Tooltip="HitPoints"&gt;Points de vie&lt;/LSTag&gt;.</content>
+  <content contentuid="h74b409f7ga415ge5d8g8dd9g203bbd78b6f4" version="1">Ancien amour</content>
+  <content contentuid="h7b92d81cge95agc5a0gb7d0g4a78f574cd3c" version="1">Invoquez une guède des bois liée à votre arbre pour qu'il se batte à vos côtés.</content>
+  <content contentuid="h973e8834g50cfgca10g86e2gda064e26bed7" version="1">Lanterne d'ombre : Invoquer un Spectre</content>
+  <content contentuid="h2ed9f71ag5eecg22c3gf458g6a45b328bd98" version="1">Extraire une créature mort-vivante des profondeurs de la magie dépravée de la Lanterne d'Ombre pour qu'elle rejoigne votre camp au combat.</content>
+  <content contentuid="hcbe5efa3g3236g95d9g9644gd23e8f008343" version="1">Deuxième mariage</content>
+  <content contentuid="hc87a7ab8g09e9gd3b0gca93g62732718d59b" version="1">Invoquez les restes du mari de Mayrina.</content>
+  <content contentuid="hfcece7c9g2278g220dg46f1gf5af60923c89" version="1">Exhorte le Ressuscité</content>
+  <content contentuid="h01cee5a8gf3d6g15a5ge809g115f3c6fa788" version="1">Soumettez les morts-vivants à vos ordres.</content>
+  <content contentuid="h07159a4cg6767g8bf0g34b4g3d811a5767f9" version="1">Touche macabre</content>
+  <content contentuid="h63ff8b36g06f3g047fg22b2g9226ea539ed9" version="1">Sethan : Réduire</content>
+  <content contentuid="h97b9fe41g6062g7427geeb7ge098877c2413" version="1">Sethan : Hache à deux mains spirituelle</content>
+  <content contentuid="h5bc4fb51g6beegb874g77d2ga1bd53c4fbd7" version="1">Invoquez un jumeau spirituel de Sethan à un endroit que vous pouvez voir, infligeant [1] sur un coup.</content>
+  <content contentuid="hdd6e0e66g9046gab41g26aegff1c5f80bb65" version="1">Main de mage</content>
+-  <content contentuid="h5c2c704cgea0fgd3b9g868eg5f420dbe4a6a" version="1">Créer une main spectrale capable de manipuler des objets et d'interagir avec eux.</content>
+-  <content contentuid="h01f04812g6612gfa87g6ef9g016ba63e01d7" version="1">Pouvoir psionique de githyanki : Main de mage</content>
+-  <content contentuid="h8a00cacbgf480g9841g7b83g188613c5c1f0" version="1">Créer une main spectrale invisible capable de manipuler des objets et d'interagir avec eux.</content>
+-  <content contentuid="he9145377g9fb3gf30bgce1ag5723dc0e2d63" version="1">Liane avide</content>
+-  <content contentuid="h45cd4388ga93bg426agca92gf65da961b32b" version="1">Invoque une liane géante capable d'attirer les créatures vers elle.</content>
+-  <content contentuid="h322cba17ge7fag0bf5gdfd8gde71d7c3771d" version="1">Rayon de lune</content>
+-  <content contentuid="hb89446e5g15b0ge540g1f8fg244aa11f276d" version="1">Appelle un faisceau de lumière lunaire qui endommage toute créature qui entre ou commence son tour dans la lumière. Vous pouvez utiliser une action pour déplacer le rayon [1].</content>
+-  <content contentuid="hb6341a54g84b6g9c4eg29ffgf25aae54919e" version="1">Rayon de lune : Déplacement</content>
+-  <content contentuid="h97c56445g7a5egcff2ga469gadfcf6c38ecf" version="1">Déplacez le faisceau de lumière lunaire jusqu'à [1]. Le rayon de lumière endommage toute créature qui entre ou commence son tour dans la lumière.</content>
+
+</contentList>

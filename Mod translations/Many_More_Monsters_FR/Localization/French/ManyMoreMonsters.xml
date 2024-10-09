@@ -26,7 +26,7 @@
 	<content contentuid="h7341c49cgca50g40a7ga8c4g356c5f22efec" version="1">Slegbezzle</content>
 	<content contentuid="h81ff1d74g1db6g4feagaecfg54bd2c4450a5" version="1">Voyeur gobelin professionnel</content>
 	<content contentuid="h5f851559g3dd2g4df3g9631geb1d9aa0bb08" version="1">Cette serviette est un peu détrempée et a une odeur... bizarre...</content>
-	<content contentuid="h5b53a934g6880g42abgbd42g88f087f750ce" version="1">L'ogre le plus maladroit</content>
+	<content contentuid="h5b53a934g6880g42abgbd42g88f087f750ce" version="1">L'ogre le plus maladroit du monde</content>
 	<content contentuid="hebaab843gf038g414ag966fg3e492b60d084" version="1">Serviette détrempée douteuse</content>
 	<content contentuid="h5f799638gc612g4c19g90efga0af30fc069d" version="1">Bonesnappah</content>
 	<content contentuid="h650862a2gec6fg4633ga268gf8f9e7af2d0a" version="1">Will-o'-Wisp</content>
@@ -101,7 +101,7 @@
 	<content contentuid="h7b1be0a8g2888g4dc0g95ddgde96af3451f5" version="1">Aura de déclenchement de Bulette 1</content>
 	<content contentuid="he218540dgdc86g4809gb6fcgbda109da2c4f" version="1">Aura de détection de Bulette 2</content>
 	<content contentuid="h0536dc65gdcebg45d7ga429gca3001708104" version="1">Aura de déclenchement de Bulette 2</content>
-	<content contentuid="h44760295ge57cg406fg823dg26e23a428262" version="1">Mega Mimique</content>
+	<content contentuid="h44760295ge57cg406fg823dg26e23a428262" version="1">Mégamique</content>
 	<content contentuid="hd4944a6bg7362g4af0g8411ga36d3e250148" version="1">Oof a glissé !</content>
 	<content contentuid="h6cd48362g053dg47d7ga763g48feba5bea03" version="1">Oof est tombé et a fait boom.</content>
 	<content contentuid="h354cad17g0278g45d9g993dg673b5183ab96" version="1">Maladroit</content>
@@ -120,7 +120,7 @@
 	<content contentuid="h1801b614g7200g423egaab7g0a55b26c9ebd" version="1">Il a tendance à tout gâcher.</content>
 	<content contentuid="h8c1fd0bega97ag4c3fg9fa3ge6074fa1131d" version="1">PV Randomisé</content>
 	<content contentuid="he2ab4b79g7d6dg47e1gb6ebg6b66a07aa988" version="1">L'esprits de la forge</content>
-	<content contentuid="h01b9fb09ga722g4b21g8e51g165abd13c625" version="1">La profanation de ce lieu peut provoquer la colère des esprits.</content>
+	<content contentuid="h01b9fb09ga722g4b21g8e51g165abd13c625" version="1">La profanation de ce lieu peut provoquer la colère de l'esprit de la machine.</content>
 	<content contentuid="hb2c010feg1b1eg419fg9d2bgf2ed3d5be7d1" version="1">Fulguropoing !</content>
 	<content contentuid="h11a503e2g637bg46a9g8f9cg068a0d610b33" version="1">Grym 2.0</content>
 	<content contentuid="hc94a827cg6de3g4273gaa11gd97ab295bcfd" version="1">L'esprit de la forge</content>
@@ -162,41 +162,97 @@
 	<content contentuid="h086b5a23gb552g449eg8b81g5c26ebd7ba46" version="1">Lathandre donne le pouvoir au maître de l'aube Vaseid de lancer Frappe de flammes !</content>
 	<content contentuid="hffd7ab2ag4c9fg41cfgad38g462fc47ae591" version="1">Lathandre donne le pouvoir au maître de l'aube Vaseid pour lancer des rayons de soleil !</content>
 	<content contentuid="he0644ffdg77a8g4ba8gb7b2g86a39868bb86" version="1">Le maître de l'aube Vaseid lance frappe de flammes dans les escaliers !</content>
-	<content contentuid="h008939bcgc53cg4019gb712g771462126079" version="1">Cocu</content>
+	<content contentuid="h008939bcgc53cg4019gb712g771462126079" version="1">Coqu</content>
 	<content contentuid="hbf7bbc37gde41g46a1gb53bg8ff3aed90b60" version="1">Lathandre donne le pouvoir au maître de l'aube Vaseid !</content>
 	<content contentuid="h0428c939g637eg4066ga658g6ae9c2ae103d" version="1">Malheureusement, vous ne le reconnaissez pas.</content>
 	<content contentuid="h4627f142g2a2cg48e0g9266g2f8917c2b32a" version="1">Magie du chaos</content>
 	<content contentuid="hc941079fgec2fg4851g807dg02056a8f725e" version="1">Vous ne savez pas quoi attendre de cette magie "tordue".</content>
 	<content contentuid="hf6f0a739g3f65g42e0g97aegc30401ca8f88" version="1">Vinly Desh</content>
-	<content contentuid="hac8f83cagb125g4b26g8157g67ff7113335d" version="1">Aime quand vous lui donnez un coup de main</content>
+	<content contentuid="hac8f83cagb125g4b26g8157g67ff7113335d" version="1">Adore donner des coups de mains</content>
 	<content contentuid="h55a1a753g3f63g468bg918bg16d7e196128b" version="1">Il faut environ 20 % de mains en plus !</content>
-	<content contentuid="h2d04da13g7833g42d5g91bfgfeac4aa4dc5b" version="1">On peut dire que je suis pratique à avoir autour de soi !</content>
+	<content contentuid="h2d04da13g7833g42d5g91bfgfeac4aa4dc5b" version="1">On peut dire que c'est pratique à avoir ça près de soi !</content>
 	<content contentuid="h17227372g24cbg43eegbad0gf18516910e3c" version="1">Je fais toujours mes achats d'occasion !</content>
-	<content contentuid="hdf72cab3gb02ag4d55gabc1g1182aa8c6625" version="1">Ma collection est devenue incontrôlable !</content>
-	<content contentuid="h041c13efg23c5g4331g9c9cg6b49c1ece889" version="1">Vous gérez très bien ce combat !</content>
-	<content contentuid="h7bdcddc9g79acg42c1gba6dg2f1c9d6f2090" version="1">Je ne suis qu'un mendiant à la recherche d'aides !</content>
+	<content contentuid="hdf72cab3gb02ag4d55gabc1g1182aa8c6625" version="1">Ma collection devient incontrôlable !</content>
+	<content contentuid="h041c13efg23c5g4331g9c9cg6b49c1ece889" version="1">Vous gérez très bien la bataille !</content>
+	<content contentuid="h7bdcddc9g79acg42c1gba6dg2f1c9d6f2090" version="1">Je ne suis qu'un mendiant, en attente de charité !</content>
 	<content contentuid="h1df55517gf827g43a9gb23fg5da0a0ae7f53" version="1">Ne vous inquiétez pas pour mes animaux, ils vont bien !</content>
 	<content contentuid="h7d02862fg1f4eg47e7g9f43g6e32bd632763" version="1">Bénédiction de Lathandre</content>
 	<content contentuid="h88d02f89g21c2g4b8cgba4egedbfe8fea673" version="1">Lathandre donne du pouvoir au maître de l'aube Vaseid, le rendant invulnérable et lui octroyant un puissant sort.</content>
 	<content contentuid="h8f6ae4f2g5153g4fefga23eg94ab2d395381" version="1">Yani</content>
 	<content contentuid="h17ddf8efgc89dg4988g926dgd9b8e7648789" version="1">Prisonnier</content>
 	<content contentuid="hd687428agad54g4f8fg87c4g96be185517d2" version="1">C'est notre chance, sortons d'ici !</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="h1e36a6ddg9d3ag4ac2g8bb5gea0c3aacb0fe" version="1">PV Variable</content>
+-	<content contentuid="he739c904g40f3g45b3g9d55g9c071d5a7414" version="1">Githyanki maudit par les ombres</content>
+-	<content contentuid="h053087f7g094ag46a8ga247gb924a10abbc0" version="1">Famille maudite par les ombres</content>
+-	<content contentuid="ha1c633f6gccc7g41b2ga24eg312c2ff133ae" version="1">Homme aux toilettes maudit par les ombres</content>
+-	<content contentuid="hffacf774g2884g4191gbb7fg6a39cd2fbc20" version="1">Druide agité</content>
+-	<content contentuid="ha19c305bge042g4d17g845eg721c914dba4f" version="1">Ménestrel agité</content>
+-	<content contentuid="h6b4af7ffgd3b8g42ebga2cag870ebd08159e" version="1">"...Nous...allons..."</content>
+-	<content contentuid="h30513e41g4555g48f3g92bcg524e474b7b08" version="1">"...stop..."</content>
+-	<content contentuid="h7e485f78g4b99g4c86g9c3fg8ead0b05e499" version="1">"...les...ténèbres..."</content>
+-	<content contentuid="ha8f76a2eg1158g4012g9c72ged0005babae3" version="1">Détruire cette pierre tombale mettra en colère les esprits de la forge - Active le mode anti-triche/mode difficile de Grym. Tuer Grym dans ce mode vous permet d'obtenir un animal de compagnie. En cours d'équilibrage.</content>
+-	<content contentuid="hf338ba8cge707g4f98g9144gd88cea4c5ba2" version="1">Convocation du modèle Grym-N. Ne se consomme pas à l'utilisation.</content>
+-	<content contentuid="h7cdde728gdeb1g4054g8162g318d1ae486d2" version="1">Druide maudit par les ombres</content>
+-	<content contentuid="hfaa209c9g9f5fg405eg8f7fg3b4db06a33ec" version="1">Ménestrel maudit par les ombres</content>
+-	<content contentuid="h66abd1cag0a0eg412bg8babg70d4b7d8580a" version="1">Mort-vivant imprégné par les ombres</content>
+-	<content contentuid="he382272ag1f07g482agb5b5gec7c480a231b" version="1">Quelque chose a poussé cet être maudit à s'imprégné des ombres environnante.</content>
+-	<content contentuid="h3d2b43a4g6ee4g40ccgbd1dge5c18be92d91" version="1">Druide imprégné par les ombres</content>
+-	<content contentuid="hc1fda8c3g5d2cg48eeg8339g584aba014a01" version="1">Ménestrel imprégné par les ombres</content>
+-	<content contentuid="h9db59951gef15g4775gab79g709bcbb11853" version="1">Villageois imprégné par les ombres</content>
+-	<content contentuid="h0c90b26cg0f4fg4590gb428g9667636d7d5c" version="1">"Ces mensonges sont vraiment lamentables, ces imbéciles... Ah, le hasard fait bien les choses !  Vous devriez être en mesure de tester ce nouveau sort."</content>
+-	<content contentuid="hc04e81ecg40e1g4920g8b1eg990b0c408411" version="1">""</content>
+-	<content contentuid="h1edac836ge5f1g486ega20fg2b507a35d172" version="1">Damon Eyesz</content>
+-	<content contentuid="h93d17240gfd92g4333gafcag8bf77aff3d1b" version="1">Rekin Ky</content>
+-	<content contentuid="h4723c9c4g9b9eg4c0agb3deg00baf541a46d" version="1">Edin Mesic</content>
+-	<content contentuid="h94b840a3ge66bg43b4g9425g829862494871" version="1">Farsee Yer</content>
+-	<content contentuid="h9465ea6age671g488ag98ffgaf5b78733ac9" version="1">Harry Ispup</content>
+-	<content contentuid="hb61ec40bg7f77g4cf6g8d4ag6281e48ead74" version="1">"...tue-moi..."</content>
+-	<content contentuid="h1a134e62ge777g43d1g8d92g7847800810c9" version="1">"...aidez-moi s'il vous plaît..."</content>
+-	<content contentuid="hf5aaf9a4g9b55g4dc3ga682g7ce1d0ff6f20" version="1">"...j'ai tellement peur..."</content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
+-	<content contentuid="" version="1"></content>
 
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
 </contentList>

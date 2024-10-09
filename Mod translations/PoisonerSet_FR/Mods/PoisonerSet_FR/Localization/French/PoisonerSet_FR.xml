@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h0dc6388fg6f53g8068g02e9g476e83db9d20" version="1">empoisonner</content>
+  <content contentuid="hfb2f336bg02f6gb80dg2d35ge5a6abf3926b" version="1">Chaque fois que vous infligez des dégâts, la cible doit réussir un &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt; de Constitution ou devenir &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Empoisonné&lt;/LSTag&gt;.</content>
+</contentList>
