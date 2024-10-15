@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hdf792024ga2cag3385ge9f6gaf5b6491e070" version="1">Toucher de feu</content>
+	<content contentuid="h5d9e0ebdg052dg4060g539dg41e8592473e6" version="1">Touchez un ennemi avec la force d'une boule de feu. Tous ceux qui se trouvent dans la zone subissent [1] et le lanceur de sorts a [2].</content>
+	<content contentuid="h19a5a826g50e8gd089gfea0g98bacb8afffa" version="2">Fluorescence</content>
+	<content contentuid="h06af2425g4e08g729dg8049g0c7e5f26b561" version="3">Toutes les cibles situées à l'intérieur de la lumière deviennent visibles, vos &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt; contre eux ont un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;, et vos &lt;LSTag Tooltip="AbilityCheck"&gt;Tests de compétences&lt;/LSTag&gt; en Investigation et en Perception pour les détecter gagnent +1d4.</content>
+	<content contentuid="h44b3bae3g8779g15e2g7c5fg4723500eb503" version="2">Trait électrique</content>
+	<content contentuid="h910d282ag8cb5g116dg9d8cg7c09a5afdb63" version="6">Frappez un ennemi avec la foudre. Un autre éclair se dirige vers une créature aléatoire située à moins de [1] de l'impact, infligeant [2].</content>
+	<content contentuid="h4cf68626ga99eg0d66g07a6g8bf0d6508894" version="2">Trophée</content>
+	<content contentuid="ha8ae7f42ge9c7g3421g6f10ge2c47199c794" version="6">Sélectionnez des cibles jusqu'à une valeur combinée de [1], elles se transforment en pierre ou, si vous avez de la chance, en or !</content>
+	<content contentuid="h19271c85g3197g2dfagf09dg55cbbcf82bd5" version="1">La cible deviendra &lt;LSTag Type="Status" Tooltip="PETRIFIED"&gt;Pétrifiée&lt;/LSTag&gt; si elle ne réussit pas son &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt; dans un délai de [1] tours.</content>
+	<content contentuid="h423e4078gaf04g26b0g1342gef9c765b2c3f" version="1">Fouet de l'onde</content>
+	<content contentuid="h00164e51g71cfg87fag9d82gfbe70b049a93" version="1">Tire éventuellement la cible vers soi ou la met &lt;LSTag Type="Status" Tooltip="PRONE"&gt;À terre&lt;/LSTag&gt;.</content>
+	<content contentuid="hc4cd7da0gc9fdg7396ga445g92c27cb1e4cf" version="1">Fouet de l'onde : Renversement</content>
+	<content contentuid="hf22ed959g786eg3eb4g33fbg2e6f29e80485" version="1">Utilisez le fouet de l'onde pour mettre la cible &lt;LSTag Type="Status" Tooltip="PRONE"&gt;À terre&lt;/LSTag&gt;.</content>
+	<content contentuid="hc35a32bag75e6geaffg8317g2bb0b515c94c" version="1">Flétrissement</content>
+	<content contentuid="h131f4151ge64cg0813g1d3dg0ce1e6051c4a" version="1">Les plantes subissent le maximum de dégâts avec ce sort, et ont un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur le &lt;LSTag Tooltip="SavingThrow"&gt;Jet de sauvegarde&lt;/LSTag&gt; contre lui.</content>
+	<content contentuid="h99352446g6cfbge71bgf9e3gd46d0a1846b9" version="1">Rayon blessant</content>
+	<content contentuid="h0d5d7be7g67aeg5141gace3g7208f3e57044" version="1">Tire un rayon oculaire qui inflige d'immenses dégâts.</content>
+	<content contentuid="h2242b372g54adg1b8ag4e70gb938e8dbecb4" version="1">Laser</content>
+	<content contentuid="h5a56e36cgae09gbb2dg17fcg42386721fa72" version="1">Tire un rayon oculaire qui inflige des dégâts.</content>
+	<content contentuid="hf22ded09gaf28g23ddg6b7egd60d9c6528b7" version="1">Sommeil</content>
+	<content contentuid="h73071de8g7eb7g16b3g6126g654d273a0e5c" version="1">Plongez les créatures dans un sommeil magique. Sélectionne des cibles jusqu'à un total de [1].</content>
+	<content contentuid="hc3cc0b8ag4ad9g66aeg8276gd5ebb11fd21a" version="1">Or</content>
+	<content contentuid="heceab507g87bcg483ege775g58583eec243a" version="1">Transformé en or. Ne peut pas se déplacer ni effectuer d'actions, d'actions bonus ou de réactions.</content>
+	<content contentuid="hb599c9bdg6ffbgf30fge9a3gb105b344106f" version="1">Calme</content>
+	<content contentuid="h5db7ba62gf9c2gdee8gf1c2geb82f47bfb30" version="1">Vous réduit au silence ainsi qu'une autre créature</content>
+	<content contentuid="h9d2e8e51g9997gf8e8g38b1g03b14558ff7a" version="1">Fluorescence</content>
+	<content contentuid="ha8189646gb34bg9483gef0ag9cc09916c959" version="1">A un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AbilityCheck"&gt;Test de compétence&lt;/LSTag&gt; de &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;.</content>
+	<content contentuid="h398b591cg2cdcg3fc6g881egbcd408d5f47b" version="1">Grâce du chat</content>
+	<content contentuid="h8f941680g1f88gd255g20a5g93839e78f546" version="1">A un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur les &lt;LSTag Tooltip="AbilityCheck"&gt;Test de compétence&lt;/LSTag&gt; de &lt;LSTag Tooltip="Dexterity"&gt;Dextérité&lt;/LSTag&gt; et ne subit que la moitié des dégâts de chute.</content>
+	<content contentuid="h193fa8e9gd9baga916gab68g7e49cd79c51a" version="2">Projection d'eau</content>
+	<content contentuid="h8f77a7f9g0a1dg536cg150dgc6cc65d4b3c8" version="3">&lt;LSTag Type="Status" Tooltip="SPLASHED"&gt;Asperge&lt;/LSTag&gt; une créature. Elle peut utiliser une &lt;LSTag Tooltip="BonusAction"&gt;action bonus&lt;/LSTag&gt; ce tour et se déplacer sans provoquer d'&lt;LSTag Tooltip="OpportunityAttack"&gt;Attaques d'opportunité&lt;/LSTag&gt;.</content>
+	<content contentuid="h066184edgcc5dg9e46g6b55g32f5adc7924e" version="1">Vous réduit au &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silence&lt;/LSTag&gt; ainsi qu'une autre créature.</content>
+	<content contentuid="hd3703834g246dg88abg3c85g6c2a76aae6d6" version="1">Éclaboussure</content>
+	<content contentuid="h472fd759g3f20gc05bg82ebg5334a00d6d92" version="1">Désengager</content>
+	<content contentuid="hc0e87b09g34e3g1635gf069g7091ccf5a847" version="1">Peut se déplacer sans provoquer d'&lt;LSTag Tooltip="OpportunityAttack"&gt;Attaques d'opportunité&lt;/LSTag&gt;.</content>
+	<content contentuid="ha02d0bc6g6f8agdb4ag9b08g8f2ab68b1440" version="1">Foncer</content>
+	<content contentuid="haa44ae3cg5235g32e3gfb6cg453d7c841c15" version="1">La &lt;LSTag Tooltip="MovementSpeed"&gt;Vitesse de déplacement&lt;/LSTag&gt; est doublée.</content>
+	<content contentuid="hc4a2f8bbge6a3g0cc3g7480gd308d9965d84" version="1">Fougue</content>
+	<content contentuid="h0e7ce4a8gbfb4g3da1gcb37g1f00bfee94d1" version="1">Peut effectuer une &lt;LSTag Tooltip="Action"&gt;action&lt;/LSTag&gt; supplementaire pendant ce tour.</content>
+	<content contentuid="h72cf3fd3gc199gfab6gb8c3g290d1da94bde" version="1">Peut effectuer une &lt;LSTag Tooltip="BonusAction"&gt;action bonus&lt;/LSTag&gt; ce tour et se déplacer sans provoquer d'&lt;LSTag Tooltip="OpportunityAttack"&gt;Attaques d'opportunité&lt;/LSTag&gt;.</content>
+	<content contentuid="hbafe92ebg3a61g55e8g512eg840a53c5ad21" version="1">Quantification</content>
+	<content contentuid="h1668f0dag3a7dgc063g2d32g0c13bcc9bdc6" version="3">Quantifier les probabilités d'une créature : elle inflige des valeurs moyennes de dégâts avec les armes et gagne un bonus de +1d4 aux &lt;LSTag Tooltip="AbilityCheck"&gt;Tests de compétences&lt;/LSTag&gt; ainsi qu'à vos &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaques&lt;/LSTag&gt; mais ne peut pas obtenir un résultat supérieur à 18.</content>
+	<content contentuid="h1542d447g2eafge0b3g1473g9bd5e21cd8c6" version="1">Quantifié</content>
+	<content contentuid="h3fe8c444gc246gf8a9g61aag392b0b8b1243" version="1">Vos dégâts sont moyennés et vous ne pouvez pas obtenir un 1 ou un 20.</content>
+	<content contentuid="hf0bc0556ge529ga351gc201g3323394eaa23" version="1">Quantifié</content>
+	<content contentuid="h394bb2e6g7480g9f83g81deg2cce0ac4e866" version="3">Inflige des dégâts moyens avec les armes et gagne un bonus de +1d4 aux &lt;LSTag Tooltip="AbilityCheck"&gt;Tests de compétences&lt;/LSTag&gt; ainsi quà ses &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaques&lt;/LSTag&gt; mais ne peut pas obtenir un résultat supérieur à 18.</content>
+	<content contentuid="h5470bd78ga61fg99c4g32fagf952303564f9" version="1">Acouphènes</content>
+	<content contentuid="h9176d406g0ff7g6055g04acgfafb928ca10d" version="2">Afflige une cible d'un son strident. inflige [1] à chaque tour en l'activant en tant qu'&lt;LSTag Tooltip="BonusAction"&gt;action bonus&lt;/LSTag&gt;.</content>
+	<content contentuid="hf11d04a7g6035g0245ge913gb874ed14c56c" version="1">A des d'acouphènes</content>
+	<content contentuid="h6f78eb09g6a26gfb7cgbe1fg3e447e0773db" version="1">Acouphènes débloqués : Activer</content>
+	<content contentuid="h23103060ga49cg00bag604cgda6f0bcd9ff7" version="1">%%% EMPTY</content>
+	<content contentuid="ha1b2ec0bg2311gf3e1g9342ga9909ae3bb26" version="1">Activer les acouphènes</content>
+	<content contentuid="he0cdd3e7g7979g98d5gb890g5116d416961f" version="1">Activer les acouphènes et inflige [1].</content>
+	<content contentuid="h90168949g75efg0a04ga8e4g11e368601b9e" version="1">Acouphènes</content>
+	<content contentuid="h0c170d24g103dgbfd4gc312g01e30c1943ef" version="1">Le lanceur de sorts peut déclencher l'acouphène de cette créature pour lui infliger automatiquement 1d4 points de dégâts Psychiques.</content>
+	<content contentuid="h42e6ddeagf80bg0164geac0g09ce868001b7" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; S'il n'est pas activé à chaque tour, l'acouphène se dissipe et le sort prend fin.</content>
+	<content contentuid="hef0c7301g38c5gee18g7f20g4ded89acf08d" version="1">Atrophie de la pierre</content>
+	<content contentuid="h50e4bda7g5a19g975cgbd19ge780fa897cc5" version="1">L'entité affectée entre en pétrification et devient &lt;LSTag Tooltip="Resistant"&gt;Résistante&lt;/LSTag&gt; aux dégâts non magiques de type Contondant, Perforant et Tranchant.</content>
+	<content contentuid="hc5af25fcg6f41g90b4g5f4ag7bbea2327857" version="1">Fluorescence</content>
+	<content contentuid="h57a068bcg0b70g2503gb2d8g6935c23a8b0f" version="1">Gagne un bonus de +1d4 aux &lt;LSTag Tooltip="AbilityCheck"&gt;Tests de compétences&lt;/LSTag&gt; d'Investigation et de Perception.</content>
+	<content contentuid="h806e8240g8092g44d8g95b0g9184533fdffc" version="2">Railler</content>
+	<content contentuid="hf1bc6b58g1e9bg5877gace9g4f10467df908" version="2">Insulter une créature de manière si virulante que vous lui infligez &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Brûlure&lt;/LSTag&gt;.</content>
+	<content contentuid="h12be3b70g0a8bg5bdfgc67eg57a4f180ff77" version="2">Railler</content>
+	<content contentuid="hb20d8437g71f4g600ag9778g27db899af715" version="1">Insulte une créature : elle subit un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur son prochain &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt;.</content>
+	<content contentuid="hdd3e995age9e0g5944g906bg01c5ea2c7902" version="1">Moquerie cruelle</content>
+	<content contentuid="hcc1589d2gdd55g1118g4ceagd22549dc6b6b" version="1">Insulte une créature : elle a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur son prochain &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt;.</content>
+	<content contentuid="h90383f9fg6810g6b8cgd6b6g3c3481dfa8f7" version="1">Moquerie vicieuse</content>
+	<content contentuid="h0438d1e1g0f4fga3f0g1265g71476eeab799" version="1">Insulte une créature : elle a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur son prochain &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt;.</content>
+	<content contentuid="h713efb44g54c7gfacfgeaaag46951d8994c8" version="1">Railler</content>
+	<content contentuid="hfe640bd6g2217g9145g6953g22c1c238308c" version="1">Brûler les ennemis</content>
+	<content contentuid="h2a96115dg0283gbf9fg294egb9f2194f111e" version="1">Trait de feu</content>
+	<content contentuid="he696b335g4dd2g0e19g07f4g4c9b30cb46d5" version="1">Lancez un jet de feu.</content>
+	<content contentuid="h75d95bfeg9ddeg8f71g09f5gaefd7f44855b" version="2">Railler</content>
+	<content contentuid="hf41ab5b7g05c3g07b2g136cgbbf642683674" version="1">Obtenez un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt; sur votre prochain &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt;.</content>
+	<content contentuid="h18285429gcd34gfd5fgdda4g5b25c3397b59" version="1">Moquerie vicieuse</content>
+	<content contentuid="h3e02c117gff01g5baeg41e8gd574d7a06157" version="1">Insulte une créature : elle a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur son prochain &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt;.</content>
+	<content contentuid="h655954ccg0adcg21e3g1ab8g205077319a72" version="1">Railler</content>
+	<content contentuid="h33785c42g40dfgd3ccge807g0a9dffab5b98" version="1">Insulte une créature : elle a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur son prochain &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt;.</content>
+	<content contentuid="hb646acb6g7b24g3e03gbd56g2c6b59d3bc03" version="1">Railler</content>
+	<content contentuid="h0b80307ag4749g4abdg5a6fgc016e2b978df" version="1">Afflige une cible d'un son strident. inflige [1] à chaque tour en l'activant en tant qu'&lt;LSTag Tooltip="BonusAction"&gt;action bonus&lt;/LSTag&gt;.</content>
+	<content contentuid="hcb99241agcc0fgd6f3ga1f0ga25bf71db8e4" version="1">Moquerie vicieuse</content>
+	<content contentuid="h3bba1fc3g7b7dgf0f2g03f5ge7960a06a183" version="1">Insulte une créature : elle a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur son prochain &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt;.</content>
+	<content contentuid="h074e6c33g0055g9b22g5133gc90c3969680b" version="1">Railler</content>
+	<content contentuid="h6f3e3892gd48fg9417g2bf5gc4a76c4e1548" version="1">Le lanceur de sorts peut déclencher l'acouphène de cette créature pour lui infliger automatiquement 1d4 points de dégâts psychiques.</content>
+	<content contentuid="h13e78f9dg0660g09e3g346ageb6d0de298c2" version="1">Est Raillé</content>
+	<content contentuid="he61f578fgd4bbgfdf6ge83eg8159a71397a7" version="1">Moquerie vicieuse débloqué</content>
+	<content contentuid="h37c55b53g85bdg17e7g5b2cgc27d66a891ce" version="1">%%% EMPTY</content>
+	<content contentuid="h65afc94agfd06g4079g63d6g5de4daed6f45" version="2">Railler</content>
+	<content contentuid="h4a0bf276gc7a8g30b3g2a83g36f177d688d8" version="4">Insulte une créature : elle a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur ses &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegardes&lt;/LSTag&gt; de Charisme et prend [1] si elle attaque.</content>
+	<content contentuid="h526f9ec9g402dge3b3g2cc3geab69168985a" version="2">Raillé</content>
+	<content contentuid="h26e7cd5fgcbd2gea91g141bg63112a3923c3" version="1">A un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur le &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt; suivant.</content>
+	<content contentuid="ha790cd25g85d9gf2f8g9014g55bc3b96694e" version="1">Brûlure</content>
+	<content contentuid="hb8d30e6ag1370gc45ag8ebegc69e6f0ee078" version="1">Subit [1] par tour.</content>
+	<content contentuid="h53595ddagf2dcg6a6ageda1g5291a60cc2cd" version="1">%%% EMPTY</content>
+	<content contentuid="h3b2091cbg2062g7e8fg16b5g0420fff02f38" version="1">Les &lt;LSTag Tooltip="SavingThrow"&gt;Jets de sauvegardes&lt;/LSTag&gt; de Charisme de l'entité affecté ont un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; et ils prennent [1] à la fin de leur tour s'ils ont attaqué.</content>
+	<content contentuid="h6102b2e6g43d7g34a3g155fg6ed2058dd78d" version="1">%%% EMPTY</content>
+	<content contentuid="hfbab7314gbe38gd705gd7f5g166cb5611798" version="1">Moquerie vicieuse</content>
+	<content contentuid="hdf3d8015g9aeegc50ag0ac3gda427e6c5793" version="1">Insulte une créature : elle a un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt; sur son prochain &lt;LSTag Tooltip="AttackRoll"&gt;Jet d'attaque&lt;/LSTag&gt;.</content>
+</contentList>

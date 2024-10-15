@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="extraacationname" version="1">Action supplémentaire</content>
+	<content contentuid="extraacationdescript" version="1">Octroie un point d'action supplémentaire à utiliser.</content>
+	<content contentuid="extraacationname2" version="1">Action supplémentaire_2</content>
+	<content contentuid="extraacationdescript" version="1">Octroie un point d'action supplémentaire à utiliser.</content>
+	<content contentuid="wilddstrikedescript" version="1">Votre forme sauvage gagne un point d'action supplémentaire.</content>
+	<content contentuid="wilddstrikedescript2" version="1">Votre forme sauvage gagne un point d'action supplémentaire.</content>	
+</contentList>
