@@ -190,14 +190,20 @@
   <content contentuid="h97b9fe41g6062g7427geeb7ge098877c2413" version="1">Sethan : Hache à deux mains spirituelle</content>
   <content contentuid="h5bc4fb51g6beegb874g77d2ga1bd53c4fbd7" version="1">Invoquez un jumeau spirituel de Sethan à un endroit que vous pouvez voir, infligeant [1] sur un coup.</content>
   <content contentuid="hdd6e0e66g9046gab41g26aegff1c5f80bb65" version="1">Main de mage</content>
--  <content contentuid="h5c2c704cgea0fgd3b9g868eg5f420dbe4a6a" version="1">Créer une main spectrale capable de manipuler des objets et d'interagir avec eux.</content>
--  <content contentuid="h01f04812g6612gfa87g6ef9g016ba63e01d7" version="1">Pouvoir psionique de githyanki : Main de mage</content>
--  <content contentuid="h8a00cacbgf480g9841g7b83g188613c5c1f0" version="1">Créer une main spectrale invisible capable de manipuler des objets et d'interagir avec eux.</content>
--  <content contentuid="he9145377g9fb3gf30bgce1ag5723dc0e2d63" version="1">Liane avide</content>
--  <content contentuid="h45cd4388ga93bg426agca92gf65da961b32b" version="1">Invoque une liane géante capable d'attirer les créatures vers elle.</content>
--  <content contentuid="h322cba17ge7fag0bf5gdfd8gde71d7c3771d" version="1">Rayon de lune</content>
--  <content contentuid="hb89446e5g15b0ge540g1f8fg244aa11f276d" version="1">Appelle un faisceau de lumière lunaire qui endommage toute créature qui entre ou commence son tour dans la lumière. Vous pouvez utiliser une action pour déplacer le rayon [1].</content>
--  <content contentuid="hb6341a54g84b6g9c4eg29ffgf25aae54919e" version="1">Rayon de lune : Déplacement</content>
--  <content contentuid="h97c56445g7a5egcff2ga469gadfcf6c38ecf" version="1">Déplacez le faisceau de lumière lunaire jusqu'à [1]. Le rayon de lumière endommage toute créature qui entre ou commence son tour dans la lumière.</content>
-
+  <content contentuid="h5c2c704cgea0fgd3b9g868eg5f420dbe4a6a" version="1">Créer une main spectrale capable de manipuler des objets et d'interagir avec eux.</content>
+  <content contentuid="h01f04812g6612gfa87g6ef9g016ba63e01d7" version="1">Pouvoir psionique de githyanki : Main de mage</content>
+  <content contentuid="h8a00cacbgf480g9841g7b83g188613c5c1f0" version="1">Créer une main spectrale invisible capable de manipuler des objets et d'interagir avec eux.</content>
+  <content contentuid="he9145377g9fb3gf30bgce1ag5723dc0e2d63" version="1">Liane avide</content>
+  <content contentuid="h45cd4388ga93bg426agca92gf65da961b32b" version="1">Invoque une liane géante capable d'attirer les créatures vers elle.</content>
+  <content contentuid="h322cba17ge7fag0bf5gdfd8gde71d7c3771d" version="1">Rayon de lune</content>
+  <content contentuid="hb89446e5g15b0ge540g1f8fg244aa11f276d" version="1">Appelle un faisceau de lumière lunaire qui endommage toute créature qui entre ou commence son tour dans la lumière. Vous pouvez utiliser une action pour déplacer le rayon [1].</content>
+  <content contentuid="hb6341a54g84b6g9c4eg29ffgf25aae54919e" version="1">Rayon de lune : Déplacement</content>
+  <content contentuid="h97c56445g7a5egcff2ga469gadfcf6c38ecf" version="1">Déplacez le faisceau de lumière lunaire jusqu'à [1]. Le rayon de lumière endommage toute créature qui entre ou commence son tour dans la lumière.</content>
+  <content contentuid="hdd6e2282gb9f6ge510gf11dg885bd214f2d4" version="1">Appel de familier : Quasit impertinent</content>
+  <content contentuid="h92407fecg7174gae2cg43e5g084280fdd71a" version="1">Irrévocable</content>
+  <content contentuid="haaf7a87agf20cg5d77g5daeg29a60097274f" version="1">Cette invocation ne peut être renvoyée.</content>
+  <content contentuid="h458103bfg73bagafd4gbe68g3b33fbc7e873" version="1">Une Journée à la Cour féérique blanche : Invocation de déva</content>
+  <content contentuid="h65b9081eg755bgb8f4gcdb6g1dcc8c6b0d52" version="1">Le déva peut lancer &lt;LSTag Type="Spell" Tooltip="Target_Wrathful_Smite_Deva"&gt;Châtiment courroucé&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Teleportation_Revivify"&gt;Revivify&lt;/LSTag&gt; et &lt;LSTag Type="Spell" Tooltip="Target_ConcussiveSmash"&gt;Attaque commotionnante&lt;/LSTag&gt;.</content>
+  <content contentuid="h50d6c98fge46cgd48dg429fg97d573f7bebe" version="1">Danse Macabre</content>
+  <content contentuid="h40265c3dg4737g7603g60f0gd4d8494223ce" version="1">Créez [1] goules qui se battent à vos côtés.</content>
 </contentList>

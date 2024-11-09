@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h7a191deagde7ag4ae9g3a09gb781fcff8b65" version="1">Ténèbres</content>
+  <content contentuid="h110ee408gc911g4ad4g964bga0a79b5b352d" version="1">Ténèbres : Sphère</content>
+  <content contentuid="hf645e523dabe4f4582d14d37e5300b4a3522" version="1">Choisissez un point à portée pour remplir une zone de [1] pendant la durée de l'effet. Les ténèbres se répandent jusque dans les moindres recoins.&lt;br&gt;&lt;Br&gt;Une créature avec la &lt;LSTag Type="Passive" Tooltip="Darkvision"&gt;Vision dans le noir&lt;/LSTag&gt; ne peut pas voir à travers cette obscurité, et la lumière non magique ne peut pas l'éclairer.</content>
+  <content contentuid="h7a6a0d14g571eg4094g8c55gcec7076c7357" version="1">Ténèbres : Objet Enchanté</content>
+  <content contentuid="h87a8298cg0030g402eg9be0g682be6159eb9" version="1">Choisissez un objet que vous tenez, qui n'est pas porté ou dans votre inventaire.&lt;br&gt;&lt;Br&gt;L'obscurité émane de l'objet et se déplace avec lui. Couvrir complètement la source de l'obscurité avec un objet opaque, tel qu'un bol ou un casque, bloque l'obscurité.</content>
+  <content contentuid="h23ea5096c2ca487794f0544969a8efa7196f" version="1">Flèche brisée des Ténèbres</content>
+  <content contentuid="h5c55526f9fa245028ae5fd714d69378d1aca" version="1">Une créature aveuglée échoue automatiquement tous ces &lt;LSTag Tooltip="AbilityCheck"&gt;Test de caractéristique&lt;/LSTag&gt; qui nécessite de voir.&lt;br&gt;&lt;Br&gt;Les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; contre cette créature ont un &lt;LSTag Tooltip="Advantage"&gt;Avantage&lt;/LSTag&gt;, et les jets d'attaque de cette dernière ont un &lt;LSTag Tooltip="Disadvantage"&gt;désavantage&lt;/LSTag&gt;.</content>
+  <content contentuid="hb520ddae838b4ef985c3b8da4274c6e95g73" version="1">Fortement obscurci</content>
+  <content contentuid="h2643f9dbb1664974ac555c5f0fedf0ee091b" version="1">Une créature fortement obscurcie est cachée de la vue de tous parce que dans un nuage épais ou bien dans un brouillard opaque. Les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; contre cette créature ont un &lt;LSTag Tooltip="Disadvantage"&gt;Désavantage&lt;/LSTag&gt;.&lt;br&gt;&lt;Br&gt;La créature est effectivement &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Aveuglé&lt;/LSTag&gt; alors qu'elle est fortement obscurci.</content>
+  <content contentuid="h17293b9bgd533g66d2g97f0gd94ccf2d66fa" version="1">Enveloppé dans les Ténèbres</content>
+  <content contentuid="hbc2ecd5egd9a9g4fa8g8486g91bd783691c6" version="1">Une créature dans l'obscurité magique est fortement obscurcie, et les &lt;LSTag Tooltip="AttackRoll"&gt;Jets d'attaque&lt;/LSTag&gt; contre cette créature ont un &lt;LSTag Tooltip="Disadvantage"&gt;désavantage&lt;/LSTag&gt;.&lt;br&gt;&lt;Br&gt;La créature est &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Aveuglé&lt;/LSTag&gt; et ne peut rien percevoir, à moins qu'elle ne possède une capacité à voir à travers les ténèbres magiques.</content>
+  <content contentuid="hbf932bdb03cd4ccca8aa0c66f7ce8dc72cf2" version="1">Impossible de voir la cible !</content>
+  <content contentuid="hf3c01bbb2ae74485a4c17bae0e4609d17864" version="1">Le sort nécessite une ligne de mire !</content>
+  <content contentuid="h0047dc0243f243419fb2ff78202b02b29cdf" version="1">La cible est éclairée par la lumière du jour !</content>
+</contentList>
