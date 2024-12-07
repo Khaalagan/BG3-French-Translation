@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="d2c9b8b4de1745f2a45f8ae8d542e671" version="2">Libération des éléments</content>
+	<content contentuid="eb83d607e1774110812f5cff2b05cf47" version="6">Votre maîtrise des éléments vous permet d'imprégner vos frappes à mains nues de l'élément voulu. Vous débloquez deux éléments au 3e niveau, et un de plus aux 5e et 9e niveaux. Chaque élément que vous avez débloqué gagne une forme améliorée au 6ème niveau. La foudre pour le feu, le tonnerre pour l'air, la glace pour l'eau et la lave pour la terre.</content>
+	
+	<content contentuid="461a4ed2992e4719bf851ce9379703e5" version="2">Tissage élémentaire</content>
+	<content contentuid="f356d1d596384de493e8c2e3fd15a57a" version="6">Vous intégrez les éléments dans vos arts martiaux. Votre rafale de coups ne coûte plus un point de ki si vous l'utilisez pour effectuer une attaque élémentaire.</content>
+
+	<content contentuid="5f60ec3e3bf74a0bb5a34e822776f63b" version="2">Libération incandescente</content>
+	<content contentuid="91a2a9bf80eb4b30b68c7decc11c6726" version="6">Vous avez débloqué la capacité d'imprégner de feu vos frappes à mains nues.</content>
+	
+	<content contentuid="f45dd836b1c44153b050b2ec1f372bc9" version="2">Crocs du serpent de feu</content>
+	<content contentuid="08780e844adf4e368c5ee87551d9317a" version="6">Vous faites jaillir des vrilles de flammes de vos mains et de vos pieds. La portée de vos frappes à mains nues augmente d'environ 10 mètres et ils infligent désormais des dégâts de feu. Au moment de l'attaque, vous pouvez dépenser 1 point de ki pour infliger des dégâts de feu supplémentaires égaux à deux jets de votre dé d'arts martiaux et faire en sorte que toutes les frappes à mains nues que vous portez ce tour-ci infligent des dégâts de feu supplémentaires égaux à votre dé d'arts martiaux.</content>
+	
+	<content contentuid="2ea47d5de6a644b59dbbabbe5374d710" version="6">Vous faites jaillir des vrilles de flammes de vos mains et de vos pieds. La portée de vos frappes à mains nues augmente d'environ 10 mètres et ils infligent désormais des dégâts de feu.</content>
+
+	<content contentuid="bcebb2c379dd4f6ca5d382ee0de85458" version="2">Crocs du serpent de feu (Insuflé de Ki)</content>
+
+	<content contentuid="4b01da341b2d4a1d8ebb758349c972bc" version="2">Griffes du tigre blanc</content>
+	<content contentuid="de660674878340099d467893152e4ebc" version="6">Vous concentrez l'énergie de votre corps en une décharge de foudre. Au moment de l'attaque, vous pouvez dépenser 1 point de ki pour gagner un tour de charge de foudre et obliger la cible à effectuer un jet de sauvegarde de Constitution. En cas d'échec, elle est étourdit pendant un tour.</content>
+	
+	<content contentuid="255adf51c9e942b1b3998015563f78e0" version="2">Griffes du tigre blanc (Insuflé de Ki)</content>
+	
+	<content contentuid="9ccd326186694839bff445f80f8b429f" version="6">Vous concentrez l'énergie de votre corps en un éclair. La portée de vos frappes à mains nues augmente d'environ 10 mètres et ils infligent désormais des dégâts électrique.</content>
+	
+	<content contentuid="5a3b153a39564a498cb15812fb9a8df6" version="2">Libération aérienne</content>
+	<content contentuid="c1fbb3f3c0784992b6939c6c4566bb11" version="6">Vous avez débloqué la capacité de frapper vos ennemis avec la pression de l'air.</content>
+	
+	<content contentuid="1cb29e1e77eb4e4fb1e82dc5a6a0eabc" version="2">Poing de l’air</content>
+	<content contentuid="b5795e6495d24c38af52b58cd0c38132" version="6">Vous créez un souffle d'air comprimé qui frappe comme un poing puissant. La portée de vos frappes à mains nues augmente d'environ 10 mètres et si l'attaque touche une cible, vous pouvez dépenser 1 point de ki pour la forcer à faire un jet de sauvegarde de Force et de Constitution. En cas d'échec en Force, la cible est repoussée de 20 pieds et mise à terre, et en cas d'échec en Constitution, elle est hébétée pendant 1 tour.</content>
+
+	<content contentuid="bb728907ccb147caabf20a0aa7d52257" version="2">Poing de l’air (Insuflé de Ki)</content>
+	
+	<content contentuid="c7c735f887fc4df693e0638c67736bf6" version="6">Vous créez un souffle d'air comprimé qui frappe comme un poing puissant. La portée de vos frappes à mains nues augmente d'environ 10 mètres</content>
+
+	<content contentuid="bb1a3b81de9e4211a68eef6c12f30f40" version="2">Poing des quatre tonnerres</content>
+	<content contentuid="695daa408b424953aa234ba5ceca3ea0" version="6">Votre poing franchit le mur du son avec une puissance tonitruante. La portée de vos frappes à mains nues augmente d'environ 10 mètres et ils infligent désormais des dégâts de tonnerre. Lorsque vous portez l'attaque, vous pouvez dépenser 1 point de ki pour infliger un tour de Réverbération et forcer la créature et chaque créature dans un rayon de 3 mètres à effectuer un jet de sauvegarde de Force. En cas d'échec, les créatures sont repoussées à 3 mètres de l'attaque.</content>
+	
+	<content contentuid="b75ade91b63f44e296f8e612a502f8c5" version="2">Poing des quatre tonnerres (Insuflé de Ki)</content>
+	
+	<content contentuid="722aab83b206448d8f46b86c1d71d148" version="6">Votre poing franchit le mur du son avec une puissance tonitruante. La portée de vos frappes à mains nues augmente d'environ 10 mètres et ils infligent désormais des dégâts de tonnerre.</content>
+	
+	<content contentuid="5176fb39000c495a93916496ac4a499f" version="2">Libération aqueuse</content>
+	<content contentuid="93bd4981c83d4cc9a2bf9ab2f0425c3f" version="6">Vous avez débloqué la capacité de projetter des torrents d'eau.</content>
+	
+	<content contentuid="adb2150524f14a7dac08470143454c52" version="2">Fouet de l’onde</content>
+	<content contentuid="2c0f225afaeb47da92380642d9a609b8" version="6">Vous créez un fouet d'onde qui peut pousser et tirer une créature pour la déséquilibrer. La portée de vos frappes à mains nues augmente de 10 mètres et si l'attaque touche une cible, vous pouvez dépenser 1 point de ki pour l'asperger et l'obliger à faire un jet de sauvegarde de Force. Elle devient mouillée et en cas d'échec, elle est tirée sur 20 pieds et mise à terre.</content>
+	
+	<content contentuid="78a1a448238d43749e5fad88e8f83226" version="2">Fouet de l’onde (Insuflé de Ki)</content>
+	
+	<content contentuid="bfa997bedf424a908657c194d5e7fcd1" version="6">Vous créez un fouet d'onde qui peut pousser et tirer une créature pour la déséquilibrer. La portée de vos frappes à mains nues augmente de 10 mètres</content>
+
+	<content contentuid="da05a60c7b884962905515454e1ca2a8" version="2">Serre du dragon de givre</content>
+	<content contentuid="dd418b02981c47648d1cbf5b7978a0af" version="6">Vous créez un éclat de glace et le lancez sur une créature. La portée de vos frappes à mains nues augmente de 10 mètres et ils infligent désormais des dégâts de froid. Si l'attaque touche une cible, vous pouvez dépenser 1 point de ki pour appliquer 2 tours d'Incrustation de givre à la créature et réduire sa vitesse de 3 mètres pendant un tour.</content>
+
+	<content contentuid="2bff2ecebd564cbda4c2b2ca3c214fee" version="2">Serre du dragon de givre (Insuflé de Ki)</content>
+	
+	<content contentuid="e21cc7fc144e45ecaf61d8115c8a92e7" version="6">Vous créez un éclat de glace et le lancez sur une créature. La portée de vos frappes à mains nues augmente de 10 mètres ils infligent désormais des dégâts de froid.</content>
+	
+	<content contentuid="753c4214623841eb929d07d329417bd9" version="2">Libération tellurique</content>
+	<content contentuid="425a14f86b534968b42def5f21365c2f" version="6">Vous avez acquis la capacité de manipuler la terre elle-même contre vos ennemis.</content>
+	
+	<content contentuid="df23c8e098ad4c92b4a5cf0003d80325" version="2">Poing de l'empereur de l'armée d'argile</content>
+	<content contentuid="279514d5206d4776ba7eccc64a8b5404" version="6">Vous arrachez un morceau de roche du sol et le lancez vers un ennemi. La portée de vos frappes à mains nues augmente de 10 mètres. Lorsque vous portez l'attaque, vous pouvez dépenser 1 point de ki pour forcer la cible et chaque créature située dans un rayon de 3 mètres à effectuer un jet de sauvegarde de Dextérité. En cas d'échec, la créature subit des dégâts perforants égaux à deux jets de votre dé d'arts martiaux.</content>
+
+	<content contentuid="54cadece62c44c77b2ce31f2962d8072" version="2">Poing de l'empereur de l'armée d'argile (Insuflé de Ki)</content>
+	
+	<content contentuid="c6f1f49a17b74003a8961a7137d047ff" version="6">Vous arrachez un morceau de roche du sol et le lancez vers un ennemi. La portée de vos frappes à mains nues augmente de 30 mètres.</content>	
+		
+	<content contentuid="ca58812b072e45f09877788e0a4996ba" version="2">Fureur de la terre en ébullition</content>
+	<content contentuid="1cc55e431a6d4911b210c24390156074" version="6">Vous faites fondre la terre devant vous et la projetez sur vos ennemis. La portée de votre attaque à mains nues augmente de 30 mètres et ils infligent désormais des dégâts de feu. Si l'attaque touche une cible, vous pouvez dépenser 1 point de ki pour la forcer à faire un jet de sauvegarde de Constitution. En cas d'échec, elle devient en fusion pendant 1 tour. Elle subit des dégâts de feu égaux à un jet de votre dé d'arts martiaux au début de chacun de ses tours et sa CA est réduite de 1 pour chaque tour de fusion.</content>
+		
+	<content contentuid="b075d711734347ea83e488f0d3740623" version="2">Fureur de la terre en ébullition (Insuflé de Ki)</content>
+	
+	<content contentuid="b958e6d167f943fe96d115017b7b5175" version="6">Vous faites fondre la terre devant vous et la projetez sur vos ennemis. La portée de votre coup à mains nues augmente de 30 pieds et elle est convertie en dégâts de feu.</content>
+
+
+	<content contentuid="539c47618e904e61838c49ce3270418e" version="2">En fusion</content>
+	<content contentuid="26097d59e5f84563997f680d1ffb17f8" version="6">La créature est actuellement en feu et recouverte de magma. Elle subit des dégâts de feu égaux à un jet de votre dé d'arts martiaux au début de chacun de ses tours et sa Classe d'armure est réduite de 1 sur cette durée.</content>
+	
+	<content contentuid="7614205f3e7f4a2a876a44f6f8008c68" version="2">Coup de pied de la taupe
+</content>
+	<content contentuid="b522c2b4391a491ebea17ba09ddb20b9" version="6">Vous lancez un barrage de pierres perforantes en forme de cône. Vous dépensez 1 point de ki pour lancer Tremblement de terre.</content>
+	
+	<content contentuid="b31d1c15dd9c435f969237964586883e" version="2">Emprise de l'empereur de l'armée d'argile</content>
+	<content contentuid="3154ab0236ba4d06b87a34403142e1ab" version="6">Vous créez un poing de terre pour saisir et retenir vos ennemis. Vous dépensez 2 points de ki pour lancer le poing de terre de Maximillian.</content>
+	
+	<content contentuid="1a38eca4f51e4b5e87f20ee1379e4e0a" version="2">Arc élémentaire</content>
+	<content contentuid="dde04a73805845f9baaa8d2c1ac77519" version="6">Vous projetez un arc d'énergie élémentaire contre vos ennemis.</content>
+	
+	<content contentuid="0b2694a031524a939ddccd7b077eae67" version="2">Effilochage de la Terre</content>
+	<content contentuid="926cfdd41cd5436fb6e96e1d9abf0043" version="6">Vous transformez le sol en pointes vicieuses qui transpercent tous ceux qui les traversent. Vous dépensez 2 points de Ki pour lancer Croissance épineuse.</content>
+	
+	<content contentuid="10621f67f46548f78f204762a8871889" version="2">État zen</content>
+	<content contentuid="eb2315a804c649ae93a736fa6936f8d1" version="6">Les éléments se répandent dans vos veines et vous entrez dans un état d'autonomie. Vous bénéficiez d'un certain nombre d'avantages en fonction des éléments que vous avez libérés</content>
+	
+	<content contentuid="cd5dc642a5ea4acd9b83fd3a3a4a5909" version="2">État zen (Feu)</content>	
+	<content contentuid="9799deef8669486bab3b57f7ecc8867c" version="6">Vous gagnez une résistance aux dégâts de feu et vos attaques infligent des dégâts de feu supplémentaires égaux à un jet de votre dé d'arts martiaux.</content>
+	
+	<content contentuid="cc91d0356f894b438b55e89d4f32bd2b" version="2">État zen (Air)</content>	
+	<content contentuid="fb3bb43f0e8449b4a8bcfe4a8db28a9a" version="6">Vous gagnez une résistance aux dégâts de foudre et de tonnerre et pouvez voler.</content>	
+	
+	<content contentuid="b8bafac755d04c32b456a0286bcd2c22" version="2">État zen (Eau)</content>	
+	<content contentuid="74fd8b6edf4e430cb0af683bfd9b6612" version="6">Vous gagnez une résistance aux dégâts de froid et récupérez un nombre de points de vie égal à votre dé d'arts martiaux à chaque tour.</content>	
+		
+	<content contentuid="h8aa38f28g6b22g4be1g8f06g3af2145b1f92" version="2">État zen (Terre)</content>	
+	<content contentuid="hd31f7ee7g2301g43d6g97bdgdfb4b1af420e" version="6">Vous gagnez +2 AC, ne pouvez pas être déplacé contre votre volonté, et des points de vie temporaires égaux à votre niveau de moine.</content>	
+		
+	<content contentuid="4137c4c71b194d7caa0faf1dd4706b33" version="2">Graine du soleil</content>
+
+	<content contentuid="86367e809a5e448894fbde4c87422919" version="2">Dissimulation des vents</content>
+
+	<content contentuid="95ff463e51e848dfac63fef5fcb3e53d" version="2">Miroir de lumière de la matriarche</content>
+
+	<content contentuid="f3a426348884486aa2acd77ffabeab05" version="2">Rivière de la flamme affamée</content>
+
+	<content contentuid="37dc6be0dddf4d4c9ab93adae43b116f" version="2">Défense de la montagne éternelle</content>
+
+	<content contentuid="2bf6ba9e6df248e8acf9492ffa1625dc" version="2">Grêle battante</content>
+
+	<content contentuid="75ef581e9af24b5c828a3974d2855495" version="2">Vague de terre roulante</content>
+
+	<content contentuid="8a1d58aeb8e246a9999a922f56163560" version="2">Glacier des Palissades</content>
+	
+	<content contentuid="add3eb36e3944b4493d1626633bba5d6" version="2">Terre vers le ciel</content>
+	
+	<content contentuid="a06f3a60af944ab0909834a2182a0070" version="2">Arc en flocon de neige</content>
+    
+	<content contentuid="144795ebfc95486497ac07c7c98f71c5" version="2">Baiser de Naraka</content>
+	
+	<content contentuid="bbdf444dbe7d4de5b5667860c8353d06" version="2">De l'autre côté de la vallée</content>
+	
+	<content contentuid="1e4d6f81052348258ce74cfe6291999e" version="2">Harmonie du feu et de l'eau</content>
+	<content contentuid="71f3e32991a64fbf8b6c87b7073f886e" version="6">Regagnez la moitié de vos points de Ki comme action.</content>
+	
+	<content contentuid="52b6e9ab5c044947988f65e716c6e38b" version="2">Amélioration de l'harmonie entre le feu et l'eau</content>
+	<content contentuid="7ffa4a1a9c514b05be2c66a1d9620fe8" version="6">Vous pouvez désormais utiliser Harmonie du feu et de l'eau comme action bonus.</content>
+	
+	<content contentuid="107dd49bbd3442dd8f6645fb493c3ed9" version="2">Maîtrise de l'harmonie du feu et de l'eau</content>
+	<content contentuid="7063cb5239f043c3bd652a0ff9d5a262" version="6">Vous pouvez désormais utiliser Harmonie du feu et de l'eau une fois par repos court.</content>
+	
+	<content contentuid="ccff9b9e11074fb48637de3624d031d8" version="2">Barrage des pics montagneux</content>
+	
+	<content contentuid="3de92637000949ab9d9bef02fe025472" version="2">L'égide de glace et de feu</content>
+	
+	<content contentuid="fc3db6392bae4cefa4823f6d4478515b" version="2">Adepte des éléments</content>
+	<content contentuid="53b0b72f06b140ad98f3503de3e24aac" version="6">Vous avez acquis la capacité de manipuler des versions plus avancées des éléments. La foudre pour le feu, le tonnerre pour l'air, la glace pour l'eau et la lave pour la terre.</content>
+	
+
+</contentList>

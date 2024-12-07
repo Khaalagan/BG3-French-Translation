@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="hc68becb2g64a7g5b23g6bedg7b2dc5d144f1" version="2">IA de Gabe (Marionnettiste)</content>
+  <content contentuid="h3e68d757g80a1gb082g5f88g3b1f38b044d7" version="1">Utilise l'IA spécifiée par Larian pour toutes les invocations du groupe dans un rayon de 20 m.</content>
+  <content contentuid="ha1c2b685ge6ccgef7egb928g0abbb3224994" version="1">IA de Gabe (Mêlée)</content>
+  <content contentuid="h901e9a8cgd742gab7fg5574gff6999fd6afc" version="1">Appliquer le type d'IA sélectionné à la cible</content>
+  <content contentuid="ha76cc762g5ba0g3886g9dd2g432479b27c4e" version="1">IA de Gabe (Lanceur de sorts)</content>
+  <content contentuid="hdd674223g7879gc81dgd6c1g4b4cc6b9b8e2" version="1">Appliquer le type d'IA sélectionné à la cible</content>
+  <content contentuid="h916d8779g130cgbf42g172dgc04b2079228f" version="1">IA de Gabe (Sournois)</content>
+  <content contentuid="h490398b0ged99g38d9gca37ga4185225c278" version="1">Appliquer le type d'IA sélectionné à la cible</content>
+  <content contentuid="h5e51e47eg0a7fg15a3g3cdfg866227dc8489" version="1">IA de Gabe (À distance)</content>
+  <content contentuid="h89b05b09g8489g2ef4g9054g62ec82512cdd" version="1">Appliquer le type d'IA sélectionné à la cible</content>
+  <content contentuid="h9c6c93a1ga885gdd78g8a40g4b826667331c" version="1">IA de Gabe (Bête)</content>
+  <content contentuid="h8b607eadgd8c1gadcfg5eddgf5afbdd66530" version="1">Appliquer le type d'IA sélectionné à la cible</content>
+  <content contentuid="hd9d20a22gfe57g5c21g3991gf0f3109b22b2" version="1">IA de Gabe (Moine)</content>
+  <content contentuid="h8959f311g4cc0gcbe1g1a02g978d81772891" version="1">Appliquer le type d'IA sélectionné à la cible</content>
+  <content contentuid="h94950e77g86f5gac63ga00dgce64715fdb59" version="1">IA de Gabe (Quatre éléments)</content>
+  <content contentuid="h8926f8f6g5048g1bdag4718g8d4373bc946a" version="1">Appliquer le type d'IA sélectionné à la cible</content>
+  <content contentuid="h4862ef59g4a1bg6103g6726gc17b2da84581" version="1">IA de Gabe (Retirer)</content>
+  <content contentuid="h1cd2f7deg8261g42abgd879g2988b53c5af4" version="1">Supprime le type d'IA de Gabe de la cible</content>
+  <content contentuid="ha9288dccg165agaa9agdc07ga1053ad8858c" version="2">IA de Gabe (Mêlée)</content>
+  <content contentuid="hce403e67g1a75g63b2gbc13g5b5cb5251f5a" version="2">Agit de son propre chef</content>
+  <content contentuid="ha4b695adg4f0eg08e3g28a9g3b1305e5bd5b" version="2">IA de Gabe (Lanceur de sorts)</content>
+  <content contentuid="hba1101e4gb011g7117g8ab6gdb9954a4c7d9" version="2">Agit de son propre chef</content>
+  <content contentuid="h6eb15330ge2ddg49a5gf24eg37d94f84d67c" version="2">IA de Gabe (Sournois)</content>
+  <content contentuid="h6824161cg3b71g2e82g1d2fg9089f9ade6b6" version="2">Agit de son propre chef</content>
+  <content contentuid="h5b52826bg1fb8g60cagdce3gcb15aff80317" version="2">IA de Gabe (À distance)</content>
+  <content contentuid="h8a1095c4g764cg69bbg5edag94edaf6cda3b" version="2">Agit de son propre chef</content>
+  <content contentuid="h9ccf470bg6117g8889g43f0gf05cdd028879" version="2">IA de Gabe (Bête)</content>
+  <content contentuid="h5d5862c9g0cb5g933fge13dgd534b1bbaf0a" version="2">Agit de son propre chef</content>
+  <content contentuid="hdcebe8a7ga89ag2da8gf1a3g8cb6fd56e013" version="2">IA de Gabe (Moine)</content>
+  <content contentuid="he153abdbg6cbegd132g011bga0d20b8a3ed9" version="2">Agit de son propre chef</content>
+  <content contentuid="h53f721cfgc9e0g81e2g2459ga159e48a6da0" version="2">IA de Gabe (Quatre éléments)</content>
+  <content contentuid="hc9aa5e3eg1939g7615g6335gb7d2f75ee63c" version="2">Agit de son propre chef</content>
+  <content contentuid="h1fd82367gba7agd7beg5324g44cefc6f8040" version="2">Réinitialisation du temps de recharge et de l'emplacement des sorts</content>
+  <content contentuid="h05e49ad5gd21bged40gb5fbgd8098c5f4763" version="2">Réinitialise les temps de recharge et les emplacements de sorts à la fin du combat. Utilisez-le pour réduire le nombre de repos long nécessaires. N'oubliez cependant pas d'en faire tout de même pour suivre les intrigues !</content>
+  <content contentuid="h20d426bbg0348gdaa0g83a5g7cc25ae917dc" version="2">Réinitialisation du temps de recharge et de l'emplacement des sorts</content>
+  <content contentuid="h4d8df0d4gd659g73f8g695eg75a3200f3a61" version="2">Réinitialise les temps de recharge et les emplacements de sorts à la fin du combat. Utilisez-le pour réduire le nombre de repos long nécessaires. N'oubliez cependant pas d'en faire tout de même pour suivre les intrigues !</content>
+  <content contentuid="h729c522agc76ag70a0g9e84g8e682ccb4166" version="2">Réinitialisation du temps de recharge et de l'emplacement des sorts</content>
+  <content contentuid="h488f4caeg3e1agb4b1g368cgdbbaa1a0bf33" version="2">Réinitialise les temps de recharge et les emplacements de sorts à la fin du combat. Utilisez-le pour réduire le nombre de repos long nécessaires. N'oubliez cependant pas d'en faire tout de même pour suivre les intrigues !</content>
+  <content contentuid="hf92ca0bcg37fagb843g4e9dgbf1e55dfe217" version="2">IA de Gabe (Mêlée)</content>
+  <content contentuid="hd1991c32gee2egc622g448dg19463e1eaf25" version="2">Agit de son propre chef</content>
+  <content contentuid="heb3e0c02ge76aga19bgd56ag876dd00f8219" version="2">IA de Gabe (Mêlée)</content>
+  <content contentuid="hd9af08d7g84e7g3baegc2begb1df45282f77" version="2">Agit de son propre chef</content>
+  <content contentuid="heb85b881gb30bg55cfg3c57g559b20caecb3" version="2">IA de Gabe (Lanceur de sorts)</content>
+  <content contentuid="hf03a7eabgde67g811egbe32g316055881412" version="2">Agit de son propre chef</content>
+  <content contentuid="h93b91dc6gf103gee42g3d86g976e94d8c88c" version="2">IA de Gabe (Lanceur de sorts)</content>
+  <content contentuid="h210ca63eg94ccgc87fge161g871be3ef3ae7" version="2">Agit de son propre chef</content>
+  <content contentuid="hdfd4e63dgfbd8g3a0fg2c14gab05dc8afb14" version="2">IA de Gabe (Sournois)</content>
+  <content contentuid="hbe99b20cg0b42g6139g97fdg8022e5716178" version="2">Agit de son propre chef</content>
+  <content contentuid="h3cf6b198g36f1g4779g012eg76e6c2d8eea6" version="2">IA de Gabe (Sournois)</content>
+  <content contentuid="hf494a40egd3b6g3f73gfa63g331bdf1e29a5" version="2">Agit de son propre chef</content>
+  <content contentuid="hb69d74a2gb96bgebc7g4d3ege837ff0cad11" version="2">IA de Gabe (À distance)</content>
+  <content contentuid="h966c20a5gf8d8gb465g258cgb73c83b5eae6" version="2">Agit de son propre chef</content>
+  <content contentuid="h134211ddg07c3gcb2cgefefgcdef8c716ef2" version="2">IA de Gabe (À distance)</content>
+  <content contentuid="hc7e13ca5g0b4cgc2f3g5638g56298c224fd7" version="2">Agit de son propre chef</content>
+  <content contentuid="h22b3a655gb726g8304g72dcg89fe5439f6c9" version="2">IA de Gabe (Bête)</content>
+  <content contentuid="hf4ca03ebgda9cgc522g15c6g43e39cc78e5d" version="2">Agit de son propre chef</content>
+  <content contentuid="hac5e4734gd5b6gb841g49degd377ffd46592" version="2">IA de Gabe (Bête)</content>
+  <content contentuid="h5e7293c1g9eb7gf6abge58cg8600c4e783b3" version="2">Agit de son propre chef</content>
+  <content contentuid="hf24f58f3g710fga0c1g24a6gf165e5a5d9b9" version="2">IA de Gabe (Moine)</content>
+  <content contentuid="h22d2486egb637gaf14g6abeg238f2b479cf5" version="2">Agit de son propre chef</content>
+  <content contentuid="hacb3c728gd1c8gba60g19f6g1f874c06d95d" version="2">IA de Gabe (Moine)</content>
+  <content contentuid="h578803a0gbb5ag27f7g0618gdf41c5202dd8" version="2">Agit de son propre chef</content>
+  <content contentuid="h9fa582b3gf40agfd00gbcb3g58b89443bf1c" version="2">IA de Gabe (Quatre éléments)</content>
+  <content contentuid="h612fe8edgb6e2g130aga733gb18096a2bdf4" version="2">IA de Gabe (Quatre éléments)</content>
+  <content contentuid="h87e185c3g66ddge225g1e84g49c70b8dc044" version="2">Agit de son propre chef</content>
+  <content contentuid="he83daaeagef84gabf0ga0d5g36de78d18141" version="2">Agit de son propre chef</content>
+  <content contentuid="hfc63d310ge84egc5ddg656cge05699c84d2d" version="1">IA de Gabe débloqué</content>
+  <content contentuid="h41ecac4bgc332g0cd0g7197g7170efb81234" version="1">Débloque l'IA pour les compagnons et les invocations</content>
+  <content contentuid="h518effe0g8bb6gadefg343ag90f5df695e79" version="11">IA de Gabe</content>
+  <content contentuid="hf64efb70g2498ge14dg13d5gf58834657d7c" version="19">Bois-moi</content>
+  <content contentuid="h28ea3114g5697gd35bg2c49g05f183b3bfae" version="19">Bois-moi</content>
+  <content contentuid="h9dc54d16gad0agd38fgf6eag91dbab125416" version="9">Permet d'ajouter le contrôle de l'IA aux compagnons et aux invocations.</content>
+  <content contentuid="hb7536fbcg1b60g2f0fg0793g72d83b86d9af" version="1">Gobelins aux trésors !</content>
+  <content contentuid="ha46177c4g105dgf2acgdc22g82b89ac883bd" version="1">Permet de voir les gobelins aux trésors, autrement invisibles, qui se déchaînent dans le monde.</content>
+  <content contentuid="hee1a30cbg45eag2878gbbbcgafbed278e2b3" version="2">Argent Argent Argent Argent ! ARGENT !</content>
+  <content contentuid="h66f44f4fgd581g5db5g6064gd7d53941a1a8" version="1">Woo!</content>
+  <content contentuid="h7136e4bfg9336g2f7fgae2egdede36401f40" version="2">BOOM!</content>
+  <content contentuid="h193e260dg1eacg35f6ga42egbb1802244dea" version="1">BOOM!</content>
+  <content contentuid="h552c1b2cg1252g99a5g833dg3cf91c7228ec" version="1">Pétrifié</content>
+  <content contentuid="h62a8a96bgee6eg441dge22dgce9d3ad7f663" version="1">Ugh</content>
+  <content contentuid="hb6f69bfcg40bfg7f96g1692ge3ca31543624" version="1">Les gobelins abondent !</content>
+  <content contentuid="h9de77ffdg7c56gc799g1722g166b32599cd8" version="1">Il faut tous les attraper !</content>
+  <content contentuid="h61652afcge4a1g1e15g175dg95e0f7504af3" version="1">Vue du gobelin</content>
+  <content contentuid="h6d5315d5gbcffg4008ge949g30c259b5a3c1" version="1">Permet de voir les gobelins aux trésors, autrement invisibles, qui se déchaînent dans le monde.</content>
+  <content contentuid="hea08a3c9g4ef1g09d6ge90ag236ff8093ac1" version="1">Tic-tac Tic-tac...</content>
+  <content contentuid="hd7793eccgaf0eg0184g0636g509ae1a8001f" version="1">Au revoir !</content>
+  <content contentuid="he539587bgcc6dg7594ge8e2gb6f6be090720" version="1">Fuyez !</content>
+  <content contentuid="h169021c5g6570gf186g9d27gfc583dda54ec" version="1">S'enfuir !</content>
+  <content contentuid="h598b8341gace1gaef0g3b65g6b3c4a130596" version="1">Gobelins aux trésors</content>
+  <content contentuid="h67039605gc8d2g77cfg7b6bg65b4eefa3407" version="9">Bois-moi !</content>
+  <content contentuid="hecaf1d21g706bg0e3ag06cfgf50bc25b828b" version="1">Gobelins aux trésors</content>
+  <content contentuid="h489493a0gdcd5g4071gf266gf488f287cd4c" version="2">Gobelins aux trésors</content>
+  <content contentuid="h4e7526d4g563eg8b99gbea6gefd81d0b1ddf" version="4">IA de Gabe</content>
+  <content contentuid="h6cdfe365g1dc5g4511g4842ge9f317cd6d77" version="6">IA de Gabe</content>
+  <content contentuid="h67e0b42dg8ccfg3cdbgc634g5f8a7cc4e719" version="1">Gobelin aux trésors</content>
+  <content contentuid="hbd20d33fgf6e3g01a0gba58gdaba667a17a2" version="12">Sac de chaos étouffant</content>
+  <content contentuid="h597b33e7gd54agf390gab01gd74faa082ae3" version="12">Une moisissure brune et odorante recouvre entièrement ce sac de paille.</content>
+  <content contentuid="h901b050dge5e3g9beagb154gd111a731aae6" version="1">Si vous voulez rire un bon coup, lâchez par terre !</content>
+  <content contentuid="hfcea3519g8945g77b8g8584g63bf81b526d6" version="1">LarIAn</content>
+  <content contentuid="h9bd8c70dg9585g8588g6dd0g882372877311" version="1">LarIAn</content>
+  <content contentuid="ha3ceed56gb545gd145gd7f5gdb02566176c3" version="1">LarIAn</content>
+  <content contentuid="hd9e8bf5bg516fgfec8g23d5g6214d3678275" version="1">Utilise l'IA spécifiée dans le fichier de créatures.</content>
+  <content contentuid="ha0533174g6852gc76bg578bgf475feafcba1" version="1">LarIAn</content>
+  <content contentuid="h28a800a1gdac6g2e1bg67edg710006fab4e6" version="1">Agit de son propre chef</content>
+  <content contentuid="hf46532dcg31a5g67a0gb001g3cd61384f1ad" version="1">IA de Gabe (Aura de l'IA par défaut)</content>
+  <content contentuid="h240dc842g515cg45bcg47a9gf4d8bcec75f3" version="1">Applique automatiquement l'IA par défaut aux créatures invoquées.</content>
+  <content contentuid="h5bbf151eg27a2gfa10gb28ag16318b7984d5" version="1">Agit de son propre chef</content>
+  <content contentuid="hb676494fgcebage1b4g23fdg56e2a030398e" version="1">Agit de son propre chef</content>
+  <content contentuid="h60fa5244g3816ga796gf3e4gc5fe8d7338c1" version="1">IA de Gabe (Aura de l'IA par défaut)</content>
+  <content contentuid="hc95a76f8gc376g1963g039fgf9e3f285e5f9" version="1">Applique automatiquement l'IA par défaut aux créatures invoquées.</content>
+  <content contentuid="h49d2cb0ag9f16gad08g7618gf3460e0356f8" version="1">Nigaud</content>
+  <content contentuid="h88b051c6ge08dg0d7cgf92eg00092c657f21" version="1">Parfois, les gens sont idiots. Compensez leur stupidité.</content>
+  <content contentuid="h5a8feb74gc29fg8a45g3583gac1ecab57f54" version="1">Contrôle des ressources</content>
+  <content contentuid="h89bc743dgf72cgcaaag586eg1e7decc4c704" version="1">Vérification des points d'action</content>
+  <content contentuid="hf3547c8fgd979g8767g404cg7ff4c47d4051" version="1">Vérification des points d'action bonus</content>
+  <content contentuid="h8a9a6834gc01fgf968g025bgf904c7776988" version="1">Nigaud</content>
+  <content contentuid="hb37ea208g96acgb6f5g6a2agaae5ef8dbaba" version="1">Parfois, les gens sont idiots. Compensez leur stupidité.</content>
+  <content contentuid="h9af38d66gbe02gb5b7g386dg5e8bc3afebaf" version="1">Trouver l'équilibre</content>
+  <content contentuid="he9476836g6b54gb9e4gb76fg54ac1e71a70e" version="1">Lorsque vos amis sont des idiots, vous avez parfois besoin d'aide. Activez cette option pour contrebalancer les défaillances de l'IA.</content>
+</contentList>
